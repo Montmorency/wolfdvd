@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+{% block body %}
+  <ul class=entries>
+  {% for title in titles %}
+    <li> <h2> {{title.wolfloc}}<a href={{ url_for('show_spec_movie', wolfloc=title.wolfloc)}}> {{title.title}} </a></h2></li>
+  {% endfor%}
+  </ul>
+{% endblock %}

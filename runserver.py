@@ -1,2 +1,2 @@
 from wolfdvd import app
-app.run()
+app.run(debug=True)

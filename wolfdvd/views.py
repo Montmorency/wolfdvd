@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 import sqlite3
 import pickle
@@ -25,13 +26,26 @@ def get_db():
     g.sqlite_db = connect_db()
   return g.sqlite_db
 
-#This website has four views
+titles = pickle.load(open('./wolfdvd/static/tits_protected.pckl','r'))
+
+titles_wolfloc = {film['wolfloc']: film for film in titles}
+
 @app.route('/')
 def show_entries():
   db = get_db()
   cur = db.execute('select title, text from entries order by id desc')
   entries = cur.fetchall()
   return render_template('show_entries.html', entries=entries)
+
+@app.route('/movies/<wolfloc>')
+def show_spec_movie(wolfloc):
+  film = titles_wolfloc[wolfloc]
+
+  return render_template('film.html', film=film)
+
+@app.route('/movies')
+def show_movies():
+  return render_template('show_movies.html', titles=titles)
 
 @app.route('/add', methods=['POST'])
 def add_entry():
@@ -63,12 +77,6 @@ def logout():
   session.pop('logged_in', None)
   flash('You were logged out')
   return redirect(url_for('show_entries'))
-
-#for displaying individual titles:
-@app.route('/title')
-def view_title():
-  error = None
-  return render_template('title.html')
 
 if __name__=='__main__':
   app.run()

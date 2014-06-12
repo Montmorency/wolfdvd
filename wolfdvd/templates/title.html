@@ -1,9 +1,0 @@
-{% extends "layout.html" %}
-{% block body %}
-  <ul class=titles>
-  {% for title in titles %}
-    <li><h2> {{title}} </h2> 
-    <li><a href={{title.url}}> {{title.title}} <\a>
-  {% endfor %}
-  </ul>
-{% endblock %}
