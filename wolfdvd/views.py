@@ -3,9 +3,9 @@ import os
 import sqlite3
 import pickle
 from import_list import load_db
-from wolfdvd import app
-from flask import Flask, request, session, g, redirect, url_for, abort,\
-                  render_template, flash
+from wolfdvd     import app
+from flask       import Flask, request, session, g, redirect, url_for, abort,\
+                        render_template, flash
 
 def connect_db():
   """Connects to the specific database."""
@@ -27,25 +27,23 @@ def get_db():
   return g.sqlite_db
 
 titles = pickle.load(open('./wolfdvd/static/tits_protected.pckl','r'))
-
 titles_wolfloc = {film['wolfloc']: film for film in titles}
 
 @app.route('/')
+def show_movies():
+  return render_template('show_movies.html', titles=titles)
+
+@app.route('/movies/<wolfloc>')
+def show_spec_movie(wolfloc):
+  film = titles_wolfloc[wolfloc]
+  return render_template('film.html', film=film)
+
+@app.route('/movies')
 def show_entries():
   db = get_db()
   cur = db.execute('select title, text from entries order by id desc')
   entries = cur.fetchall()
   return render_template('show_entries.html', entries=entries)
-
-@app.route('/movies/<wolfloc>')
-def show_spec_movie(wolfloc):
-  film = titles_wolfloc[wolfloc]
-
-  return render_template('film.html', film=film)
-
-@app.route('/movies')
-def show_movies():
-  return render_template('show_movies.html', titles=titles)
 
 @app.route('/add', methods=['POST'])
 def add_entry():
