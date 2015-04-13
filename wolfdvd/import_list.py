@@ -87,7 +87,6 @@ def find_imdb_ids(tits, ia):
 				print a 
 				tit.imdbid = s_results[a].movieID
 
-
 def pop_database():
 	f = open('back5.dat','r').read()
 	title_re = re.compile(r'00-00-00-00.*?\n(.*?);\n\n', re.S)
@@ -164,30 +163,29 @@ def print_list():
 if __name__=='__main__':
 	#flist = open('list.tex','w')
 	#tits = pop_database()
-  	f = open('tits_protected.pckl','r')
-	tits = pickle.load(f)
-	for tit in tits:
-		try:
-			print tit['director']
-		except:
-			tit['director']=''
+  f = open('tits_protected.pckl','r')
+  tits = pickle.load(f)
+  for tit in tits:
+    try:
+      print tit['director']
+    except:
+      tit['director']=''
 
-	for tit in tits:	
-		tit['wolfloc'] = tit['wolfloc'].strip()
-		tit['director'] = tit['director'].strip()
-		tit['title'] = tit['title'].strip()
+  for tit in tits:	
+    tit['wolfloc'] = tit['wolfloc'].strip()
+    tit['director'] = tit['director'].strip()
+    tit['title'] = tit['title'].strip()
 	
-	f.close()
-	for i in range(1,4):	
-  		f = open('wolf_list%s.tex'%(str(i)),'w')
-		if i==1:
-			tits.sort(key=lambda title:title['wolfloc'])
-			gen_list(tits,i)
-		elif i==2:
-			tits.sort(key=lambda title:title['title'])
-			gen_list(tits,i)
-		if i==3:
-			tits.sort(key=lambda title:title['director'])
-			gen_list(tits,i)
-
-		f.close()
+  f.close()
+  for i in range(1,4):	
+    f = open('wolf_list%s.tex'%(str(i)),'w')
+    if i==1:
+      tits.sort(key=lambda title:title['wolfloc'])
+      gen_list(tits,i)
+    elif i==2:
+      tits.sort(key=lambda title:title['title'])
+      gen_list(tits,i)
+    if i==3:
+      tits.sort(key=lambda title:title['director'])
+      gen_list(tits,i)
+    f.close()

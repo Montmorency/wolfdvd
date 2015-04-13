@@ -29,9 +29,14 @@ def get_db():
 titles = pickle.load(open('./wolfdvd/static/tits_protected.pckl','r'))
 titles_wolfloc = {film['wolfloc']: film for film in titles}
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def show_movies():
-  return render_template('show_movies.html', titles=titles)
+  
+  sort_key = request.args.get('sort', 'title')
+  if sort_key not in {'wolfloc', 'title', 'director'}:
+    return abort(500, "Invalid sort key")
+  titles_sorted = sorted(titles, key=lambda x: x[sort_key])
+  return render_template('show_movies.html', titles=titles_sorted)
 
 @app.route('/movies/<wolfloc>')
 def show_spec_movie(wolfloc):
