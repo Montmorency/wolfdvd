@@ -146,7 +146,7 @@ def tit_sort(tits):
 
 def print_list():
 #tits = pop_database()
-  	f = open('tits_protected.pckl','r')
+ 	f = open('tits_protected.pckl','r')
 	tits = pickle.load(f)
 	for tit in tits:	
 		tit['wolfloc'] = tit['wolfloc'].strip()
