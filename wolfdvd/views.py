@@ -74,20 +74,31 @@ def show_spec_movie(wolfloc):
   film = titles_wolfloc[wolfloc]
   return render_template('film.html', film=film)
 
+new_titles={}
+#enter the wolflocation and imdbid of the title
 @app.route('/add_entry', methods=['GET','POST'])
 def add_entry():
 # titles.append(re)
+  f = open('new_titles.pckl','w')
   if request.method=='POST':
     film = {}
     film['wolfloc']  = request.form['wolfloc']
-#    film['director'] = request.form['director']
-#    film['title']    = request.form['title']
     film['imdbid']   = request.form['imdbid']
-#    film['year']  = '1998'
-    return render_template('film.html', film=film)
+    new_titles[film['wolfloc']] = film['imdbid']
+#Save a static copy of the new_titles dictionary.
+    pickle.dump(new_titles,f)
+    return render_template('add_movie.html')
   else:
     return render_template('add_movie.html')
 #return render_template('add_movie.html')
+
+@app.route('/remove_entry', methods=['GET','POST'])
+def remove_entry():
+  if request.method=='POST':
+    film['wolfloc']  = request.form['wolfloc']
+    new_db = [title for title in title_db if title['wolfloc'] != wolfloc]
+  else:
+    return render_template('remove_movie.html')
 
 if __name__=='__main__':
   app.run()
