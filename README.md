@@ -1,15 +1,12 @@
-The `WOLFDVD` is a Python/Flask framework for managing and accessing 
+`WolfFDVD` is a Python/Flask framework for managing and accessing 
 the Wolfson College DVD library.
 
 The package is developed and supported by:
   -Henry Lambert
 
 ## Dependencies:
-  -[IMDbPY library](http://imdbpy.sourceforge.net/)
-  -[Flask](http://flask.pocoo.org/)
-
-
-## Features
+  - [IMDbPY](http://imdbpy.sourceforge.net/)
+  - [Flask](http://flask.pocoo.org/)
 
 
 ##Quick Start
