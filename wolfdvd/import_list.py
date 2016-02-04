@@ -143,7 +143,6 @@ def tit_sort(tits):
 		return tits
 
 def print_list():
-#tits = pop_database()
  	f = open('tits_protected.pckl','r')
 	tits = pickle.load(f)
 	for tit in tits:	

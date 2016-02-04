@@ -1,10 +1,10 @@
 import sys
-from import_list import Film, load_db, save_db, tit_sort, add_new_titles
-import pickle
 import re
-from datetime import datetime
 import imdb
+import pickle
+from datetime import datetime
 from datetime import date
+from import_list import Film, load_db, save_db, tit_sort, add_new_titles
 
 def load_titles():
   tits = load_db('03-12-2013-1626.pckl')
