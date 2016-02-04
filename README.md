@@ -2,7 +2,7 @@
 the Wolfson College DVD library.
 
 The package is developed and supported by:
-  -Henry Lambert
+  - Henry Lambert
 
 ## Dependencies:
   - [IMDbPY](http://imdbpy.sourceforge.net/)
