@@ -29,7 +29,8 @@ at the end of the webpage describing the video:
 
 	http://www.imdb.com/title/tt0278500/
 
-This produces a file: 
+This produces a file in the same directory where you are running the
+server from (i.e. where ever python run_server.py was executed): 
     new_titles.pckl
 
 These new additions are then integrated into the
@@ -37,8 +38,19 @@ existing database using:
 ```
     python import_imdb.py new_titles.pckl title_database.pckl
 ```
+
+This generates a new file with the title title_databse_$date.pckl.
+If this is copied to the wolfdvd/static/tits_protected.pckl the database
+is effectively updated. 
+
+Development note The intention is to stop using pckl databases and
+migrate to the peewee database.
+
+
 Tex files for printing pdf lists of the library can be generated using:
 ```   
    python import_list.py title_database.pckl 
 ```
+
+The tex files are then compiled in the usual way.
 
