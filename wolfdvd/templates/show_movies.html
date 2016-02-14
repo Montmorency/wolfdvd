@@ -1,8 +1,17 @@
 {% extends "layout.html" %}
 {% block body %}
   <ul class=entries>
+{#  <form action="{{ url_for('show_movies') }}" method="GET">
+    <input type="submit" name="sort" value="wolfloc" />
+    <input type="submit" name="sort" value="title"   />
+  </form> #}
+
+  <a href='?sort=wolfloc'>Sort by ID</a>
+  <a href='?sort=title'>Sort by title</a>
+  <a href='?sort=director'>Sort by director</a>
+
   {% for title in titles %}
-    <li>  {{title.wolfloc}} <h2><a href={{ url_for('show_spec_movie', wolfloc=title.wolfloc)}}> {{title.title}} </a></h2> {{title.director}} </li>
+    <li>{{title.wolfloc}}<em><a href={{ url_for('show_spec_movie', wolfloc=title.wolfloc)}}> {{title.title}} </a></em>{{title.director}}</li>
   {% endfor%}
   </ul>
 {% endblock %}

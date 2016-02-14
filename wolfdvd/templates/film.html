@@ -4,8 +4,12 @@
   <img src="{{ url_for('static', filename='ianwright.jpg') }}" alt="Ian Wright">
   <ul class=entries>
   <li>{{ film.director }}</li>
-  <li>{{ film.country }}</li>
   <li>{{ film.wolfloc }}</li>
+  <li>{{ film.imdb }}</li>
+{# Once we have imdbid can
+   just link to any info
+   we want on their page.
   <li>{{ film.year }}</li>
+  <li>{{ film.country }}</li> #}
   </ul>
 {% endblock %}

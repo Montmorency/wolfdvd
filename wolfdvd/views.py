@@ -26,35 +26,19 @@ def get_db():
     g.sqlite_db = connect_db()
   return g.sqlite_db
 
+#titles is a list of dictionaries with keys
+#wolfloc, title, director, imdbid
 titles = pickle.load(open('./wolfdvd/static/tits_protected.pckl','r'))
+for title in titles:
+  try:
+    title['director']
+  except KeyError:
+    title['director']="Unknown"
+  try:
+    title['imdbid']
+  except:
+    title['imdbid']=0
 titles_wolfloc = {film['wolfloc']: film for film in titles}
-
-@app.route('/')
-def show_movies():
-  return render_template('show_movies.html', titles=titles)
-
-@app.route('/movies/<wolfloc>')
-def show_spec_movie(wolfloc):
-  film = titles_wolfloc[wolfloc]
-  return render_template('film.html', film=film)
-
-@app.route('/movies')
-def show_entries():
-  db = get_db()
-  cur = db.execute('select title, text from entries order by id desc')
-  entries = cur.fetchall()
-  return render_template('show_entries.html', entries=entries)
-
-@app.route('/add', methods=['POST'])
-def add_entry():
-  if not session.get('logged_in'):
-    abort(401)
-  db = get_db()
-  db.execute('insert into entries (title,text) values (?,?)',
-              [request.form['title'], request.form['text']])
-  db.commit()
-  flash('New entry was successfull posted')
-  return redirect(url_for('show_entries'))
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
@@ -67,14 +51,74 @@ def login():
       else:
           session['logged_in'] = True
           flash('You were logged in')
-          return redirect(url_for('show_entries'))
+          return redirect(url_for('show_movies'))
   return render_template('login.html', error=error)
 
 @app.route('/logout')
 def logout():
   session.pop('logged_in', None)
   flash('You were logged out')
-  return redirect(url_for('show_entries'))
+  return redirect(url_for('show_movies'))
+
+#Main Routes: DVD list, invidual page layout, adding to database
+@app.route('/', methods=['GET', 'POST'])
+def show_movies():
+  sort_key = request.args.get('sort', 'wolfloc')
+  if sort_key not in {'wolfloc', 'title', 'director'}:
+    return abort(500, "Invalid sort key")
+  titles_sorted = sorted(titles, key=lambda x: x[sort_key])
+  return render_template('show_movies.html', titles=titles_sorted)
+
+@app.route('/movies/<wolfloc>')
+def show_spec_movie(wolfloc):
+  film = titles_wolfloc[wolfloc]
+  return render_template('film.html', film=film)
+
+new_titles={}
+#enter the wolflocation and imdbid of the title
+@app.route('/add_entry', methods=['GET','POST'])
+def add_entry():
+# titles.append(re)
+  f = open('new_titles.pckl','w')
+  if request.method=='POST':
+    film = {}
+    film['wolfloc']  = request.form['wolfloc']
+    film['imdbid']   = request.form['imdbid']
+    new_titles[film['wolfloc']] = film['imdbid']
+#Save a static copy of the new_titles dictionary.
+    pickle.dump(new_titles,f)
+    return render_template('add_movie.html')
+  else:
+    return render_template('add_movie.html')
+#return render_template('add_movie.html')
+
+@app.route('/remove_entry', methods=['GET','POST'])
+def remove_entry():
+  if request.method=='POST':
+    film['wolfloc']  = request.form['wolfloc']
+    new_db = [title for title in title_db if title['wolfloc'] != wolfloc]
+  else:
+    return render_template('remove_movie.html')
 
 if __name__=='__main__':
   app.run()
+
+#These routes are to view linked to the SQL-database 
+#might want to migrate there eventually, 
+#currently just using pickled dictionary
+#@app.route('/movies')
+#def show_entries():
+#  db = get_db()
+#  cur = db.execute('select title, text from entries order by id desc')
+#  entries = cur.fetchall()
+#  return render_template('show_entries.html', entries=entries)
+#@app.route('/add', methods=['POST'])
+#def add_entry():
+#  if not session.get('logged_in'):
+#    abort(401)
+#  db = get_db()
+#  db.execute('insert into entries (title,text) values (?,?)',
+#              [request.form['title'], request.form['text']])
+#  db.commit()
+#  flash('New entry was successfull posted')
+#  return redirect(url_for('show_entries'))
