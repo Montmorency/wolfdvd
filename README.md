@@ -18,14 +18,16 @@ The package is developed and supported by:
     python runserver.py 
 ```
 
-  This will launch the web app hosted locally and can be accessed through
-  your browser at http://127.0.0.1:5000/.
+This will launch the web app hosted locally and can be accessed through
+your browser at http://127.0.0.1:5000/.
 
+To add new titles navigate to the view Passing the Films 
+Location and IMDBid. Navigate to http://127.0.0.1:5000/add_entry.
+The only requirements should be the Wolfloc (i.e. the WXXX number)
+and the ID number of the IMDb webstite typically the digits
+at the end of the webpage describing the video:
 
-To add new titles navigate to the view Passing the Films Location and IMDBid.
-If you are running through a local server the address 
-would be http://127.0.0.1:5000/add_entry.
-
+	http://www.imdb.com/title/tt0278500/
 
 This produces a file: 
     new_titles.pckl
@@ -35,7 +37,7 @@ existing database using:
 ```
     python import_imdb.py new_titles.pckl title_database.pckl
 ```
-The tex files for printing the pdfs in the lodge are generated using
+Tex files for printing pdf lists of the library can be generated using:
 ```   
    python import_list.py title_database.pckl 
 ```
