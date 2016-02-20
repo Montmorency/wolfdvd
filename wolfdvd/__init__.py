@@ -13,8 +13,8 @@ app.config.update(dict(
   DATABASE = os.path.join(app.root_path, 'wolfdvd.db'),
   DEBUG = True,
   SECRET_KEY='development key',
-  USERNAME ='admin',
-  PASSWORD='default'
+  USERNAME ='isaiah',
+  PASSWORD='berlin'
 ))
 
 app.config.from_envvar('WOLFDVD_SETTINGS', silent=True)

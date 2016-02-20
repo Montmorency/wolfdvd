@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block body %}
+  <h2> Remove A Film from the Database </h2>
+  <form action="{{ url_for('remove_entry') }}" method="post">
+    <dl>
+      <dt> Wolfloc:
+      <dd><input type=text name=wolfloc>
+      <dt> IMDB ID:
+      <dd><input type=text name=imdbid>
+      <dd><input type=submit value=Post>
+    </dl>
+  </form>
+{% endblock %}

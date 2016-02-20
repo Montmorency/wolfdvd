@@ -1,4 +1,6 @@
 <!doctype html>
+<html lang="en">
+
 <title> Wolfson DVD Library </title>
 <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css')}}">
 <div class=page>
@@ -7,11 +9,24 @@
   {%if not session.logged_in %}
     <a href="{{url_for('login')}}"> log in </a>
   {% else %}
-    <a href=" {{url_for('logout') }}">log out</a>
+  	<a href=" {{url_for('logout') }}"> log out </a>
   {%endif%}
   </div>
+
+
   {% for message in get_flashed_messages() %}
-    <div class=flash>{{ message }} </div>
+   <div class=flash>{{ message }} </div>
   {% endfor %}
+
+	<div class=navigation> 
+		{%if not session.logged_in %}
+   		<li> <a href=" {{url_for('show_movies') }}"> Film Library </a></li>
+		{%else%}
+   		<li> <a href=" {{url_for('show_movies') }}"> Film Library </a></li>
+   		<li> <a href=" {{url_for('add_entry') }}"> Add Entry </a></li>
+   		<li> <a href=" {{url_for('remove_entry') }}"> Remove Entry </a></li>
+		{%endif%}
+	</div>
+
   {% block body %}{% endblock %}
-  </div>
+</div>
