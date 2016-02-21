@@ -3,7 +3,7 @@ import os
 import sqlite3
 import pickle
 from import_list import load_db
-from wolfdvd     import app
+from wolfdvd     import app, import_imdb
 from flask       import Flask, request, session, g, redirect, url_for, abort,\
                         render_template, flash
 
@@ -28,7 +28,13 @@ def get_db():
 
 #titles is a list of dictionaries with keys
 #wolfloc, title, director, imdbid
-titles = pickle.load(open('./wolfdvd/static/tits_protected.pckl','r'))
+#this should be replaced by a decent database ORM
+#for instance... peewee.
+title_db = './wolfdvd/static/tits_protected.pckl'
+f = open(title_db,'r')
+titles = pickle.load(f)
+f.close()
+
 for title in titles:
   try:
     title['director']
@@ -78,47 +84,45 @@ new_titles={}
 #enter the wolflocation and imdbid of the title
 @app.route('/add_entry', methods=['GET','POST'])
 def add_entry():
-# titles.append(re)
-  f = open('new_titles.pckl','w')
-  if request.method=='POST':
-    film = {}
-    film['wolfloc']  = request.form['wolfloc']
-    film['imdbid']   = request.form['imdbid']
-    new_titles[film['wolfloc']] = film['imdbid']
+	global titles
+	f = open('new_titles.pckl','w')
+	if request.method=='POST':
+		film = {}
+		film['wolfloc']  = request.form['wolfloc']
+		film['imdbid']   = request.form['imdbid']
+		new_titles[film['wolfloc']] = film['imdbid']
 #Save a static copy of the new_titles dictionary.
-    pickle.dump(new_titles,f)
-    return render_template('add_movie.html')
-  else:
-    return render_template('add_movie.html')
-#return render_template('add_movie.html')
+		pickle.dump(new_titles,f)
+#		update on the fly
+		locations = [title['wolfloc'] for title in titles]
+		if film['wolfloc'] not in locations:
+		#append new film instance
+			db = open(title_db, 'w')
+			import_imdb.imdb_to_dict(new_titles, titles)
+			picle.dump(titles, db)
+			db.close()
+		else:
+			flash('The wolfson location is already taken!')
+		return render_template('add_movie.html')
+	else:
+		return render_template('add_movie.html')
 
 @app.route('/remove_entry', methods=['GET','POST'])
 def remove_entry():
-  if request.method=='POST':
-    film['wolfloc']  = request.form['wolfloc']
-    new_db = [title for title in title_db if title['wolfloc'] != wolfloc]
-  else:
-    return render_template('remove_movie.html')
+	global titles
+	global title_db
+	if request.method=='POST':
+		wolfloc = request.form['wolfloc']
+		locations = [title['wolfloc'] for title in titles]
+		if wolfloc in locations:
+			titles = [title for title in titles if title['wolfloc'] != wolfloc]
+			f = open(title_db, 'w')
+			pickle.dump(titles, f)
+			f.close()
+			flash('Title removed')
+		else:
+			flash('That wolfloc is not in the library database')
+	return render_template('remove_movie.html')
 
 if __name__=='__main__':
   app.run()
-
-#These routes are to view linked to the SQL-database 
-#might want to migrate there eventually, 
-#currently just using pickled dictionary
-#@app.route('/movies')
-#def show_entries():
-#  db = get_db()
-#  cur = db.execute('select title, text from entries order by id desc')
-#  entries = cur.fetchall()
-#  return render_template('show_entries.html', entries=entries)
-#@app.route('/add', methods=['POST'])
-#def add_entry():
-#  if not session.get('logged_in'):
-#    abort(401)
-#  db = get_db()
-#  db.execute('insert into entries (title,text) values (?,?)',
-#              [request.form['title'], request.form['text']])
-#  db.commit()
-#  flash('New entry was successfull posted')
-#  return redirect(url_for('show_entries'))
