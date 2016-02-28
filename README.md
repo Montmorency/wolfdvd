@@ -18,39 +18,29 @@ The package is developed and supported by:
     python runserver.py 
 ```
 
+##Management Tool
 This will launch the web app hosted locally and can be accessed through
 your browser at http://127.0.0.1:5000/.
 
-To add new titles navigate to the view Passing the Films 
-Location and IMDBid. Navigate to http://127.0.0.1:5000/add_entry.
-The only requirements should be the Wolfloc (i.e. the WXXX number)
-and the ID number of the IMDb webstite typically the digits
-at the end of the webpage describing the video:
+To add/remove new titles navigate to the view add/remove entry.
+The only requirements for adding a title should be 
+the Wolfloc (i.e. the WXXX number)
+and the ID number of the film at the IMDb website. This is 
+typically the digits at the end of the webpage describing the video
+e.g.:
 
 	http://www.imdb.com/title/tt0278500/
 
-This produces a file in the same directory where you are running the
-server from (i.e. where ever python run_server.py was executed): 
-    new_titles.pckl
+The ID would be 278500. These new additions 
+are then automatically integrated into the
+existing database.
 
-These new additions are then integrated into the
-existing database using:
-```
-    python import_imdb.py new_titles.pckl title_database.pckl
-```
-
-This generates a new file with the title title_databse_$date.pckl.
-If this is copied to the wolfdvd/static/tits_protected.pckl the database
-is effectively updated. 
-
-Development note The intention is to stop using pckl databases and
-migrate to the peewee database.
-
-
+##List Formatting
 Tex files for printing pdf lists of the library can be generated using:
 ```   
    python import_list.py title_database.pckl 
 ```
+This command will generate TeX files which can 
+then be compiled in the usual way.
 
-The tex files are then compiled in the usual way.
 

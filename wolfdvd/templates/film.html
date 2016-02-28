@@ -1,15 +1,18 @@
 {% extends "layout.html"%}
 {% block body %}
-  <h1> {{film.title}}</h1>
-  <img src="{{ url_for('static', filename='ianwright.jpg') }}" alt="Ian Wright">
+	{% if session.logged_in %}
+	<div class=navigation> <li> <a href= "{{ url_for('modify_title', wolfloc=film.wolfloc) }}"> Modify Title </a></li></div>
+	{% endif %}
+  <h2> {{film.title}}</h2>
+ {# <img src="{{ url_for('static', filename='ianwright.jpg') }}" alt="{0}".format(film.title)> #}
+  <img src="{{ film.img }}" alt="{0}".format({{ film.title}})> 
   <ul class=entries>
-  <li>{{ film.director }}</li>
-  <li>{{ film.wolfloc }}</li>
-  <li>{{ film.imdb }}</li>
-{# Once we have imdbid can
-   just link to any info
-   we want on their page.
-  <li>{{ film.year }}</li>
-  <li>{{ film.country }}</li> #}
+  <li> {{ film.director }} </li>
+  <li> {{ film.wolfloc }} </li>
+	{% if film.url %}
+ 	<li> <a href={{ film.url }}> IMDB Entry </a></li>
+	{% endif %}
   </ul>
+	<h3> Summary </h3>
+	<p> {{ film.plot }} </p>
 {% endblock %}

@@ -10,7 +10,7 @@ def not_found(error):
     return render_template('404.html'), 404
 
 app.config.update(dict(
-  DATABASE = os.path.join(app.root_path, 'wolfdvd.db'),
+  DATABASE = os.path.join(app.root_path, './static/tits_protected.pckl'),
   DEBUG = True,
   SECRET_KEY='development key',
   USERNAME ='isaiah',

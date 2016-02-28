@@ -1,0 +1,10 @@
+{% extends "layout.html"%}
+{% block body %}
+  <h2> Modify Film</h2>
+ {# <img src="{{ url_for('static', filename='ianwright.jpg') }}" alt="{0}".format(film.title)> #}
+  <ul class=entries>
+	{% for film in films %}
+ 	<li><a href={{ film.url }}> {{film.title}} </a> IMDB ID: {{film.imdbid}} </li>
+	{% endfor %}
+  </ul>
+{% endblock %}

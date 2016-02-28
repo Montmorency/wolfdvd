@@ -80,6 +80,7 @@ def find_imdb_ids(tits, ia):
 		#prompt for which title is the desired title
 			a = raw_input('which num-->')
 			if a=='':
+				tit.imdbid = 0 
 				continue
 			else:
 				a = int(a)

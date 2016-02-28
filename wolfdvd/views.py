@@ -2,49 +2,38 @@
 import os
 import sqlite3
 import pickle
-from import_list import load_db
-from wolfdvd     import app, import_imdb
-from flask       import Flask, request, session, g, redirect, url_for, abort,\
-                        render_template, flash
+from   import_list import load_db
+from   wolfdvd     import app, import_imdb
+from   flask       import Flask, request, session, g, redirect, url_for, abort,\
+                          render_template, flash
+from   imdb import IMDb
+from   BeautifulSoup import BeautifulSoup
 
-def connect_db():
-  """Connects to the specific database."""
-  rv = sqlite3.connect(app.config['DATABASE'])
-  rv.row_factory = sqlite3.Row
-  return rv
-  
-def init_db():
-  """Creates the database tables."""
-  with app.app_context():
-    db = get_db()
-    with app.open_resource('schema.sql', mode='r') as f:
-      db.cursor().executescript(f.read())
-    db.commit()
-
-def get_db():
-  if not hasattr(g,'sqlite_db'):
-    g.sqlite_db = connect_db()
-  return g.sqlite_db
 
 #titles is a list of dictionaries with keys
 #wolfloc, title, director, imdbid
 #this should be replaced by a decent database ORM
 #for instance... peewee.
-title_db = './wolfdvd/static/tits_protected.pckl'
-f = open(title_db,'r')
-titles = pickle.load(f)
-f.close()
+def clean_db(titles):
+	titles_wolfloc = {film['wolfloc']: film for film in titles}
+	return titles_wolfloc
 
-for title in titles:
-  try:
-    title['director']
-  except KeyError:
-    title['director']="Unknown"
-  try:
-    title['imdbid']
-  except:
-    title['imdbid']=0
-titles_wolfloc = {film['wolfloc']: film for film in titles}
+def find_imdb_ids(title):
+	ia = IMDb()
+	results = ia.search_movie(title)
+	return results
+
+@app.before_request
+def before_request():
+	f    = open(app.config['DATABASE'], 'r')
+	g.db = pickle.load(f)
+	f.close()
+
+@app.teardown_request
+def teardown_request(exception):
+	f    = open(app.config['DATABASE'], 'w')
+	pickle.dump(g.db, f)	
+	f.close()
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
@@ -72,56 +61,82 @@ def show_movies():
   sort_key = request.args.get('sort', 'wolfloc')
   if sort_key not in {'wolfloc', 'title', 'director'}:
     return abort(500, "Invalid sort key")
-  titles_sorted = sorted(titles, key=lambda x: x[sort_key])
+  titles_sorted = sorted(g.db, key=lambda x: x[sort_key])
   return render_template('show_movies.html', titles=titles_sorted)
 
 @app.route('/movies/<wolfloc>')
 def show_spec_movie(wolfloc):
-  film = titles_wolfloc[wolfloc]
-  return render_template('film.html', film=film)
+	titles_wolfloc = clean_db(g.db)
+	film = titles_wolfloc[wolfloc]
+	ia = IMDb()
+	try:
+		movie = ia.get_movie(film['imdbid'])
+		if 'cover url' in movie.keys():
+			film['img']   = movie['cover url']
+			film['plot']  = movie.get('plot outline')
+			film['url']   = ia.get_imdbURL(movie)
+		else:
+			print 'no cover_url'
+			film['img']='http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'	
+			film['plot'] = ''
+	except KeyError:
+			film['img'] = 'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'	
+			film['plot'] = ''
+		#urlObj = urllib.urlopen(movie['cover url'])
+		#imageData = urlObj.read()
+		#urlObj.close()
+	return render_template('film.html', film=film)
+
+#This view loops over titles in the database:
+@app.route('/modify_title/<wolfloc>', methods=['GET', 'POST'])
+def modify_title(wolfloc):
+	titles_wolfloc = clean_db(g.db)
+	film = titles_wolfloc[wolfloc]
+	ia = IMDb()
+ 	s_results = ia.search_movie(film['title'])
+	#s_results = []
+	print s_results
+	films = []
+	for result in s_results:
+		film = {}
+		print result
+		film['title']  = result['title']
+		film['imdbid'] = result.movieID
+		film['url']    = ia.get_imdbURL(result)
+		films.append(film)
+	return render_template('modify_title.html', films=films)
 
 new_titles={}
 #enter the wolflocation and imdbid of the title
 @app.route('/add_entry', methods=['GET','POST'])
 def add_entry():
-	global titles
-	f = open('new_titles.pckl','w')
 	if request.method=='POST':
 		film = {}
 		film['wolfloc']  = request.form['wolfloc']
 		film['imdbid']   = request.form['imdbid']
 		new_titles[film['wolfloc']] = film['imdbid']
 #Save a static copy of the new_titles dictionary.
-		pickle.dump(new_titles,f)
 #		update on the fly
-		locations = [title['wolfloc'] for title in titles]
+		locations = [title['wolfloc'] for title in g.db]
 		if film['wolfloc'] not in locations:
 		#append new film instance
-			db = open(title_db, 'w')
-			import_imdb.imdb_to_dict(new_titles, titles)
-			picle.dump(titles, db)
-			db.close()
+			import_imdb.imdb_to_dict(new_titles, g.db)
 		else:
-			flash('The wolfson location is already taken!')
+			flash('That wolfson location is already taken!')
 		return render_template('add_movie.html')
 	else:
 		return render_template('add_movie.html')
 
 @app.route('/remove_entry', methods=['GET','POST'])
 def remove_entry():
-	global titles
-	global title_db
 	if request.method=='POST':
 		wolfloc = request.form['wolfloc']
-		locations = [title['wolfloc'] for title in titles]
+		locations = [title['wolfloc'] for title in g.db]
 		if wolfloc in locations:
-			titles = [title for title in titles if title['wolfloc'] != wolfloc]
-			f = open(title_db, 'w')
-			pickle.dump(titles, f)
-			f.close()
+			g.db = [title for title in g.db if title['wolfloc'] != wolfloc]
 			flash('Title removed')
 		else:
-			flash('That wolfloc is not in the library database')
+			flash('That wolfloc is not in the library database.')
 	return render_template('remove_movie.html')
 
 if __name__=='__main__':
