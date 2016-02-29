@@ -14,6 +14,18 @@ from   BeautifulSoup import BeautifulSoup
 #wolfloc, title, director, imdbid
 #this should be replaced by a decent database ORM
 #for instance... peewee.
+
+def check_db_integrity(titles):
+	for title in titles:
+		try:
+			a = title['director']
+		except KeyError:
+			title['director'] = 'Unknown'
+		try:
+			a = title['wolfloc']
+		except KeyError:
+			title['wolfloc'] = 'WXXX'
+
 def clean_db(titles):
 	titles_wolfloc = {film['wolfloc']: film for film in titles}
 	return titles_wolfloc
@@ -58,6 +70,7 @@ def logout():
 #Main Routes: DVD list, invidual page layout, adding to database
 @app.route('/', methods=['GET', 'POST'])
 def show_movies():
+  check_db_integrity(g.db)
   sort_key = request.args.get('sort', 'wolfloc')
   if sort_key not in {'wolfloc', 'title', 'director'}:
     return abort(500, "Invalid sort key")
