@@ -4,11 +4,11 @@
 	<div class=navigation> <li> <a href= "{{ url_for('modify_title', wolfloc=film.wolfloc) }}"> Modify Title </a></li></div>
 	{% endif %}
   <h2> {{film.title}}</h2>
- {# <img src="{{ url_for('static', filename='ianwright.jpg') }}" alt="{0}".format(film.title)> #}
-  <img src="{{ film.img }}" alt="{0}".format({{ film.title}})> 
+  <img src="{{url_for('static', filename='images/{0}.jpg'.format(film.wolfloc))}}" alt="{0}".format(film.title)>
+ {# <img src="{{ film.img }}" alt="{0}".format({{ film.title}})>  #}
   <ul class=entries>
   <li> {{ film.director }} </li>
-  <li> {{ film.wolfloc }} </li>
+  <li> {{ film.wolfloc }}  </li>
 	{% if film.url %}
  	<li> <a href={{ film.url }}> IMDB Entry </a></li>
 	{% endif %}

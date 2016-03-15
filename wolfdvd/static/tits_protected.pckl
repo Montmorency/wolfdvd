@@ -223,1428 +223,1426 @@ sg6
 VDelicatessen
 p79
 sa(dp80
-g10
-VGiuseppe Tornatore
+S'plot'
 p81
-sg8
-VItaly
+g3
+sS'img'
 p82
-sg14
-I1988
-sg12
-S'w016'
+S'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'
 p83
 sg6
 VNuovo Cinema Paradiso
 p84
-sa(dp85
+sg8
+VItaly
+p85
+sg10
+VGiuseppe Tornatore
+p86
+sg12
+S'w016'
+p87
+sg14
+I1988
+sa(dp88
 g10
 VFernando Meirelles
-p86
+p89
 sg8
 VBrazil
-p87
+p90
 sg14
 I2002
 sg12
 S'w017'
-p88
+p91
 sg6
 VCidade de Deus
-p89
-sa(dp90
+p92
+sa(dp93
 g10
 VPaul Thomas Anderson
-p91
+p94
 sg8
 VUSA
-p92
+p95
 sg14
 I1997
 sg12
 S'w018'
-p93
+p96
 sg6
 VBoogie Nights
-p94
-sa(dp95
+p97
+sa(dp98
 g10
 VDoug Liman
-p96
+p99
 sg8
 VUSA
-p97
+p100
 sg14
 I2002
 sg12
 S'w019'
-p98
+p101
 sg6
 VThe Bourne Identity
-p99
-sa(dp100
+p102
+sa(dp103
 g10
 VQuentin Tarantino
-p101
+p104
 sg8
 VUSA
-p102
+p105
 sg14
 I1992
 sg12
 S'w020'
-p103
+p106
 sg6
 VReservoir Dogs
-p104
-sa(dp105
+p107
+sa(dp108
 g10
 VAndy Wachowski
-p106
+p109
 sg8
 VUSA
-p107
+p110
 sg14
 I1999
 sg12
 S'w021'
-p108
+p111
 sg6
 VThe Matrix
-p109
-sa(dp110
+p112
+sa(dp113
 g10
 VBernardo Bertolucci
-p111
+p114
 sg8
 VFrance
-p112
+p115
 sg14
 I1972
 sg12
 S'w022'
-p113
+p116
 sg6
 VUltimo tango a Parigi
-p114
-sa(dp115
+p117
+sa(dp118
 g10
 VPeter Jackson
-p116
+p119
 sg8
 VNew Zealand
-p117
+p120
 sg14
 I2001
 sg12
 S'w023'
-p118
+p121
 sg6
 VThe Lord of the Rings: The Fellowship of the Ring
-p119
-sa(dp120
+p122
+sa(dp123
 g10
 VPeter Jackson
-p121
+p124
 sg8
 VUSA
-p122
+p125
 sg14
 I2002
 sg12
 S'w024'
-p123
+p126
 sg6
 VThe Lord of the Rings: The Two Towers
-p124
-sa(dp125
+p127
+sa(dp128
 g10
 VFederico Fellini
-p126
+p129
 sg8
 VItaly
-p127
+p130
 sg14
 I1972
 sg12
 S'w026'
-p128
+p131
 sg6
 VRoma
-p129
-sa(dp130
+p132
+sa(dp133
 g10
 VRob Reiner
-p131
+p134
 sg8
 VUSA
-p132
+p135
 sg14
 I1984
 sg12
 S'w027'
-p133
+p136
 sg6
 VThis Is Spinal Tap
-p134
-sa(dp135
+p137
+sa(dp138
 g10
 VAndrew Stanton
-p136
+p139
 sg8
 VUSA
-p137
+p140
 sg14
 I2003
 sg12
 S'w028'
-p138
+p141
 sg6
 VFinding Nemo
-p139
-sa(dp140
+p142
+sa(dp143
 g10
 VStephen Norrington
-p141
+p144
 sg8
 VUSA
-p142
+p145
 sg14
 I1998
 sg12
 S'w029'
-p143
+p146
 sg6
 VBlade
-p144
-sa(dp145
+p147
+sa(dp148
 g10
 VStephen Daldry
-p146
+p149
 sg8
 VUSA
-p147
+p150
 sg14
 I2002
 sg12
 S'w030'
-p148
+p151
 sg6
 VThe Hours
-p149
-sa(dp150
+p152
+sa(dp153
 g10
 VHideo Nakata
-p151
+p154
 sg8
 VJapan
-p152
+p155
 sg14
 I1998
 sg12
 S'w031'
-p153
+p156
 sg6
 VRingu
-p154
-sa(dp155
+p157
+sa(dp158
 g10
 VClint Eastwood
-p156
+p159
 sg8
 VUSA
-p157
+p160
 sg14
 I2003
 sg12
 S'w032'
-p158
+p161
 sg6
 VMystic River
-p159
-sa(dp160
+p162
+sa(dp163
 g10
 VMichael Winterbottom
-p161
+p164
 sg8
 VUK
-p162
+p165
 sg14
 I2002
 sg12
 S'w033'
-p163
+p166
 sg6
 V24 Hour Party People
-p164
-sa(dp165
+p167
+sa(dp168
 g10
 VDanny Boyle
-p166
+p169
 sg8
 VUK
-p167
+p170
 sg14
 I1996
 sg12
 S'w034'
-p168
+p171
 sg6
 VTrainspotting
-p169
-sa(dp170
+p172
+sa(dp173
 g10
 VJames Cameron
-p171
+p174
 sg8
 VUSA
-p172
+p175
 sg14
 I1986
 sg12
 S'w035'
-p173
+p176
 sg6
 VAliens
-p174
-sa(dp175
+p177
+sa(dp178
 g10
 VYimou Zhang
-p176
+p179
 sg8
 VChina
-p177
+p180
 sg14
 I2002
 sg12
 S'w036'
-p178
+p181
 sg6
 VYing xiong
-p179
-sa(dp180
+p182
+sa(dp183
 g10
 VStanley Kubrick
-p181
+p184
 sg8
 VUSA
-p182
+p185
 sg14
 I1964
 sg12
 S'w037'
-p183
+p186
 sg6
 VDr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-p184
-sa(dp185
+p187
+sa(dp188
 g10
 VMartin Scorsese
-p186
+p189
 sg8
 VUSA
-p187
+p190
 sg14
 I2002
 sg12
 S'w038'
-p188
+p191
 sg6
 VGangs of New York
-p189
-sa(dp190
+p192
+sa(dp193
 g10
 VGavin Hood
-p191
+p194
 sg8
 VUK
-p192
+p195
 sg14
 I2005
 sg12
 S'w039'
-p193
+p196
 sg6
 VTsotsi
-p194
-sa(dp195
+p197
+sa(dp198
 g10
 VChris Wedge
-p196
+p199
 sg8
 VUSA
-p197
+p200
 sg14
 I2005
 sg12
 S'w040'
-p198
+p201
 sg6
 VRobots
-p199
-sa(dp200
+p202
+sa(dp203
 g10
 VTakashi Miike
-p201
+p204
 sg8
 VJapan
-p202
+p205
 sg14
 I2001
 sg12
 S'w041'
-p203
+p206
 sg6
 VKatakuri-ke no kôfuku
-p204
-sa(dp205
+p207
+sa(dp208
 g10
 VJosé Henrique Fonseca
-p206
+p209
 sg8
 VBrazil
-p207
+p210
 sg14
 I2003
 sg12
 S'w042'
-p208
+p211
 sg6
 VO Homem do Ano
-p209
-sa(dp210
+p212
+sa(dp213
 g10
 VJan de Bont
-p211
+p214
 sg8
 VUSA
-p212
+p215
 sg14
 I2003
 sg12
 S'w043'
-p213
+p216
 sg6
 VLara Croft Tomb Raider: The Cradle of Life
-p214
-sa(dp215
+p217
+sa(dp218
 g10
 VJoshua Marston
-p216
+p219
 sg8
 VColombia
-p217
+p220
 sg14
 I2004
 sg12
 S'w044'
-p218
+p221
 sg6
 VMaria Full of Grace
-p219
-sa(dp220
+p222
+sa(dp223
 g10
 VPhilip Kaufman
-p221
+p224
 sg8
 VUSA
-p222
+p225
 sg14
 I1993
 sg12
 S'w045'
-p223
+p226
 sg6
 VRising Sun
-p224
-sa(dp225
+p227
+sa(dp228
 g10
 VRichard Attenborough
-p226
+p229
 sg8
 VUK
-p227
+p230
 sg14
 I1987
 sg12
 S'w046'
-p228
+p231
 sg6
 VCry Freedom
-p229
-sa(dp230
+p232
+sa(dp233
 g10
 VBryan Singer
-p231
+p234
 sg8
 VUSA
-p232
+p235
 sg14
 I2000
 sg12
 S'w047'
-p233
+p236
 sg6
 VX-Men
-p234
-sa(dp235
+p237
+sa(dp238
 g10
 VDeepa Mehta
-p236
+p239
 sg8
 VCanada
-p237
+p240
 sg14
 I1996
 sg12
 S'w048'
-p238
+p241
 sg6
 VFire
-p239
-sa(dp240
+p242
+sa(dp243
 g10
 VSteve Box
-p241
+p244
 sg8
 VUK
-p242
+p245
 sg14
 I2005
 sg12
 S'w049'
-p243
+p246
 sg6
 VThe Curse of the Were-Rabbit
-p244
-sa(dp245
+p247
+sa(dp248
 g10
 VJuan Carlos Fresnadillo
-p246
+p249
 sg8
 VSpain
-p247
+p250
 sg14
 I2001
 sg12
 S'w050'
-p248
+p251
 sg6
 VIntacto
-p249
-sa(dp250
+p252
+sa(dp253
 g10
 VQuentin Tarantino
-p251
+p254
 sg8
 VUSA
-p252
+p255
 sg14
 I2003
 sg12
 S'w051'
-p253
+p256
 sg6
 VKill Bill: Vol. 1
-p254
-sa(dp255
+p257
+sa(dp258
 g10
 VQuentin Tarantino
-p256
+p259
 sg8
 VUSA
-p257
+p260
 sg14
 I2004
 sg12
 S'w052'
-p258
+p261
 sg6
 VKill Bill: Vol. 2
-p259
-sa(dp260
+p262
+sa(dp263
 g10
 VAndrew Adamson
-p261
+p264
 sg8
 VUSA
-p262
+p265
 sg14
 I2001
 sg12
 S'w053'
-p263
+p266
 sg6
 VShrek
-p264
-sa(dp265
+p267
+sa(dp268
 g10
 VAndrew Adamson
-p266
+p269
 sg8
 VUSA
-p267
+p270
 sg14
 I2004
 sg12
 S'w054'
-p268
+p271
 sg6
 VShrek 2
-p269
-sa(dp270
+p272
+sa(dp273
 g10
 VIngmar Bergman
-p271
+p274
 sg8
 VSweden
-p272
+p275
 sg14
 I1957
 sg12
 S'w055'
-p273
+p276
 sg6
 VDet sjunde inseglet
-p274
-sa(dp275
+p277
+sa(dp278
 g10
 VBigas Luna
-p276
+p279
 sg8
 VSpain
-p277
+p280
 sg14
 I1990
 sg12
 S'w056'
-p278
+p281
 sg6
 VLas edades de Lulú
-p279
-sa(dp280
+p282
+sa(dp283
 g10
 VGeorge Sluizer
-p281
+p284
 sg8
 VNetherlands
-p282
+p285
 sg14
 I1988
 sg12
 S'w057'
-p283
+p286
 sg6
 VSpoorloos
-p284
-sa(dp285
+p287
+sa(dp288
 g10
 VRémy Belvaux
-p286
+p289
 sg8
 VBelgium
-p287
+p290
 sg14
 I1992
 sg12
 S'w058'
-p288
+p291
 sg6
 VC'est arrivé près de chez vous
-p289
-sa(dp290
+p292
+sa(dp293
 g10
 VMira Nair
-p291
+p294
 sg8
 VUK
-p292
+p295
 sg14
 I1988
 sg12
 S'w059'
-p293
+p296
 sg6
 VSalaam Bombay!
-p294
-sa(dp295
+p297
+sa(dp298
 g10
 VWolfgang Becker
-p296
+p299
 sg8
 VGermany
-p297
+p300
 sg14
 I2003
 sg12
 S'w060'
-p298
+p301
 sg6
 VGood Bye Lenin!
-p299
-sa(dp300
+p302
+sa(dp303
 g10
 VLone Scherfig
-p301
+p304
 sg8
 VDenmark
-p302
+p305
 sg14
 I2000
 sg12
 S'w061'
-p303
+p306
 sg6
 VItaliensk for begyndere
-p304
-sa(dp305
+p307
+sa(dp308
 g10
 VEdgar Wright
-p306
+p309
 sg8
 VUK
-p307
+p310
 sg14
 I2004
 sg12
 S'w062'
-p308
+p311
 sg6
 VShaun of the Dead
-p309
-sa(dp310
+p312
+sa(dp313
 g10
 VRawson Marshall Thurber
-p311
+p314
 sg8
 VUSA
-p312
+p315
 sg14
 I2004
 sg12
 S'w063'
-p313
+p316
 sg6
 VDodgeball: A True Underdog Story
-p314
-sa(dp315
+p317
+sa(dp318
 g10
 VAndy Wachowski
-p316
+p319
 sg8
 VUSA
-p317
+p320
 sg14
 I2003
 sg12
 S'w064'
-p318
+p321
 sg6
 VThe Matrix Reloaded
-p319
-sa(dp320
+p322
+sa(dp323
 g10
 VGeorge Lucas
-p321
+p324
 sg8
 VUSA
-p322
+p325
 sg14
 I1999
 sg12
 S'w065'
-p323
+p326
 sg6
 VStar Wars: Episode I - The Phantom Menace
-p324
-sa(dp325
+p327
+sa(dp328
 g10
 VGeorge Lucas
-p326
+p329
 sg8
 VUSA
-p327
+p330
 sg14
 I2002
 sg12
 S'w066'
-p328
+p331
 sg6
 VStar Wars: Episode II - Attack of the Clones
-p329
-sa(dp330
+p332
+sa(dp333
 g10
 VJames L. Wolcott
-p331
+p334
 sg8
 VUSA
-p332
+p335
 sg14
 I1969
 sg12
 S'w067'
-p333
+p336
 sg6
 VThe Best of Laurel and Hardy
-p334
-sa(dp335
+p337
+sa(dp338
 g10
 VMichael Moore
-p336
+p339
 sg8
 VUSA
-p337
+p340
 sg14
 I2004
 sg12
 S'w068'
-p338
+p341
 sg6
 VFahrenheit 9/11
-p339
-sa(dp340
+p342
+sa(dp343
 g10
 VRoland Emmerich
-p341
+p344
 sg8
 VUSA
-p342
+p345
 sg14
 I2004
 sg12
 S'w069'
-p343
+p346
 sg6
 VThe Day After Tomorrow
-p344
-sa(dp345
+p347
+sa(dp348
 g10
 VSpike Jonze
-p346
+p349
 sg8
 VUSA
-p347
+p350
 sg14
 I2002
 sg12
 S'w070'
-p348
+p351
 sg6
 VAdaptation.
-p349
-sa(dp350
+p352
+sa(dp353
 g10
 VFrank Darabont
-p351
+p354
 sg8
 VUSA
-p352
+p355
 sg14
 I1994
 sg12
 S'w071'
-p353
+p356
 sg6
 VThe Shawshank Redemption
-p354
-sa(dp355
+p357
+sa(dp358
 g10
 VM. Night Shyamalan
-p356
+p359
 sg8
 VUSA
-p357
+p360
 sg14
 I2004
 sg12
 S'w072'
-p358
+p361
 sg6
 VThe Village
-p359
-sa(dp360
+p362
+sa(dp363
 g10
 VWolfgang Petersen
-p361
+p364
 sg8
 VUSA
-p362
+p365
 sg14
 I2004
 sg12
 S'w073'
-p363
+p366
 sg6
 VTroy
-p364
-sa(dp365
+p367
+sa(dp368
 g10
 VPeter Jackson
-p366
+p369
 sg8
 VUSA
-p367
+p370
 sg14
 I2002
 sg12
 S'w074'
-p368
+p371
 sg6
 VThe Lord of the Rings: The Two Towers
-p369
-sa(dp370
+p372
+sa(dp373
 g10
 VMichel Gondry
-p371
+p374
 sg8
 VUSA
-p372
+p375
 sg14
 I2004
 sg12
 S'w075'
-p373
+p376
 sg6
 VEternal Sunshine of the Spotless Mind
-p374
-sa(dp375
+p377
+sa(dp378
 g10
 VChan-wook Park
-p376
+p379
 sg8
 VSouth Korea
-p377
+p380
 sg14
 I2003
 sg12
 S'w076'
-p378
+p381
 sg6
 VOldeuboi
-p379
-sa(dp380
+p382
+sa(dp383
 g10
 VFrank Miller
-p381
+p384
 sg8
 VUSA
-p382
+p385
 sg14
 I2005
 sg12
 S'w077'
-p383
+p386
 sg6
 VSin City
-p384
-sa(dp385
+p387
+sa(dp388
 g10
 VSteven Spielberg
-p386
+p389
 sg8
 VUSA
-p387
+p390
 sg14
 I2005
 sg12
 S'w078'
-p388
+p391
 sg6
 VWar of the Worlds
-p389
-sa(dp390
+p392
+sa(dp393
 g10
 VEric Rohmer
-p391
+p394
 sg8
 VFrance
-p392
+p395
 sg14
 I2001
 sg12
 S'w079'
-p393
+p396
 sg6
 VL'anglaise et le duc
-p394
-sa(dp395
+p397
+sa(dp398
 g10
 VPawel Pawlikowski
-p396
+p399
 sg8
 VUK
-p397
+p400
 sg14
 I2004
 sg12
 S'w080'
-p398
+p401
 sg6
 VMy Summer of Love
-p399
-sa(dp400
+p402
+sa(dp403
 g10
 VClaude Berri
-p401
+p404
 sg8
 VFrance
-p402
+p405
 sg14
 I1986
 sg12
 S'w081'
-p403
+p406
 sg6
 VJean de Florette
-p404
-sa(dp405
+p407
+sa(dp408
 g10
 VClaude Berri
-p406
+p409
 sg8
 VItaly
-p407
+p410
 sg14
 I1986
 sg12
 S'w082'
-p408
+p411
 sg6
 VManon des sources
-p409
-sa(dp410
+p412
+sa(dp413
 g10
 VAkira Kurosawa
-p411
+p414
 sg8
 VJapan
-p412
+p415
 sg14
 I1980
 sg12
 S'w083'
-p413
+p416
 sg6
 VKagemusha
-p414
-sa(dp415
+p417
+sa(dp418
 g10
 VAgnieszka Holland
-p416
+p419
 sg8
 VGermany
-p417
+p420
 sg14
 I1990
 sg12
 S'w084'
-p418
+p421
 sg6
 VEuropa Europa
-p419
-sa(dp420
+p422
+sa(dp423
 g10
 VMichel Blanc
-p421
+p424
 sg8
 VFrance
-p422
+p425
 sg14
 I2002
 sg12
 S'w085'
-p423
+p426
 sg6
 VEmbrassez qui vous voudrez
-p424
-sa(dp425
+p427
+sa(dp428
 g10
 VJean-Luc Godard
-p426
+p429
 sg8
 VFrance
-p427
+p430
 sg14
 I1963
 sg12
 S'w086'
-p428
+p431
 sg6
 VLe mépris
-p429
-sa(dp430
+p432
+sa(dp433
 g10
 VZacharias Kunuk
-p431
+p434
 sg8
 VCanada
-p432
+p435
 sg14
 I2001
 sg12
 S'w087'
-p433
+p436
 sg6
 VAtanarjuat
-p434
-sa(dp435
+p437
+sa(dp438
 g10
 VAbbas Kiarostami
-p436
+p439
 sg8
 VFrance
-p437
+p440
 sg14
 I2002
 sg12
 S'w088'
-p438
+p441
 sg6
 VTen
-p439
-sa(dp440
+p442
+sa(dp443
 g10
 VChristopher Nolan
-p441
+p444
 sg8
 VUSA
-p442
+p445
 sg14
 I2005
 sg12
 S'w089'
-p443
+p446
 sg6
 VBatman Begins
-p444
-sa(dp445
+p447
+sa(dp448
 g10
 VRoman Polanski
-p446
+p449
 sg8
 VFrance
-p447
+p450
 sg14
 I2002
 sg12
 S'w090'
-p448
+p451
 sg6
 VThe Pianist
-p449
-sa(dp450
+p452
+sa(dp453
 g10
 VAlexander Payne
-p451
+p454
 sg8
 VUSA
-p452
+p455
 sg14
 I2004
 sg12
 S'w091'
-p453
+p456
 sg6
 VSideways
-p454
-sa(dp455
+p457
+sa(dp458
 g10
 VStephen Norrington
-p456
+p459
 sg8
 VUSA
-p457
+p460
 sg14
 I2003
 sg12
 S'w092'
-p458
+p461
 sg6
 VThe League of Extraordinary Gentlemen
-p459
-sa(dp460
+p462
+sa(dp463
 g10
 VMary Harron
-p461
+p464
 sg8
 VUSA
-p462
+p465
 sg14
 I2000
 sg12
 S'w093'
-p463
+p466
 sg6
 VAmerican Psycho
-p464
-sa(dp465
+p467
+sa(dp468
 g10
 VPaul Haggis
-p466
+p469
 sg8
 VUSA
-p467
+p470
 sg14
 I2004
 sg12
 S'w094'
-p468
+p471
 sg6
 VCrash
-p469
-sa(dp470
+p472
+sa(dp473
 g10
 VStephen Chow
-p471
+p474
 sg8
 VHong Kong
-p472
+p475
 sg14
 I2004
 sg12
 S'w095'
-p473
+p476
 sg6
 VKung fu
-p474
-sa(dp475
+p477
+sa(dp478
 g10
 VTim Burton
-p476
+p479
 sg8
 VUSA
-p477
+p480
 sg14
 I2005
 sg12
 S'w096'
-p478
+p481
 sg6
 VCharlie and the Chocolate Factory
-p479
-sa(dp480
+p482
+sa(dp483
 g10
 VFrançois Ozon
-p481
+p484
 sg8
 VFrance
-p482
+p485
 sg14
 I2004
 sg12
 S'w097'
-p483
+p486
 sg6
 V5x2
-p484
-sa(dp485
+p487
+sa(dp488
 g10
 VJohn Kaye Cooper
-p486
+p489
 sg8
 VUK
-p487
+p490
 sg14
 I2001
 sg12
 S'w098'
-p488
+p491
 sg6
 VBill Bailey: Bewilderness
-p489
-sa(dp490
+p492
+sa(dp493
 g10
 VJohn Kaye Cooper
-p491
+p494
 sg8
 VUK
-p492
+p495
 sg14
 I1997
 sg12
 S'w099'
-p493
+p496
 sg6
 VBill Bailey Live
-p494
-sa(dp495
+p497
+sa(dp498
 g10
 VPeter Jackson
-p496
+p499
 sg8
 VUSA
-p497
+p500
 sg14
 I2003
 sg12
 S'w100'
-p498
+p501
 sg6
 VThe Lord of the Rings: The Return of the King
-p499
-sa(dp500
+p502
+sa(dp503
 g10
 VAndrew Niccol
-p501
+p504
 sg8
 VFrance
-p502
+p505
 sg14
 I2005
 sg12
 S'w101'
-p503
+p506
 sg6
 VLord of War
-p504
-sa(dp505
+p507
+sa(dp508
 g10
 VStanley Kubrick
-p506
+p509
 sg8
 VUK
-p507
+p510
 sg14
 I1980
 sg12
 S'w102'
-p508
+p511
 sg6
 VThe Shining
-p509
-sa(dp510
+p512
+sa(dp513
 g10
 VSteven Spielberg
-p511
+p514
 sg8
 VUSA
-p512
+p515
 sg14
 I1981
 sg12
 S'w103'
-p513
+p516
 sg6
 VRaiders of the Lost Ark
-p514
-sa(dp515
+p517
+sa(dp518
 g10
 VTerry Jones
-p516
+p519
 sg8
 VUK
-p517
+p520
 sg14
 I1979
 sg12
 S'w104'
-p518
+p521
 sg6
 VLife of Brian
-p519
-sa(dp520
+p522
+sa(dp523
 g10
 VAng Lee
-p521
+p524
 sg8
 VUSA
-p522
+p525
 sg14
 I2003
 sg12
 S'w105'
-p523
+p526
 sg6
 VHulk
-p524
-sa(dp525
+p527
+sa(dp528
 g10
 VGuillermo del Toro
-p526
+p529
 sg8
 VUSA
-p527
+p530
 sg14
 I2002
 sg12
 S'w106'
-p528
+p531
 sg6
 VBlade II
-p529
-sa(dp530
+p532
+sa(dp533
 g10
 VCharles Stone III
-p531
+p534
 sg8
 VUSA
-p532
+p535
 sg14
 I2004
 sg12
 S'w107'
-p533
+p536
 sg6
 VMr 3000
-p534
-sa(dp535
+p537
+sa(dp538
 g10
 VClint Eastwood
-p536
+p539
 sg8
 VUSA
-p537
+p540
 sg14
 I2004
 sg12
 S'w108'
-p538
+p541
 sg6
 VMillion Dollar Baby
-p539
-sa(dp540
+p542
+sa(dp543
 g10
 VBrian De Palma
-p541
+p544
 sg8
 VUSA
-p542
+p545
 sg14
 I1987
 sg12
 S'w109'
-p543
-sg6
-VThe Untouchables
-p544
-sa(dp545
-g12
-S'w110'
 p546
 sg6
-S'Wolfson College Archives Disc 1'
+VThe Untouchables
 p547
 sa(dp548
-g12
-S'w111'
+S'director'
 p549
-sg6
-S'Wolfson College Archives Disc 2'
+S'Unknown'
 p550
-sa(dp551
-g10
-VSteven Spielberg
-p552
-sg8
-VUSA
-p553
-sg14
-I1984
 sg12
-S'w112'
+S'w110'
+p551
+sg6
+S'Wolfson College Archives Disc 1'
+p552
+sa(dp553
+g549
+g550
+sg12
+S'w111'
 p554
 sg6
-VIndiana Jones and the Temple of Doom
+S'Wolfson College Archives Disc 2'
 p555
 sa(dp556
 g10
@@ -1654,31 +1652,31 @@ sg8
 VUSA
 p558
 sg14
-I1989
+I1984
 sg12
-S'w113'
+S'w112'
 p559
 sg6
-VIndiana Jones and the Last Crusade
+VIndiana Jones and the Temple of Doom
 p560
 sa(dp561
 g10
-VDavis Guggenheim
+VSteven Spielberg
 p562
 sg8
 VUSA
 p563
 sg14
-I2006
+I1989
 sg12
-S'w114'
+S'w113'
 p564
 sg6
-VAn Inconvenient Truth
+VIndiana Jones and the Last Crusade
 p565
 sa(dp566
 g10
-VAlfonso Cuarón
+VDavis Guggenheim
 p567
 sg8
 VUSA
@@ -1686,160 +1684,160 @@ p568
 sg14
 I2006
 sg12
-S'w115'
+S'w114'
 p569
 sg6
-VChildren of Men
+VAn Inconvenient Truth
 p570
 sa(dp571
 g10
-VWalter Salles
+VAlfonso Cuarón
 p572
 sg8
-VArgentina
+VUSA
 p573
 sg14
-I2004
+I2006
 sg12
-S'w116'
+S'w115'
 p574
 sg6
-VDiarios de motocicleta
+VChildren of Men
 p575
 sa(dp576
 g10
-VSeung-wan Ryoo
+VWalter Salles
 p577
 sg8
-VSouth Korea
+VArgentina
 p578
 sg14
 I2004
 sg12
-S'w117'
+S'w116'
 p579
 sg6
-VArahan jangpung daejakjeon
+VDiarios de motocicleta
 p580
 sa(dp581
 g10
-VHayao Miyazaki
+VSeung-wan Ryoo
 p582
 sg8
-VJapan
+VSouth Korea
 p583
+sg14
+I2004
+sg12
+S'w117'
+p584
+sg6
+VArahan jangpung daejakjeon
+p585
+sa(dp586
+g10
+VHayao Miyazaki
+p587
+sg8
+VJapan
+p588
 sg14
 I2001
 sg12
 S'w118'
-p584
+p589
 sg6
 VSen to Chihiro no kamikakushi
-p585
-sa(dp586
+p590
+sa(dp591
 g10
 VAndrew Jarecki
-p587
+p592
 sg8
 VUSA
-p588
+p593
 sg14
 I2003
 sg12
 S'w119'
-p589
+p594
 sg6
 VCapturing the Friedmans
-p590
-sa(dp591
+p595
+sa(dp596
 g10
 VJim Sharman
-p592
+p597
 sg8
 VUK
-p593
+p598
 sg14
 I1975
 sg12
 S'w120'
-p594
+p599
 sg6
 VThe Rocky Horror Picture Show
-p595
-sa(dp596
+p600
+sa(dp601
 g10
 VHayao Miyazaki
-p597
+p602
 sg8
 VJapan
-p598
+p603
 sg14
 I1984
 sg12
 S'w121'
-p599
+p604
 sg6
 VKaze no tani no Naushika
-p600
-sa(dp601
+p605
+sa(dp606
 g10
 VChris Wedge
-p602
+p607
 sg8
 VUSA
-p603
+p608
 sg14
 I2002
 sg12
 S'w122'
-p604
-sg6
-VIce Age
-p605
-sa(dp606
-g10
-VPeter Lord
-p607
-sg8
-VUK
-p608
-sg14
-I2000
-sg12
-S'w123'
 p609
 sg6
-VChicken Run
+VIce Age
 p610
 sa(dp611
 g10
-VHenry Selick
+VPeter Lord
 p612
 sg8
 VUK
 p613
 sg14
-I1996
+I2000
 sg12
-S'w124'
+S'w123'
 p614
 sg6
-VJames and the Giant Peach
+VChicken Run
 p615
 sa(dp616
 g10
-VChris Columbus
+VHenry Selick
 p617
 sg8
-VUSA
+VUK
 p618
 sg14
-I1990
+I1996
 sg12
-S'w125'
+S'w124'
 p619
 sg6
-VHome Alone
+VJames and the Giant Peach
 p620
 sa(dp621
 g10
@@ -1849,181 +1847,181 @@ sg8
 VUSA
 p623
 sg14
-I1993
+I1990
 sg12
-S'w126'
+S'w125'
 p624
 sg6
-VMrs. Doubtfire
+VHome Alone
 p625
 sa(dp626
 g10
-VDavid Lynch
+VChris Columbus
 p627
 sg8
 VUSA
 p628
 sg14
-I1984
+I1993
 sg12
-S'w127'
+S'w126'
 p629
 sg6
-VDune
+VMrs. Doubtfire
 p630
 sa(dp631
 g10
-VMalcolm Mowbray
+VDavid Lynch
 p632
 sg8
-VUK
+VUSA
 p633
 sg14
 I1984
 sg12
-S'w128'
+S'w127'
 p634
 sg6
-VA Private Function
+VDune
 p635
 sa(dp636
 g10
-VClaude Chabrol
+VMalcolm Mowbray
 p637
 sg8
-VFrance
+VUK
 p638
+sg14
+I1984
+sg12
+S'w128'
+p639
+sg6
+VA Private Function
+p640
+sa(dp641
+g10
+VClaude Chabrol
+p642
+sg8
+VFrance
+p643
 sg14
 I1970
 sg12
 S'w129'
-p639
-sg6
-VLe boucher
-p640
-sa(dp641
-g10
-VFlorrie Laurence
-p642
-sg8
-VUSA
-p643
-sg14
-I2001
-sg12
-S'w130'
 p644
 sg6
-VThe Sky Is Falling
+VLe boucher
 p645
 sa(dp646
 g10
-VKirby Dick
+VFlorrie Laurence
 p647
 sg8
 VUSA
 p648
 sg14
-I2002
+I2001
 sg12
-S'w131'
+S'w130'
 p649
 sg6
-VDerrida
+VThe Sky Is Falling
 p650
 sa(dp651
 g10
-VRoman Polanski
+VKirby Dick
 p652
 sg8
-VUK
+VUSA
 p653
+sg14
+I2002
+sg12
+S'w131'
+p654
+sg6
+VDerrida
+p655
+sa(dp656
+g10
+VRoman Polanski
+p657
+sg8
+VUK
+p658
 sg14
 I1971
 sg12
 S'w132'
-p654
+p659
 sg6
 VThe Tragedy of Macbeth
-p655
-sa(dp656
+p660
+sa(dp661
 g10
 VAbbas Kiarostami
-p657
+p662
 sg8
 VItaly
-p658
+p663
 sg14
 I2005
 sg12
 S'w133'
-p659
+p664
 sg6
 VTickets
-p660
-sa(dp661
+p665
+sa(dp666
 g10
 VMiklós Jancsó
-p662
+p667
 sg8
 VHungary
-p663
+p668
 sg14
 I1967
 sg12
 S'w134'
-p664
+p669
 sg6
 VCsillagosok, katonák
-p665
-sa(dp666
+p670
+sa(dp671
 g10
 VBille August
-p667
+p672
 sg8
 VDenmark
-p668
+p673
 sg14
 I1987
 sg12
 S'w135'
-p669
+p674
 sg6
 VPelle erobreren
-p670
-sa(dp671
+p675
+sa(dp676
 g10
 VRichard Lester
-p672
+p677
 sg8
 VUK
-p673
+p678
 sg14
 I1964
 sg12
 S'w136'
-p674
-sg6
-VA Hard Day's Night
-p675
-sa(dp676
-g10
-VHenry Alex Rubin
-p677
-sg8
-VUSA
-p678
-sg14
-I2005
-sg12
-S'w137'
 p679
 sg6
-VMurderball
+VA Hard Day's Night
 p680
 sa(dp681
 g10
-VJames McTeigue
+VHenry Alex Rubin
 p682
 sg8
 VUSA
@@ -2031,25 +2029,25 @@ p683
 sg14
 I2005
 sg12
-S'w138'
+S'w137'
 p684
 sg6
-VV for Vendetta
+VMurderball
 p685
 sa(dp686
 g10
-VPedro Almodóvar
+VJames McTeigue
 p687
 sg8
-VSpain
+VUSA
 p688
 sg14
-I2002
+I2005
 sg12
-S'w139'
+S'w138'
 p689
 sg6
-VHable con ella
+VV for Vendetta
 p690
 sa(dp691
 g10
@@ -2059,12 +2057,12 @@ sg8
 VSpain
 p693
 sg14
-I1999
+I2002
 sg12
-S'w140'
+S'w139'
 p694
 sg6
-VTodo sobre mi madre
+VHable con ella
 p695
 sa(dp696
 g10
@@ -2074,12 +2072,12 @@ sg8
 VSpain
 p698
 sg14
-I2004
+I1999
 sg12
-S'w141'
+S'w140'
 p699
 sg6
-VLa mala educación
+VTodo sobre mi madre
 p700
 sa(dp701
 g10
@@ -2089,57 +2087,57 @@ sg8
 VSpain
 p703
 sg14
-I1990
+I2004
 sg12
-S'w142'
+S'w141'
 p704
 sg6
-VÁtame!
+VLa mala educación
 p705
 sa(dp706
 g10
 VPedro Almodóvar
 p707
 sg8
-VFrance
+VSpain
 p708
+sg14
+I1990
+sg12
+S'w142'
+p709
+sg6
+VÁtame!
+p710
+sa(dp711
+g10
+VPedro Almodóvar
+p712
+sg8
+VFrance
+p713
 sg14
 I1997
 sg12
 S'w143'
-p709
-sg6
-VCarne trémula
-p710
-sa(dp711
-g10
-VSteven Spielberg
-p712
-sg8
-VUSA
-p713
-sg14
-I2002
-sg12
-S'w144'
 p714
 sg6
-VMinority Report
+VCarne trémula
 p715
 sa(dp716
 g10
-VJames Cameron
+VSteven Spielberg
 p717
 sg8
 VUSA
 p718
 sg14
-I1989
+I2002
 sg12
-S'w145'
+S'w144'
 p719
 sg6
-VThe Abyss
+VMinority Report
 p720
 sa(dp721
 g10
@@ -2149,686 +2147,706 @@ sg8
 VUSA
 p723
 sg14
-I1986
+I1989
 sg12
-S'w146'
+S'w145'
 p724
 sg6
-VAliens
+VThe Abyss
 p725
 sa(dp726
 g10
-VFranklin J. Schaffner
+VJames Cameron
 p727
 sg8
 VUSA
 p728
 sg14
-I1968
+I1986
 sg12
-S'w147'
+S'w146'
 p729
 sg6
-VPlanet of the Apes
+VAliens
 p730
 sa(dp731
 g10
-VLuc Besson
+VFranklin J. Schaffner
 p732
 sg8
-VFrance
+VUSA
 p733
+sg14
+I1968
+sg12
+S'w147'
+p734
+sg6
+VPlanet of the Apes
+p735
+sa(dp736
+g10
+VLuc Besson
+p737
+sg8
+VFrance
+p738
 sg14
 I1997
 sg12
 S'w148'
-p734
+p739
 sg6
 VThe Fifth Element
-p735
-sa(dp736
+p740
+sa(dp741
 g10
 VGurinder Chadha
-p737
+p742
 sg8
 VUK
-p738
+p743
 sg14
 I2004
 sg12
 S'w149'
-p739
+p744
 sg6
 VBride & Prejudice
-p740
-sa(dp741
+p745
+sa(dp746
 g10
 VAdam Shankman
-p742
+p747
 sg8
 VGermany
-p743
+p748
 sg14
 I2001
 sg12
 S'w150'
-p744
+p749
 sg6
 VThe Wedding Planner
-p745
-sa(dp746
+p750
+sa(dp751
 g10
 VRic Cantor
-p747
+p752
 sg8
 VUK
-p748
+p753
 sg14
 I2004
 sg12
 S'w151'
-p749
+p754
 sg6
 VSuzie Gold
-p750
-sa(dp751
+p755
+sa(dp756
 g10
 VRichard Linklater
-p752
+p757
 sg8
 VUSA
-p753
+p758
 sg14
 I2006
 sg12
 S'w152'
-p754
+p759
 sg6
 VA Scanner Darkly
-p755
-sa(dp756
+p760
+sa(dp761
 g10
 VNiki Caro
-p757
+p762
 sg8
 VNew Zealand
-p758
+p763
 sg14
 I2002
 sg12
 S'w153'
-p759
-sg6
-VWhale Rider
-p760
-sa(dp761
-g10
-VAlex Cox
-p762
-sg8
-VUSA
-p763
-sg14
-I1984
-sg12
-S'w154'
 p764
 sg6
-VRepo Man
+VWhale Rider
 p765
 sa(dp766
 g10
-VPaul Bartel
+VAlex Cox
 p767
 sg8
 VUSA
 p768
 sg14
-I1975
+I1984
 sg12
-S'w155'
+S'w154'
 p769
 sg6
-VDeath Race 2000
+VRepo Man
 p770
 sa(dp771
 g10
-VSteven Spielberg
+VPaul Bartel
 p772
 sg8
 VUSA
 p773
 sg14
-I1971
+I1975
 sg12
-S'w156'
+S'w155'
 p774
 sg6
-VDuel
+VDeath Race 2000
 p775
 sa(dp776
 g10
-VLukas Moodysson
+VSteven Spielberg
 p777
 sg8
-VSweden
+VUSA
 p778
+sg14
+I1971
+sg12
+S'w156'
+p779
+sg6
+VDuel
+p780
+sa(dp781
+g10
+VLukas Moodysson
+p782
+sg8
+VSweden
+p783
 sg14
 I2002
 sg12
 S'w157'
-p779
+p784
 sg6
 VLilja 4-ever
-p780
-sa(dp781
+p785
+sa(dp786
 g10
 VRichard Linklater
-p782
+p787
 sg8
 VUSA
-p783
+p788
 sg14
 I1993
 sg12
 S'w158'
-p784
+p789
 sg6
 VDazed and Confused
-p785
-sa(dp786
+p790
+sa(dp791
 g10
 VRoger Donaldson
-p787
+p792
 sg8
 VNew Zealand
-p788
+p793
 sg14
 I2005
 sg12
 S'w159'
-p789
+p794
 sg6
 VThe World's Fastest Indian
-p790
-sa(dp791
+p795
+sa(dp796
 g10
 VHayao Miyazaki
-p792
+p797
 sg8
 VJapan
-p793
+p798
 sg14
 I1992
 sg12
 S'w160'
-p794
+p799
 sg6
 VKurenai no buta
-p795
-sa(dp796
-g12
+p800
+sa(dp801
+g549
+g550
+sg12
 S'w161'
-p797
+p802
 sg6
 S'Tintin Collection 1'
-p798
-sa(dp799
-g12
+p803
+sa(dp804
+g549
+g550
+sg12
 S'w162'
-p800
+p805
 sg6
 S'Tintin Collection 2'
-p801
-sa(dp802
-g12
+p806
+sa(dp807
+g549
+g550
+sg12
 S'w163'
-p803
+p808
 sg6
 S'Tintin Collection 3'
-p804
-sa(dp805
-g12
+p809
+sa(dp810
+g549
+g550
+sg12
 S'w164'
-p806
+p811
 sg6
 S'Tintin Collection 4'
-p807
-sa(dp808
-g12
+p812
+sa(dp813
+g549
+g550
+sg12
 S'w165'
-p809
+p814
 sg6
 S'Tintin Collection 5'
-p810
-sa(dp811
-g12
+p815
+sa(dp816
+g549
+g550
+sg12
 S'w166'
-p812
+p817
 sg6
 S'Tintin Collection 6'
-p813
-sa(dp814
-g12
+p818
+sa(dp819
+g549
+g550
+sg12
 S'w167'
-p815
+p820
 sg6
 S'Tintin Collection 7'
-p816
-sa(dp817
-g12
+p821
+sa(dp822
+g549
+g550
+sg12
 S'w168'
-p818
+p823
 sg6
 S'Tintin Collection 8'
-p819
-sa(dp820
-g12
+p824
+sa(dp825
+g549
+g550
+sg12
 S'w169'
-p821
+p826
 sg6
 S'Tintin Collection 9'
-p822
-sa(dp823
-g12
+p827
+sa(dp828
+g549
+g550
+sg12
 S'w170'
-p824
+p829
 sg6
 S'Tintin Collection 10'
-p825
-sa(dp826
+p830
+sa(dp831
 g10
 VPrachya Pinkaew
-p827
+p832
 sg8
 VThailand
-p828
+p833
 sg14
 I2003
 sg12
 S'w171'
-p829
+p834
 sg6
 VOng-bak
-p830
-sa(dp831
+p835
+sa(dp836
 g10
 VSteven Spielberg
-p832
+p837
 sg8
 VUSA
-p833
+p838
 sg14
 I2005
 sg12
 S'w172'
-p834
+p839
 sg6
 VMunich
-p835
-sa(dp836
+p840
+sa(dp841
 g10
 VIsao Takahata
-p837
+p842
 sg8
 VJapan
-p838
+p843
 sg14
 I1988
 sg12
 S'w173'
-p839
+p844
 sg6
 VHotaru no haka
-p840
-sa(dp841
+p845
+sa(dp846
 g10
 VDavid Cronenberg
-p842
+p847
 sg8
 VUSA
-p843
+p848
 sg14
 I2005
 sg12
 S'w174'
-p844
+p849
 sg6
 VA History of Violence
-p845
-sa(dp846
+p850
+sa(dp851
 g10
 VNicolas Roeg
-p847
+p852
 sg8
 VUK
-p848
+p853
 sg14
 I1971
 sg12
 S'w175'
-p849
+p854
 sg6
 VWalkabout
-p850
-sa(dp851
+p855
+sa(dp856
 g10
 VChristophe Gans
-p852
+p857
 sg8
 VFrance
-p853
+p858
 sg14
 I2001
 sg12
 S'w176'
-p854
+p859
 sg6
 VLe pacte des loups
-p855
-sa(dp856
+p860
+sa(dp861
 g10
 VMel Brooks
-p857
+p862
 sg8
 VUSA
-p858
+p863
 sg14
 I1967
 sg12
 S'w177'
-p859
+p864
 sg6
 VThe Producers
-p860
-sa(dp861
+p865
+sa(dp866
 g10
 VByambasuren Davaa
-p862
+p867
 sg8
 VGermany
-p863
+p868
 sg14
 I2005
 sg12
 S'w178'
-p864
-sg6
-VDie Höhle des gelben Hundes
-p865
-sa(dp866
-g10
-VLeon Gast
-p867
-sg8
-VUSA
-p868
-sg14
-I1996
-sg12
-S'w179'
 p869
 sg6
-VWhen We Were Kings
+VDie Höhle des gelben Hundes
 p870
 sa(dp871
 g10
-VPenelope Spheeris
+VLeon Gast
 p872
 sg8
 VUSA
 p873
 sg14
-I1992
+I1996
 sg12
-S'w180'
+S'w179'
 p874
 sg6
-VWayne's World
+VWhen We Were Kings
 p875
 sa(dp876
 g10
-VKerry Conran
+VPenelope Spheeris
 p877
 sg8
 VUSA
 p878
 sg14
-I2004
+I1992
 sg12
-S'w181'
+S'w180'
 p879
 sg6
-VSky Captain and the World of Tomorrow
+VWayne's World
 p880
 sa(dp881
 g10
-VSimon West
+VKerry Conran
 p882
 sg8
 VUSA
 p883
 sg14
-I2001
+I2004
 sg12
-S'w182'
+S'w181'
 p884
 sg6
-VLara Croft: Tomb Raider
+VSky Captain and the World of Tomorrow
 p885
 sa(dp886
 g10
-VJan de Bont
+VSimon West
 p887
 sg8
 VUSA
 p888
 sg14
-I2003
+I2001
 sg12
-S'w183'
+S'w182'
 p889
 sg6
-VLara Croft Tomb Raider: The Cradle of Life
+VLara Croft: Tomb Raider
 p890
 sa(dp891
 g10
-VPhillip Noyce
+VJan de Bont
 p892
 sg8
-VAustralia
+VUSA
 p893
+sg14
+I2003
+sg12
+S'w183'
+p894
+sg6
+VLara Croft Tomb Raider: The Cradle of Life
+p895
+sa(dp896
+g10
+VPhillip Noyce
+p897
+sg8
+VAustralia
+p898
 sg14
 I2002
 sg12
 S'w184'
-p894
+p899
 sg6
 VRabbit-Proof Fence
-p895
-sa(dp896
+p900
+sa(dp901
 g10
 VJohn Mackenzie
-p897
+p902
 sg8
 VFrance
-p898
+p903
 sg14
 I2003
 sg12
 S'w185'
-p899
+p904
 sg6
 VQuicksand
-p900
-sa(dp901
+p905
+sa(dp906
 g10
 VTerry Gilliam
-p902
+p907
 sg8
 VUK
-p903
+p908
 sg14
 I1975
 sg12
 S'w186'
-p904
-sg6
-VMonty Python and the Holy Grail
-p905
-sa(dp906
-g10
-VGeorge A. Romero
-p907
-sg8
-VUSA
-p908
-sg14
-I1968
-sg12
-S'w187'
 p909
 sg6
-VNight of the Living Dead
+VMonty Python and the Holy Grail
 p910
 sa(dp911
 g10
-VBryan Singer
+VGeorge A. Romero
 p912
 sg8
 VUSA
 p913
 sg14
-I1995
+I1968
 sg12
-S'w188'
+S'w187'
 p914
 sg6
-VThe Usual Suspects
+VNight of the Living Dead
 p915
 sa(dp916
 g10
-VDavid Fincher
+VBryan Singer
 p917
 sg8
 VUSA
 p918
 sg14
-I1999
+I1995
 sg12
-S'w189'
+S'w188'
 p919
 sg6
-VFight Club
+VThe Usual Suspects
 p920
 sa(dp921
 g10
-VHayao Miyazaki
+VDavid Fincher
 p922
 sg8
-VJapan
+VUSA
 p923
+sg14
+I1999
+sg12
+S'w189'
+p924
+sg6
+VFight Club
+p925
+sa(dp926
+g10
+VHayao Miyazaki
+p927
+sg8
+VJapan
+p928
 sg14
 I1986
 sg12
 S'w190'
-p924
+p929
 sg6
 VTenkû no shiro Rapyuta
-p925
-sa(dp926
+p930
+sa(dp931
 g10
 VRobert Hamer
-p927
+p932
 sg8
 VUK
-p928
+p933
 sg14
 I1949
 sg12
 S'w191'
-p929
+p934
 sg6
 VKind Hearts and Coronets
-p930
-sa(dp931
+p935
+sa(dp936
 g10
 VAndy Wachowski
-p932
+p937
 sg8
 VAustralia
-p933
+p938
 sg14
 I2003
 sg12
 S'w192'
-p934
+p939
 sg6
 VThe Matrix Revolutions
-p935
-sa(dp936
+p940
+sa(dp941
 g10
 VTim Johnson
-p937
+p942
 sg8
 VUSA
-p938
+p943
 sg14
 I2006
 sg12
 S'w193'
-p939
+p944
 sg6
 VOver the Hedge
-p940
-sa(dp941
+p945
+sa(dp946
 g10
 VMatthew Vaughn
-p942
+p947
 sg8
 VUK
-p943
+p948
 sg14
 I2004
 sg12
 S'w194'
-p944
-sg6
-VLayer Cake
-p945
-sa(dp946
-g10
-VEric Darnell
-p947
-sg8
-VUSA
-p948
-sg14
-I2005
-sg12
-S'w195'
 p949
 sg6
-VMadagascar
+VLayer Cake
 p950
 sa(dp951
 g10
-VDarren Aronofsky
+VEric Darnell
 p952
 sg8
 VUSA
 p953
 sg14
-I2000
+I2005
 sg12
-S'w196'
+S'w195'
 p954
 sg6
-VRequiem for a Dream
+VMadagascar
 p955
 sa(dp956
 g10
-VChristopher Nolan
+VDarren Aronofsky
 p957
 sg8
 VUSA
@@ -2836,204 +2854,208 @@ p958
 sg14
 I2000
 sg12
-S'w197'
+S'w196'
 p959
 sg6
-VMemento
+VRequiem for a Dream
 p960
 sa(dp961
 g10
-VElem Klimov
+VChristopher Nolan
 p962
 sg8
-VSoviet Union
+VUSA
 p963
+sg14
+I2000
+sg12
+S'w197'
+p964
+sg6
+VMemento
+p965
+sa(dp966
+g10
+VElem Klimov
+p967
+sg8
+VSoviet Union
+p968
 sg14
 I1985
 sg12
 S'w198'
-p964
+p969
 sg6
 VIdi i smotri
-p965
-sa(dp966
+p970
+sa(dp971
 g10
 VHayao Miyazaki
-p967
+p972
 sg8
 VJapan
-p968
+p973
 sg14
 I1989
 sg12
 S'w199'
-p969
+p974
 sg6
 VMajo no takkyûbin
-p970
-sa(dp971
+p975
+sa(dp976
 g10
 VTony Kaye
-p972
+p977
 sg8
 VUSA
-p973
+p978
 sg14
 I1998
 sg12
 S'w200'
-p974
-sg6
-VAmerican History X
-p975
-sa(dp976
-g10
-VChris Columbus
-p977
-sg8
-VUK
-p978
-sg14
-I2001
-sg12
-S'w201'
 p979
 sg6
-VHarry Potter and the Sorcerer's Stone
+VAmerican History X
 p980
 sa(dp981
 g10
 VChris Columbus
 p982
 sg8
-VUSA
+VUK
 p983
+sg14
+I2001
+sg12
+S'w201'
+p984
+sg6
+VHarry Potter and the Sorcerer's Stone
+p985
+sa(dp986
+g10
+VChris Columbus
+p987
+sg8
+VUSA
+p988
 sg14
 I2002
 sg12
 S'w202'
-p984
-sg6
-VHarry Potter and the Chamber of Secrets
-p985
-sa(dp986
-g10
-VAlfonso Cuarón
-p987
-sg8
-VUK
-p988
-sg14
-I2004
-sg12
-S'w203'
 p989
 sg6
-VHarry Potter and the Prisoner of Azkaban
+VHarry Potter and the Chamber of Secrets
 p990
 sa(dp991
 g10
-VMike Newell
+VAlfonso Cuarón
 p992
 sg8
 VUK
 p993
 sg14
-I2005
+I2004
 sg12
-S'w204'
+S'w203'
 p994
 sg6
-VHarry Potter and the Goblet of Fire
+VHarry Potter and the Prisoner of Azkaban
 p995
 sa(dp996
 g10
-VMel Brooks
+VMike Newell
 p997
 sg8
-VUSA
+VUK
 p998
 sg14
-I1974
+I2005
 sg12
-S'w205'
+S'w204'
 p999
 sg6
-VYoung Frankenstein
+VHarry Potter and the Goblet of Fire
 p1000
 sa(dp1001
 g10
-VChris Kentis
+VMel Brooks
 p1002
 sg8
 VUSA
 p1003
 sg14
-I2003
+I1974
 sg12
-S'w206'
+S'w205'
 p1004
 sg6
-VOpen Water
+VYoung Frankenstein
 p1005
 sa(dp1006
 g10
-VBilly Wilder
+VChris Kentis
 p1007
 sg8
 VUSA
 p1008
 sg14
-I1960
+I2003
 sg12
-S'w207'
+S'w206'
 p1009
 sg6
-VThe Apartment
+VOpen Water
 p1010
 sa(dp1011
 g10
-VGuillermo del Toro
+VBilly Wilder
 p1012
 sg8
-VSpain
+VUSA
 p1013
+sg14
+I1960
+sg12
+S'w207'
+p1014
+sg6
+VThe Apartment
+p1015
+sa(dp1016
+g10
+VGuillermo del Toro
+p1017
+sg8
+VSpain
+p1018
 sg14
 I2006
 sg12
 S'w208'
-p1014
+p1019
 sg6
 VEl laberinto del fauno
-p1015
-sa(dp1016
-g12
+p1020
+sa(dp1021
+g549
+g550
+sg12
 S'w209'
-p1017
+p1022
 sg6
 S'Isaiah Berlin Literature Trust Disc 1'
-p1018
-sa(dp1019
-g12
-S'w210'
-p1020
-sg6
-S'Isaiah Berlin Literature Trust Disc 2'
-p1021
-sa(dp1022
-g10
-VMichael Rymer
 p1023
-sg8
-VUSA
-p1024
-sg14
-I2003
+sa(dp1024
+g549
+g550
 sg12
-S'w211'
+S'w210'
 p1025
 sg6
-VBattlestar Galactica
+S'Isaiah Berlin Literature Trust Disc 2'
 p1026
 sa(dp1027
 g10
@@ -3045,7 +3067,7 @@ p1029
 sg14
 I2003
 sg12
-S'w212'
+S'w211'
 p1030
 sg6
 VBattlestar Galactica
@@ -3060,7 +3082,7 @@ p1034
 sg14
 I2003
 sg12
-S'w213'
+S'w212'
 p1035
 sg6
 VBattlestar Galactica
@@ -3075,7 +3097,7 @@ p1039
 sg14
 I2003
 sg12
-S'w214'
+S'w213'
 p1040
 sg6
 VBattlestar Galactica
@@ -3090,70 +3112,70 @@ p1044
 sg14
 I2003
 sg12
-S'w215'
+S'w214'
 p1045
 sg6
 VBattlestar Galactica
 p1046
 sa(dp1047
 g10
-VChristophe Barratier
+VMichael Rymer
 p1048
 sg8
-VFrance
+VUSA
 p1049
+sg14
+I2003
+sg12
+S'w215'
+p1050
+sg6
+VBattlestar Galactica
+p1051
+sa(dp1052
+g10
+VChristophe Barratier
+p1053
+sg8
+VFrance
+p1054
 sg14
 I2004
 sg12
 S'w216'
-p1050
+p1055
 sg6
 VLes choristes
-p1051
-sa(dp1052
+p1056
+sa(dp1057
 g10
 VRakeysh Omprakash Mehra
-p1053
+p1058
 sg8
 VIndia
-p1054
+p1059
 sg14
 I2006
 sg12
 S'w217'
-p1055
-sg6
-VRang De Basanti
-p1056
-sa(dp1057
-g10
-VBen Stiller
-p1058
-sg8
-VUSA
-p1059
-sg14
-I2001
-sg12
-S'w218'
 p1060
 sg6
-VZoolander
+VRang De Basanti
 p1061
 sa(dp1062
 g10
-VClint Eastwood
+VBen Stiller
 p1063
 sg8
 VUSA
 p1064
 sg14
-I2006
+I2001
 sg12
-S'w219'
+S'w218'
 p1065
 sg6
-VFlags of Our Fathers
+VZoolander
 p1066
 sa(dp1067
 g10
@@ -3165,130 +3187,130 @@ p1069
 sg14
 I2006
 sg12
-S'w220'
+S'w219'
 p1070
 sg6
-VLetters from Iwo Jima
+VFlags of Our Fathers
 p1071
 sa(dp1072
 g10
-VMartin Scorsese
+VClint Eastwood
 p1073
 sg8
 VUSA
 p1074
 sg14
-I1982
+I2006
 sg12
-S'w221'
+S'w220'
 p1075
 sg6
-VThe King of Comedy
+VLetters from Iwo Jima
 p1076
 sa(dp1077
 g10
-VFlorian Henckel von Donnersmarck
+VMartin Scorsese
 p1078
 sg8
-VGermany
+VUSA
 p1079
+sg14
+I1982
+sg12
+S'w221'
+p1080
+sg6
+VThe King of Comedy
+p1081
+sa(dp1082
+g10
+VFlorian Henckel von Donnersmarck
+p1083
+sg8
+VGermany
+p1084
 sg14
 I2006
 sg12
 S'w222'
-p1080
+p1085
 sg6
 VDas Leben der Anderen
-p1081
-sa(dp1082
+p1086
+sa(dp1087
 g10
 VMamoru Oshii
-p1083
+p1088
 sg8
 VJapan
-p1084
+p1089
 sg14
 I1995
 sg12
 S'w223'
-p1085
-sg6
-VKôkaku Kidôtai
-p1086
-sa(dp1087
-g10
-VMarc Forster
-p1088
-sg8
-VUSA
-p1089
-sg14
-I2004
-sg12
-S'w224'
 p1090
 sg6
-VFinding Neverland
+VKôkaku Kidôtai
 p1091
 sa(dp1092
 g10
-VAdam Shankman
+VMarc Forster
 p1093
 sg8
 VUSA
 p1094
 sg14
-I2007
+I2004
 sg12
-S'w225'
+S'w224'
 p1095
 sg6
-VHairspray
+VFinding Neverland
 p1096
 sa(dp1097
 g10
-VMarc Francis
+VAdam Shankman
 p1098
 sg8
-VUK
+VUSA
 p1099
 sg14
-I2006
+I2007
 sg12
-S'w226'
+S'w225'
 p1100
 sg6
-VBlack Gold
+VHairspray
 p1101
 sa(dp1102
 g10
-VDanny Boyle
+VMarc Francis
 p1103
 sg8
 VUK
 p1104
 sg14
-I2002
+I2006
 sg12
-S'w227'
+S'w226'
 p1105
 sg6
-V28 Days Later...
+VBlack Gold
 p1106
 sa(dp1107
 g10
-VSteve Bendelack
+VDanny Boyle
 p1108
 sg8
 VUK
 p1109
 sg14
-I2003
+I2002
 sg12
-S'w228'
+S'w227'
 p1110
 sg6
-VLittle Britain
+V28 Days Later...
 p1111
 sa(dp1112
 g10
@@ -3300,212 +3322,214 @@ p1114
 sg14
 I2003
 sg12
-S'w229'
+S'w228'
 p1115
 sg6
 VLittle Britain
 p1116
 sa(dp1117
 g10
-VIrwin Winkler
+VSteve Bendelack
 p1118
 sg8
-VUSA
+VUK
 p1119
+sg14
+I2003
+sg12
+S'w229'
+p1120
+sg6
+VLittle Britain
+p1121
+sa(dp1122
+g10
+VIrwin Winkler
+p1123
+sg8
+VUSA
+p1124
 sg14
 I2004
 sg12
 S'w230'
-p1120
-sg6
-VDe-Lovely
-p1121
-sa(dp1122
-g10
-VBryan Singer
-p1123
-sg8
-VCanada
-p1124
-sg14
-I2003
-sg12
-S'w232'
 p1125
 sg6
-VX2
+VDe-Lovely
 p1126
 sa(dp1127
 g10
-VDave Meehan
+VBryan Singer
 p1128
 sg8
-VUSA
+VCanada
 p1129
 sg14
 I2003
 sg12
-S'w233'
+S'w232'
 p1130
 sg6
-VGary Moore: Live at Monsters of Rock
+VX2
 p1131
 sa(dp1132
 g10
-VPaul Greengrass
+VDave Meehan
 p1133
 sg8
 VUSA
 p1134
 sg14
-I2004
+I2003
 sg12
-S'w234'
+S'w233'
 p1135
 sg6
-VThe Bourne Supremacy
+VGary Moore: Live at Monsters of Rock
 p1136
 sa(dp1137
 g10
-VMark Pellington
+VPaul Greengrass
 p1138
 sg8
 VUSA
 p1139
 sg14
-I1999
+I2004
 sg12
-S'w235'
+S'w234'
 p1140
 sg6
-VArlington Road
+VThe Bourne Supremacy
 p1141
 sa(dp1142
 g10
-VChristine Cynn
+VMark Pellington
 p1143
 sg8
-VIndonesia
+VUSA
 p1144
+sg14
+I1999
+sg12
+S'w235'
+p1145
+sg6
+VArlington Road
+p1146
+sa(dp1147
+g10
+VChristine Cynn
+p1148
+sg8
+VIndonesia
+p1149
 sg14
 I2003
 sg12
 S'w236'
-p1145
+p1150
 sg6
 VThe Globalisation Tapes
-p1146
-sa(dp1147
+p1151
+sa(dp1152
 g10
 VChris Paine
-p1148
+p1153
 sg8
 VUSA
-p1149
+p1154
 sg14
 I2006
 sg12
 S'w237'
-p1150
+p1155
 sg6
 VWho Killed the Electric Car?
-p1151
-sa(dp1152
+p1156
+sa(dp1157
 g10
 VGregory Greene
-p1153
+p1158
 sg8
 VCanada
-p1154
+p1159
 sg14
 I2004
 sg12
 S'w238'
-p1155
-sg6
-VThe End of Suburbia: Oil Depletion and the Collapse of the American Dream
-p1156
-sa(dp1157
-g10
-VVincent Paronnaud
-p1158
-sg8
-VFrance
-p1159
-sg14
-I2007
-sg12
-S'w239'
 p1160
 sg6
-VPersepolis
+VThe End of Suburbia: Oil Depletion and the Collapse of the American Dream
 p1161
 sa(dp1162
 g10
-VBrad Bird
+VVincent Paronnaud
 p1163
 sg8
-VUSA
+VFrance
 p1164
 sg14
 I2007
 sg12
-S'w240'
+S'w239'
 p1165
 sg6
-VRatatouille
+VPersepolis
 p1166
 sa(dp1167
-g12
-S'w241'
-p1168
-sg6
-S'Pixar Short Films Collection'
-p1169
-sa(dp1170
 g10
-VHal Ashby
-p1171
+VBrad Bird
+p1168
 sg8
 VUSA
-p1172
+p1169
 sg14
-I1971
+I2007
 sg12
-S'w242'
+S'w240'
+p1170
+sg6
+VRatatouille
+p1171
+sa(dp1172
+g549
+g550
+sg12
+S'w241'
 p1173
 sg6
-VHarold and Maude
+S'Pixar Short Films Collection'
 p1174
 sa(dp1175
 g10
-VRichard Linklater
+VHal Ashby
 p1176
 sg8
 VUSA
 p1177
 sg14
-I2001
+I1971
 sg12
-S'w243'
+S'w242'
 p1178
 sg6
-VWaking Life
+VHarold and Maude
 p1179
 sa(dp1180
 g10
-VTim Burton
+VRichard Linklater
 p1181
 sg8
 VUSA
 p1182
 sg14
-I2007
+I2001
 sg12
-S'w244'
+S'w243'
 p1183
 sg6
-VSweeney Todd: The Demon Barber of Fleet Street
+VWaking Life
 p1184
 sa(dp1185
 g10
@@ -3517,25 +3541,25 @@ p1187
 sg14
 I2007
 sg12
-S'w245'
+S'w244'
 p1188
 sg6
 VSweeney Todd: The Demon Barber of Fleet Street
 p1189
 sa(dp1190
 g10
-VPaul King
+VTim Burton
 p1191
 sg8
-VUK
+VUSA
 p1192
 sg14
-I2003
+I2007
 sg12
-S'w246'
+S'w245'
 p1193
 sg6
-VThe Mighty Boosh
+VSweeney Todd: The Demon Barber of Fleet Street
 p1194
 sa(dp1195
 g10
@@ -3547,25 +3571,25 @@ p1197
 sg14
 I2003
 sg12
-S'w247'
+S'w246'
 p1198
 sg6
 VThe Mighty Boosh
 p1199
 sa(dp1200
 g10
-VTerry Gilliam
+VPaul King
 p1201
 sg8
 VUK
 p1202
 sg14
-I1975
+I2003
 sg12
-S'w248'
+S'w247'
 p1203
 sg6
-VMonty Python and the Holy Grail
+VThe Mighty Boosh
 p1204
 sa(dp1205
 g10
@@ -3577,25 +3601,25 @@ p1207
 sg14
 I1975
 sg12
-S'w249'
+S'w248'
 p1208
 sg6
 VMonty Python and the Holy Grail
 p1209
 sa(dp1210
 g10
-VTerry Jones
+VTerry Gilliam
 p1211
 sg8
 VUK
 p1212
 sg14
-I1979
+I1975
 sg12
-S'w250'
+S'w249'
 p1213
 sg6
-VLife of Brian
+VMonty Python and the Holy Grail
 p1214
 sa(dp1215
 g10
@@ -3607,7 +3631,7 @@ p1217
 sg14
 I1979
 sg12
-S'w251'
+S'w250'
 p1218
 sg6
 VLife of Brian
@@ -3620,12 +3644,12 @@ sg8
 VUK
 p1222
 sg14
-I1983
+I1979
 sg12
-S'w252'
+S'w251'
 p1223
 sg6
-VThe Meaning of Life
+VLife of Brian
 p1224
 sa(dp1225
 g10
@@ -3637,55 +3661,55 @@ p1227
 sg14
 I1983
 sg12
-S'w253'
+S'w252'
 p1228
 sg6
 VThe Meaning of Life
 p1229
 sa(dp1230
 g10
-VTerry Hughes
+VTerry Jones
 p1231
 sg8
 VUK
 p1232
 sg14
-I1982
+I1983
 sg12
-S'w254'
+S'w253'
 p1233
 sg6
-VMonty Python Live at the Hollywood Bowl
+VThe Meaning of Life
 p1234
 sa(dp1235
 g10
-VHarry K. Garvin
+VTerry Hughes
 p1236
 sg8
-VUSA
+VUK
 p1237
+sg14
+I1982
+sg12
+S'w254'
+p1238
+sg6
+VMonty Python Live at the Hollywood Bowl
+p1239
+sa(dp1240
+g10
+VHarry K. Garvin
+p1241
+sg8
+VUSA
+p1242
 sg14
 I2006
 sg12
 S'w255'
-p1238
-sg6
-VMonty Python's Personal Best
-p1239
-sa(dp1240
-g10
-VIan MacNaughton
-p1241
-sg8
-VUK
-p1242
-sg14
-I1971
-sg12
-S'w256'
 p1243
 sg6
-VAnd Now for Something Completely Different
+VMonty Python's Personal Best
 p1244
 sa(dp1245
 g10
@@ -3695,12 +3719,12 @@ sg8
 VUK
 p1247
 sg14
-I1969
+I1971
 sg12
-S'w257'
+S'w256'
 p1248
 sg6
-VMonty Python's Flying Circus
+VAnd Now for Something Completely Different
 p1249
 sa(dp1250
 g10
@@ -3712,7 +3736,7 @@ p1252
 sg14
 I1969
 sg12
-S'w258'
+S'w257'
 p1253
 sg6
 VMonty Python's Flying Circus
@@ -3727,7 +3751,7 @@ p1257
 sg14
 I1969
 sg12
-S'w259'
+S'w258'
 p1258
 sg6
 VMonty Python's Flying Circus
@@ -3742,7 +3766,7 @@ p1262
 sg14
 I1969
 sg12
-S'w260'
+S'w259'
 p1263
 sg6
 VMonty Python's Flying Circus
@@ -3757,7 +3781,7 @@ p1267
 sg14
 I1969
 sg12
-S'w261'
+S'w260'
 p1268
 sg6
 VMonty Python's Flying Circus
@@ -3772,7 +3796,7 @@ p1272
 sg14
 I1969
 sg12
-S'w262'
+S'w261'
 p1273
 sg6
 VMonty Python's Flying Circus
@@ -3787,44 +3811,44 @@ p1277
 sg14
 I1969
 sg12
-S'w263'
+S'w262'
 p1278
 sg6
 VMonty Python's Flying Circus
 p1279
 sa(dp1280
 g10
-VJonathan Gershfield
+VIan MacNaughton
 p1281
 sg8
 VUK
 p1282
 sg14
-I2008
+I1969
 sg12
-S'w264'
+S'w263'
 p1283
 sg6
-VThree and Out
+VMonty Python's Flying Circus
 p1284
 sa(dp1285
 g10
-VMike Newell
+VJonathan Gershfield
 p1286
 sg8
-VUSA
+VUK
 p1287
 sg14
-I2007
+I2008
 sg12
-S'w265'
+S'w264'
 p1288
 sg6
-VLove in the Time of Cholera
+VThree and Out
 p1289
 sa(dp1290
 g10
-VSean Penn
+VMike Newell
 p1291
 sg8
 VUSA
@@ -3832,25 +3856,25 @@ p1292
 sg14
 I2007
 sg12
-S'w266'
+S'w265'
 p1293
 sg6
-VInto the Wild
+VLove in the Time of Cholera
 p1294
 sa(dp1295
 g10
-VPeter Jackson
+VSean Penn
 p1296
 sg8
 VUSA
 p1297
 sg14
-I2002
+I2007
 sg12
-S'w267'
+S'w266'
 p1298
 sg6
-VThe Lord of the Rings: The Two Towers
+VInto the Wild
 p1299
 sa(dp1300
 g10
@@ -3862,7 +3886,7 @@ p1302
 sg14
 I2002
 sg12
-S'w268'
+S'w267'
 p1303
 sg6
 VThe Lord of the Rings: The Two Towers
@@ -3877,7 +3901,7 @@ p1307
 sg14
 I2002
 sg12
-S'w269'
+S'w268'
 p1308
 sg6
 VThe Lord of the Rings: The Two Towers
@@ -3892,7 +3916,7 @@ p1312
 sg14
 I2002
 sg12
-S'w270'
+S'w269'
 p1313
 sg6
 VThe Lord of the Rings: The Two Towers
@@ -3902,120 +3926,120 @@ g10
 VPeter Jackson
 p1316
 sg8
-VNew Zealand
+VUSA
 p1317
+sg14
+I2002
+sg12
+S'w270'
+p1318
+sg6
+VThe Lord of the Rings: The Two Towers
+p1319
+sa(dp1320
+g10
+VPeter Jackson
+p1321
+sg8
+VNew Zealand
+p1322
 sg14
 I2001
 sg12
 S'w271'
-p1318
+p1323
 sg6
 VThe Lord of the Rings: The Fellowship of the Ring
-p1319
-sa(dp1320
+p1324
+sa(dp1325
 g10
 VMichel Gondry
-p1321
+p1326
 sg8
 VUK
-p1322
+p1327
 sg14
 I2008
 sg12
 S'w272'
-p1323
+p1328
 sg6
 VBe Kind Rewind
-p1324
-sa(dp1325
+p1329
+sa(dp1330
 g10
 VAna Kokkinos
-p1326
+p1331
 sg8
 VAustralia
-p1327
+p1332
 sg14
 I1998
 sg12
 S'w273'
-p1328
+p1333
 sg6
 VHead On
-p1329
-sa(dp1330
+p1334
+sa(dp1335
 g10
 VAlejandro Amenábar
-p1331
+p1336
 sg8
 VSpain
-p1332
+p1337
 sg14
 I1997
 sg12
 S'w274'
-p1333
-sg6
-VAbre los ojos
-p1334
-sa(dp1335
-g10
-VFlorian Henckel von Donnersmarck
-p1336
-sg8
-VGermany
-p1337
-sg14
-I2006
-sg12
-S'w275'
 p1338
 sg6
-VDas Leben der Anderen
+VAbre los ojos
 p1339
 sa(dp1340
 g10
-VFritz Lang
+VFlorian Henckel von Donnersmarck
 p1341
 sg8
 VGermany
 p1342
 sg14
-I1927
+I2006
 sg12
-S'w276'
+S'w275'
 p1343
 sg6
-VMetropolis
+VDas Leben der Anderen
 p1344
 sa(dp1345
 g10
-VChris Carter
+VFritz Lang
 p1346
 sg8
-VUSA
+VGermany
 p1347
 sg14
-I2008
+I1927
 sg12
-S'w277'
+S'w276'
 p1348
 sg6
-VThe X Files: I Want to Believe
+VMetropolis
 p1349
 sa(dp1350
 g10
-VMichael Patrick King
+VChris Carter
 p1351
 sg8
 VUSA
 p1352
 sg14
-I1998
+I2008
 sg12
-S'w278'
+S'w277'
 p1353
 sg6
-VSex and the City
+VThe X Files: I Want to Believe
 p1354
 sa(dp1355
 g10
@@ -4027,7 +4051,7 @@ p1357
 sg14
 I1998
 sg12
-S'w279'
+S'w278'
 p1358
 sg6
 VSex and the City
@@ -4042,7 +4066,7 @@ p1362
 sg14
 I1998
 sg12
-S'w280'
+S'w279'
 p1363
 sg6
 VSex and the City
@@ -4057,7 +4081,7 @@ p1367
 sg14
 I1998
 sg12
-S'w281'
+S'w280'
 p1368
 sg6
 VSex and the City
@@ -4072,7 +4096,7 @@ p1372
 sg14
 I1998
 sg12
-S'w282'
+S'w281'
 p1373
 sg6
 VSex and the City
@@ -4087,7 +4111,7 @@ p1377
 sg14
 I1998
 sg12
-S'w283'
+S'w282'
 p1378
 sg6
 VSex and the City
@@ -4102,7 +4126,7 @@ p1382
 sg14
 I1998
 sg12
-S'w284'
+S'w283'
 p1383
 sg6
 VSex and the City
@@ -4117,381 +4141,383 @@ p1387
 sg14
 I1998
 sg12
-S'w285'
+S'w284'
 p1388
 sg6
 VSex and the City
 p1389
 sa(dp1390
 g10
-VEric Brevig
+VMichael Patrick King
 p1391
 sg8
 VUSA
 p1392
 sg14
+I1998
+sg12
+S'w285'
+p1393
+sg6
+VSex and the City
+p1394
+sa(dp1395
+g10
+VEric Brevig
+p1396
+sg8
+VUSA
+p1397
+sg14
 I2008
 sg12
 S'w286'
-p1393
+p1398
 sg6
 VJourney to the Center of the Earth
-p1394
-sa(dp1395
-g12
+p1399
+sa(dp1400
+g549
+g550
+sg12
 S'w287'
-p1396
+p1401
 sg6
 S'Agatha Christie: Poirot - The Veiled Lady'
-p1397
-sa(dp1398
+p1402
+sa(dp1403
 g10
 VYasmin Ahmad
-p1399
+p1404
 sg8
 VMalaysia
-p1400
+p1405
 sg14
 I2004
 sg12
 S'w288'
-p1401
-sg6
-VSepet
-p1402
-sa(dp1403
-g10
-VGene Deitch
-p1404
-sg8
-VUSA
-p1405
-sg14
-I1962
-sg12
-S'w289'
 p1406
 sg6
-VThe Tom and Jerry Cartoon Kit
+VSepet
 p1407
 sa(dp1408
 g10
-VPaul Thomas Anderson
+VGene Deitch
 p1409
 sg8
 VUSA
 p1410
 sg14
-I2007
+I1962
 sg12
-S'w290'
+S'w289'
 p1411
 sg6
-VThere Will Be Blood
+VThe Tom and Jerry Cartoon Kit
 p1412
 sa(dp1413
 g10
-VNorman Jewison
+VPaul Thomas Anderson
 p1414
 sg8
 VUSA
 p1415
 sg14
-I1967
+I2007
 sg12
-S'w291'
+S'w290'
 p1416
 sg6
-VIn the Heat of the Night
+VThere Will Be Blood
 p1417
 sa(dp1418
 g10
-VYves Robert
+VNorman Jewison
 p1419
 sg8
-VFrance
+VUSA
 p1420
+sg14
+I1967
+sg12
+S'w291'
+p1421
+sg6
+VIn the Heat of the Night
+p1422
+sa(dp1423
+g10
+VYves Robert
+p1424
+sg8
+VFrance
+p1425
 sg14
 I1990
 sg12
 S'w292'
-p1421
+p1426
 sg6
 VLa gloire de mon père
-p1422
-sa(dp1423
+p1427
+sa(dp1428
 g10
 VTodd Field
-p1424
+p1429
 sg8
 VUSA
-p1425
+p1430
 sg14
 I2006
 sg12
 S'w293'
-p1426
-sg6
-VLittle Children
-p1427
-sa(dp1428
-g10
-VTerry George
-p1429
-sg8
-VUK
-p1430
-sg14
-I2004
-sg12
-S'w294'
 p1431
 sg6
-VHotel Rwanda
+VLittle Children
 p1432
 sa(dp1433
 g10
-VKevin Macdonald
+VTerry George
 p1434
 sg8
 VUK
 p1435
 sg14
-I2006
+I2004
 sg12
-S'w295'
+S'w294'
 p1436
 sg6
-VThe Last King of Scotland
+VHotel Rwanda
 p1437
 sa(dp1438
 g10
-VEthan Coen
+VKevin Macdonald
 p1439
 sg8
-VUSA
+VUK
 p1440
 sg14
-I2007
+I2006
 sg12
-S'w296'
+S'w295'
 p1441
 sg6
-VNo Country for Old Men
+VThe Last King of Scotland
 p1442
 sa(dp1443
 g10
-VDavid Yates
+VEthan Coen
 p1444
 sg8
-VUK
+VUSA
 p1445
 sg14
 I2007
 sg12
-S'w297'
+S'w296'
 p1446
 sg6
-VHarry Potter and the Order of the Phoenix
+VNo Country for Old Men
 p1447
 sa(dp1448
 g10
-VAlan Parker
+VDavid Yates
 p1449
 sg8
-VUSA
+VUK
 p1450
 sg14
-I1988
+I2007
 sg12
-S'w298'
+S'w297'
 p1451
 sg6
-VMississippi Burning
+VHarry Potter and the Order of the Phoenix
 p1452
 sa(dp1453
 g10
-VOle Bornedal
+VAlan Parker
 p1454
 sg8
 VUSA
 p1455
 sg14
-I1997
+I1988
 sg12
-S'w299'
+S'w298'
 p1456
 sg6
-VNightwatch
+VMississippi Burning
 p1457
 sa(dp1458
 g10
-VPaul Haggis
+VOle Bornedal
 p1459
 sg8
 VUSA
 p1460
 sg14
-I2007
+I1997
 sg12
-S'w300'
+S'w299'
 p1461
 sg6
-VIn the Valley of Elah
+VNightwatch
 p1462
 sa(dp1463
 g10
-VRichard Eyre
+VPaul Haggis
 p1464
 sg8
-VUK
+VUSA
 p1465
 sg14
-I2006
+I2007
 sg12
-S'w301'
+S'w300'
 p1466
 sg6
-VNotes on a Scandal
+VIn the Valley of Elah
 p1467
 sa(dp1468
 g10
-VMarc Forster
+VRichard Eyre
 p1469
 sg8
 VUK
 p1470
 sg14
-I2008
+I2006
 sg12
-S'w302'
+S'w301'
 p1471
 sg6
-VQuantum of Solace
+VNotes on a Scandal
 p1472
 sa(dp1473
 g10
-VDenys Arcand
+VMarc Forster
 p1474
 sg8
-VCanada
+VUK
 p1475
+sg14
+I2008
+sg12
+S'w302'
+p1476
+sg6
+VQuantum of Solace
+p1477
+sa(dp1478
+g10
+VDenys Arcand
+p1479
+sg8
+VCanada
+p1480
 sg14
 I1986
 sg12
 S'w303'
-p1476
-sg6
-VLe déclin de l'empire américain
-p1477
-sa(dp1478
-g10
-VNiki Caro
-p1479
-sg8
-VUSA
-p1480
-sg14
-I2005
-sg12
-S'w304'
 p1481
 sg6
-VNorth Country
+VLe déclin de l'empire américain
 p1482
 sa(dp1483
 g10
-VSofia Coppola
+VNiki Caro
 p1484
 sg8
 VUSA
 p1485
 sg14
-I1999
+I2005
 sg12
-S'w305'
+S'w304'
 p1486
 sg6
-VThe Virgin Suicides
+VNorth Country
 p1487
 sa(dp1488
 g10
-VRobert Altman
+VSofia Coppola
 p1489
 sg8
-VUK
+VUSA
 p1490
+sg14
+I1999
+sg12
+S'w305'
+p1491
+sg6
+VThe Virgin Suicides
+p1492
+sa(dp1493
+g10
+VRobert Altman
+p1494
+sg8
+VUK
+p1495
 sg14
 I2001
 sg12
 S'w306'
-p1491
+p1496
 sg6
 VGosford Park
-p1492
-sa(dp1493
+p1497
+sa(dp1498
 g10
 VNicole Kassell
-p1494
+p1499
 sg8
 VUSA
-p1495
+p1500
 sg14
 I2004
 sg12
 S'w307'
-p1496
-sg6
-VThe Woodsman
-p1497
-sa(dp1498
-g10
-VFernando Meirelles
-p1499
-sg8
-VUK
-p1500
-sg14
-I2005
-sg12
-S'w308'
 p1501
 sg6
-VThe Constant Gardener
+VThe Woodsman
 p1502
 sa(dp1503
 g10
-VLaurence Dunmore
+VFernando Meirelles
 p1504
 sg8
 VUK
 p1505
 sg14
-I2004
+I2005
 sg12
-S'w309'
+S'w308'
 p1506
 sg6
-VThe Libertine
+VThe Constant Gardener
 p1507
 sa(dp1508
 g10
-VAng Lee
+VLaurence Dunmore
 p1509
 sg8
-VUSA
+VUK
 p1510
 sg14
-I2005
+I2004
 sg12
-S'w310'
+S'w309'
 p1511
 sg6
-VBrokeback Mountain
+VThe Libertine
 p1512
 sa(dp1513
 g10
-VGeorge Clooney
+VAng Lee
 p1514
 sg8
 VUSA
@@ -4499,55 +4525,55 @@ p1515
 sg14
 I2005
 sg12
-S'w311'
+S'w310'
 p1516
 sg6
-VGood Night, and Good Luck.
+VBrokeback Mountain
 p1517
 sa(dp1518
 g10
-VLen Wiseman
+VGeorge Clooney
 p1519
 sg8
-VUK
+VUSA
 p1520
 sg14
-I2003
+I2005
 sg12
-S'w312'
+S'w311'
 p1521
 sg6
-VUnderworld
+VGood Night, and Good Luck.
 p1522
 sa(dp1523
 g10
 VLen Wiseman
 p1524
 sg8
-VUSA
+VUK
 p1525
 sg14
-I2006
+I2003
 sg12
-S'w313'
+S'w312'
 p1526
 sg6
-VUnderworld: Evolution
+VUnderworld
 p1527
 sa(dp1528
 g10
-VWes Anderson
+VLen Wiseman
 p1529
 sg8
 VUSA
 p1530
 sg14
-I2001
+I2006
 sg12
-S'w314'
+S'w313'
 p1531
 sg6
-VThe Royal Tenenbaums
+VUnderworld: Evolution
 p1532
 sa(dp1533
 g10
@@ -4557,12 +4583,12 @@ sg8
 VUSA
 p1535
 sg14
-I1998
+I2001
 sg12
-S'w315'
+S'w314'
 p1536
 sg6
-VRushmore
+VThe Royal Tenenbaums
 p1537
 sa(dp1538
 g10
@@ -4572,102 +4598,102 @@ sg8
 VUSA
 p1540
 sg14
-I2004
+I1998
 sg12
-S'w316'
+S'w315'
 p1541
 sg6
-VThe Life Aquatic with Steve Zissou
+VRushmore
 p1542
 sa(dp1543
 g10
-VSofia Coppola
+VWes Anderson
 p1544
 sg8
 VUSA
 p1545
 sg14
-I2006
+I2004
 sg12
-S'w317'
+S'w316'
 p1546
 sg6
-VMarie Antoinette
+VThe Life Aquatic with Steve Zissou
 p1547
 sa(dp1548
 g10
-VJason Reitman
+VSofia Coppola
 p1549
 sg8
 VUSA
 p1550
 sg14
-I2005
+I2006
 sg12
-S'w318'
+S'w317'
 p1551
 sg6
-VThank You for Smoking
+VMarie Antoinette
 p1552
 sa(dp1553
 g10
-VHans-Christian Schmid
+VJason Reitman
 p1554
 sg8
-VGermany
+VUSA
 p1555
+sg14
+I2005
+sg12
+S'w318'
+p1556
+sg6
+VThank You for Smoking
+p1557
+sa(dp1558
+g10
+VHans-Christian Schmid
+p1559
+sg8
+VGermany
+p1560
 sg14
 I2006
 sg12
 S'w319'
-p1556
-sg6
-VRequiem
-p1557
-sa(dp1558
-g10
-VLoyd Price
-p1559
-sg8
-VUK
-p1560
-sg14
-I2002
-sg12
-S'w320'
 p1561
 sg6
-VWallace & Gromit's Cracking Contraptions
+VRequiem
 p1562
 sa(dp1563
 g10
-VShane Meadows
+VLoyd Price
 p1564
 sg8
 VUK
 p1565
 sg14
-I2006
+I2002
 sg12
-S'w321'
+S'w320'
 p1566
 sg6
-VThis Is England
+VWallace & Gromit's Cracking Contraptions
 p1567
 sa(dp1568
 g10
-VCédric Klapisch
+VShane Meadows
 p1569
 sg8
-VFrance
+VUK
 p1570
 sg14
-I2002
+I2006
 sg12
-S'w322'
+S'w321'
 p1571
 sg6
-VL'auberge espagnole
+VThis Is England
 p1572
 sa(dp1573
 g10
@@ -4677,16 +4703,16 @@ sg8
 VFrance
 p1575
 sg14
-I2005
+I2002
 sg12
-S'w323'
+S'w322'
 p1576
 sg6
-VLes poupées russes
+VL'auberge espagnole
 p1577
 sa(dp1578
 g10
-VJacques Audiard
+VCédric Klapisch
 p1579
 sg8
 VFrance
@@ -4694,55 +4720,55 @@ p1580
 sg14
 I2005
 sg12
-S'w324'
+S'w323'
 p1581
 sg6
-VDe battre mon coeur s'est arrêté
+VLes poupées russes
 p1582
 sa(dp1583
 g10
-VSarah Gavron
+VJacques Audiard
 p1584
 sg8
-VUK
+VFrance
 p1585
+sg14
+I2005
+sg12
+S'w324'
+p1586
+sg6
+VDe battre mon coeur s'est arrêté
+p1587
+sa(dp1588
+g10
+VSarah Gavron
+p1589
+sg8
+VUK
+p1590
 sg14
 I2007
 sg12
 S'w325'
-p1586
+p1591
 sg6
 VBrick Lane
-p1587
-sa(dp1588
+p1592
+sa(dp1593
 g10
 VJohn Carney
-p1589
+p1594
 sg8
 VIreland
-p1590
+p1595
 sg14
 I2006
 sg12
 S'w326'
-p1591
-sg6
-VOnce
-p1592
-sa(dp1593
-g10
-VSteven Spielberg
-p1594
-sg8
-VUSA
-p1595
-sg14
-I2008
-sg12
-S'w327'
 p1596
 sg6
-VIndiana Jones and the Kingdom of the Crystal Skull
+VOnce
 p1597
 sa(dp1598
 g10
@@ -4754,29 +4780,29 @@ p1600
 sg14
 I2008
 sg12
-S'w328'
+S'w327'
 p1601
 sg6
 VIndiana Jones and the Kingdom of the Crystal Skull
 p1602
 sa(dp1603
 g10
-VTodd Haynes
+VSteven Spielberg
 p1604
 sg8
 VUSA
 p1605
 sg14
-I2007
+I2008
 sg12
-S'w329'
+S'w328'
 p1606
 sg6
-VI'm Not There.
+VIndiana Jones and the Kingdom of the Crystal Skull
 p1607
 sa(dp1608
 g10
-VJason Reitman
+VTodd Haynes
 p1609
 sg8
 VUSA
@@ -4784,44 +4810,44 @@ p1610
 sg14
 I2007
 sg12
-S'w330'
+S'w329'
 p1611
 sg6
-VJuno
+VI'm Not There.
 p1612
 sa(dp1613
 g10
-VLars von Trier
+VJason Reitman
 p1614
 sg8
-VDenmark
+VUSA
 p1615
+sg14
+I2007
+sg12
+S'w330'
+p1616
+sg6
+VJuno
+p1617
+sa(dp1618
+g10
+VLars von Trier
+p1619
+sg8
+VDenmark
+p1620
 sg14
 I2006
 sg12
 S'w331'
-p1616
-sg6
-VDirektøren for det hele
-p1617
-sa(dp1618
-g10
-VMark Osborne
-p1619
-sg8
-VUSA
-p1620
-sg14
-I2008
-sg12
-S'w332'
 p1621
 sg6
-VKung Fu Panda
+VDirektøren for det hele
 p1622
 sa(dp1623
 g10
-VAndrew Stanton
+VMark Osborne
 p1624
 sg8
 VUSA
@@ -4829,10 +4855,10 @@ p1625
 sg14
 I2008
 sg12
-S'w333'
+S'w332'
 p1626
 sg6
-VWALL·E
+VKung Fu Panda
 p1627
 sa(dp1628
 g10
@@ -4844,44 +4870,44 @@ p1630
 sg14
 I2008
 sg12
-S'w334'
+S'w333'
 p1631
 sg6
 VWALL·E
 p1632
 sa(dp1633
 g10
-VNick Park
+VAndrew Stanton
 p1634
 sg8
-VUK
+VUSA
 p1635
 sg14
 I2008
 sg12
-S'w335'
+S'w334'
 p1636
 sg6
-VA Matter of Loaf and Death
+VWALL·E
 p1637
 sa(dp1638
 g10
-VBryan Singer
+VNick Park
 p1639
 sg8
-VUSA
+VUK
 p1640
 sg14
 I2008
 sg12
-S'w336'
+S'w335'
 p1641
 sg6
-VValkyrie
+VA Matter of Loaf and Death
 p1642
 sa(dp1643
 g10
-VOliver Stone
+VBryan Singer
 p1644
 sg8
 VUSA
@@ -4889,44 +4915,44 @@ p1645
 sg14
 I2008
 sg12
-S'w337'
+S'w336'
 p1646
 sg6
-VW.
+VValkyrie
 p1647
 sa(dp1648
 g10
-VRichard Curtis
+VOliver Stone
 p1649
 sg8
-VUK
+VUSA
 p1650
+sg14
+I2008
+sg12
+S'w337'
+p1651
+sg6
+VW.
+p1652
+sa(dp1653
+g10
+VRichard Curtis
+p1654
+sg8
+VUK
+p1655
 sg14
 I2009
 sg12
 S'w338'
-p1651
-sg6
-VThe Boat That Rocked
-p1652
-sa(dp1653
-g10
-VClint Eastwood
-p1654
-sg8
-VUSA
-p1655
-sg14
-I2008
-sg12
-S'w339'
 p1656
 sg6
-VGran Torino
+VThe Boat That Rocked
 p1657
 sa(dp1658
 g10
-VDavid Fincher
+VClint Eastwood
 p1659
 sg8
 VUSA
@@ -4934,70 +4960,70 @@ p1660
 sg14
 I2008
 sg12
-S'w340'
+S'w339'
 p1661
 sg6
-VThe Curious Case of Benjamin Button
+VGran Torino
 p1662
 sa(dp1663
 g10
-VCarol Reed
+VDavid Fincher
 p1664
 sg8
-VUK
+VUSA
 p1665
+sg14
+I2008
+sg12
+S'w340'
+p1666
+sg6
+VThe Curious Case of Benjamin Button
+p1667
+sa(dp1668
+g10
+VCarol Reed
+p1669
+sg8
+VUK
+p1670
 sg14
 I1949
 sg12
 S'w341'
-p1666
+p1671
 sg6
 VThe Third Man
-p1667
-sa(dp1668
+p1672
+sa(dp1673
 g10
 VRolf de Heer
-p1669
+p1674
 sg8
 VAustralia
-p1670
+p1675
 sg14
 I2006
 sg12
 S'w342'
-p1671
-sg6
-VTen Canoes
-p1672
-sa(dp1673
-g10
-VThomas McCarthy
-p1674
-sg8
-VUSA
-p1675
-sg14
-I2007
-sg12
-S'w343'
 p1676
 sg6
-VThe Visitor
+VTen Canoes
 p1677
 sa(dp1678
 g10
-VJoss Whedon
+VThomas McCarthy
 p1679
 sg8
 VUSA
 p1680
 sg14
-I1997
+I2007
 sg12
-S'w344'
+S'w343'
 p1681
 sg6
-VBuffy the Vampire Slayer
+VThe Visitor
 p1682
 sa(dp1683
 g10
@@ -5009,7 +5035,7 @@ p1685
 sg14
 I1997
 sg12
-S'w345'
+S'w344'
 p1686
 sg6
 VBuffy the Vampire Slayer
@@ -5024,7 +5050,7 @@ p1690
 sg14
 I1997
 sg12
-S'w346'
+S'w345'
 p1691
 sg6
 VBuffy the Vampire Slayer
@@ -5039,7 +5065,7 @@ p1695
 sg14
 I1997
 sg12
-S'w347'
+S'w346'
 p1696
 sg6
 VBuffy the Vampire Slayer
@@ -5054,7 +5080,7 @@ p1700
 sg14
 I1997
 sg12
-S'w348'
+S'w347'
 p1701
 sg6
 VBuffy the Vampire Slayer
@@ -5069,7 +5095,7 @@ p1705
 sg14
 I1997
 sg12
-S'w349'
+S'w348'
 p1706
 sg6
 VBuffy the Vampire Slayer
@@ -5084,7 +5110,7 @@ p1710
 sg14
 I1997
 sg12
-S'w350'
+S'w349'
 p1711
 sg6
 VBuffy the Vampire Slayer
@@ -5099,7 +5125,7 @@ p1715
 sg14
 I1997
 sg12
-S'w351'
+S'w350'
 p1716
 sg6
 VBuffy the Vampire Slayer
@@ -5114,100 +5140,100 @@ p1720
 sg14
 I1997
 sg12
-S'w352'
+S'w351'
 p1721
 sg6
 VBuffy the Vampire Slayer
 p1722
 sa(dp1723
 g10
-VTinto Brass
+VJoss Whedon
 p1724
 sg8
-VItaly
+VUSA
 p1725
+sg14
+I1997
+sg12
+S'w352'
+p1726
+sg6
+VBuffy the Vampire Slayer
+p1727
+sa(dp1728
+g10
+VTinto Brass
+p1729
+sg8
+VItaly
+p1730
 sg14
 I1979
 sg12
 S'w353'
-p1726
-sg6
-VCaligola
-p1727
-sa(dp1728
-g10
-VGus Van Sant
-p1729
-sg8
-VUSA
-p1730
-sg14
-I2002
-sg12
-S'w354'
 p1731
 sg6
-VGerry
+VCaligola
 p1732
 sa(dp1733
 g10
-VFrank Miller
+VGus Van Sant
 p1734
 sg8
 VUSA
 p1735
 sg14
-I2005
+I2002
 sg12
-S'w355'
+S'w354'
 p1736
 sg6
-VSin City
+VGerry
 p1737
 sa(dp1738
 g10
-VDavid Lynch
+VFrank Miller
 p1739
 sg8
 VUSA
 p1740
 sg14
-I1980
+I2005
 sg12
-S'w356'
+S'w355'
 p1741
 sg6
-VThe Elephant Man
+VSin City
 p1742
 sa(dp1743
 g10
 VDavid Lynch
 p1744
 sg8
-VFrance
+VUSA
 p1745
 sg14
-I1992
+I1980
 sg12
-S'w357'
+S'w356'
 p1746
 sg6
-VTwin Peaks: Fire Walk with Me
+VThe Elephant Man
 p1747
 sa(dp1748
 g10
 VDavid Lynch
 p1749
 sg8
-VUSA
+VFrance
 p1750
 sg14
-I1990
+I1992
 sg12
-S'w358'
+S'w357'
 p1751
 sg6
-VTwin Peaks
+VTwin Peaks: Fire Walk with Me
 p1752
 sa(dp1753
 g10
@@ -5219,7 +5245,7 @@ p1755
 sg14
 I1990
 sg12
-S'w359'
+S'w358'
 p1756
 sg6
 VTwin Peaks
@@ -5234,7 +5260,7 @@ p1760
 sg14
 I1990
 sg12
-S'w360'
+S'w359'
 p1761
 sg6
 VTwin Peaks
@@ -5249,7 +5275,7 @@ p1765
 sg14
 I1990
 sg12
-S'w361'
+S'w360'
 p1766
 sg6
 VTwin Peaks
@@ -5264,7 +5290,7 @@ p1770
 sg14
 I1990
 sg12
-S'w362'
+S'w361'
 p1771
 sg6
 VTwin Peaks
@@ -5279,7 +5305,7 @@ p1775
 sg14
 I1990
 sg12
-S'w363'
+S'w362'
 p1776
 sg6
 VTwin Peaks
@@ -5294,7 +5320,7 @@ p1780
 sg14
 I1990
 sg12
-S'w364'
+S'w363'
 p1781
 sg6
 VTwin Peaks
@@ -5309,7 +5335,7 @@ p1785
 sg14
 I1990
 sg12
-S'w365'
+S'w364'
 p1786
 sg6
 VTwin Peaks
@@ -5324,7 +5350,7 @@ p1790
 sg14
 I1990
 sg12
-S'w366'
+S'w365'
 p1791
 sg6
 VTwin Peaks
@@ -5339,3938 +5365,4197 @@ p1795
 sg14
 I1990
 sg12
-S'w367'
+S'w366'
 p1796
 sg6
 VTwin Peaks
 p1797
 sa(dp1798
 g10
-VJohn Carpenter
+VDavid Lynch
 p1799
 sg8
 VUSA
 p1800
 sg14
-I1982
+I1990
 sg12
-S'w368'
+S'w367'
 p1801
 sg6
-VThe Thing
+VTwin Peaks
 p1802
 sa(dp1803
 g10
-VDavid Fincher
+VJohn Carpenter
 p1804
 sg8
 VUSA
 p1805
 sg14
-I1995
+I1982
 sg12
-S'w369'
+S'w368'
 p1806
 sg6
-VSe7en
+VThe Thing
 p1807
 sa(dp1808
-g10
-VKenneth Branagh
+S'plot'
 p1809
+g3
+sS'img'
+p1810
+S'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'
+p1811
+sg6
+VSe7en
+p1812
 sg8
 VUSA
-p1810
+p1813
+sg10
+VDavid Fincher
+p1814
+sg12
+S'w369'
+p1815
+sg14
+I1995
+sa(dp1816
+g10
+VKenneth Branagh
+p1817
+sg8
+VUSA
+p1818
 sg14
 I2007
 sg12
 S'w370'
-p1811
+p1819
 sg6
 VSleuth
-p1812
-sa(dp1813
+p1820
+sa(dp1821
 g10
 VÁlex de la Iglesia
-p1814
+p1822
 sg8
 VSpain
-p1815
+p1823
 sg14
 I2008
 sg12
 S'w371'
-p1816
+p1824
 sg6
 VThe Oxford Murders
-p1817
-sa(dp1818
+p1825
+sa(dp1826
 g10
 VAndrea Arnold
-p1819
+p1827
 sg8
 VUK
-p1820
+p1828
 sg14
 I2009
 sg12
 S'w372'
-p1821
+p1829
 sg6
 VFish Tank
-p1822
-sa(dp1823
+p1830
+sa(dp1831
 g10
 VStanley Kubrick
-p1824
+p1832
 sg8
 VUK
-p1825
+p1833
 sg14
 I1975
 sg12
 S'w373'
-p1826
+p1834
 sg6
 VBarry Lyndon
-p1827
-sa(dp1828
+p1835
+sa(dp1836
 g10
 VStanley Kubrick
-p1829
+p1837
 sg8
 VUK
-p1830
+p1838
 sg14
 I1987
 sg12
 S'w374'
-p1831
+p1839
 sg6
 VFull Metal Jacket
-p1832
-sa(dp1833
+p1840
+sa(dp1841
 g10
 VStanley Kubrick
-p1834
+p1842
 sg8
 VUSA
-p1835
+p1843
 sg14
 I1968
 sg12
 S'w375'
-p1836
+p1844
 sg6
 V2001: A Space Odyssey
-p1837
-sa(dp1838
+p1845
+sa(dp1846
 g10
 VStanley Kubrick
-p1839
+p1847
 sg8
 VUK
-p1840
+p1848
 sg14
 I1971
 sg12
 S'w376'
-p1841
+p1849
 sg6
 VA Clockwork Orange
-p1842
-sa(dp1843
+p1850
+sa(dp1851
 g10
 VFrancis Ford Coppola
-p1844
+p1852
 sg8
 VUSA
-p1845
+p1853
 sg14
 I1979
 sg12
 S'w377'
-p1846
+p1854
 sg6
 VApocalypse Now
-p1847
-sa(dp1848
+p1855
+sa(dp1856
 g10
 VOliver Stone
-p1849
+p1857
 sg8
 VUK
-p1850
+p1858
 sg14
 I1986
 sg12
 S'w378'
-p1851
+p1859
 sg6
 VPlatoon
-p1852
-sa(dp1853
+p1860
+sa(dp1861
 g10
 VTerrence Malick
-p1854
+p1862
 sg8
 VUSA
-p1855
+p1863
 sg14
 I1998
 sg12
 S'w379'
-p1856
+p1864
 sg6
 VThe Thin Red Line
-p1857
-sa(dp1858
+p1865
+sa(dp1866
 g10
 VJohn Moore
-p1859
+p1867
 sg8
 VUSA
-p1860
+p1868
 sg14
 I2001
 sg12
 S'w380'
-p1861
+p1869
 sg6
 VBehind Enemy Lines
-p1862
-sa(dp1863
+p1870
+sa(dp1871
 g10
 VEdward Zwick
-p1864
+p1872
 sg8
 VUSA
-p1865
+p1873
 sg14
 I1996
 sg12
 S'w381'
-p1866
+p1874
 sg6
 VCourage Under Fire
-p1867
-sa(dp1868
+p1875
+sa(dp1876
 g10
 VWerner Herzog
-p1869
+p1877
 sg8
 VUSA
-p1870
+p1878
 sg14
 I2006
 sg12
 S'w382'
-p1871
+p1879
 sg6
 VRescue Dawn
-p1872
-sa(dp1873
+p1880
+sa(dp1881
 g10
 VJean-Jacques Annaud
-p1874
+p1882
 sg8
 VUSA
-p1875
+p1883
 sg14
 I2001
 sg12
 S'w383'
-p1876
+p1884
 sg6
 VEnemy at the Gates
-p1877
-sa(dp1878
+p1885
+sa(dp1886
 g10
 VJohn Woo
-p1879
+p1887
 sg8
 VUSA
-p1880
+p1888
 sg14
 I2002
 sg12
 S'w384'
-p1881
+p1889
 sg6
 VWindtalkers
-p1882
-sa(dp1883
+p1890
+sa(dp1891
 g10
 VJoel Schumacher
-p1884
+p1892
 sg8
 VUSA
-p1885
+p1893
 sg14
 I2000
 sg12
 S'w385'
-p1886
+p1894
 sg6
 VTigerland
-p1887
-sa(dp1888
+p1895
+sa(dp1896
 g10
 VJonathan Demme
-p1889
+p1897
 sg8
 VUSA
-p1890
+p1898
 sg14
 I1991
 sg12
 S'w386'
-p1891
+p1899
 sg6
 VThe Silence of the Lambs
-p1892
-sa(dp1893
+p1900
+sa(dp1901
 g10
 VRidley Scott
-p1894
+p1902
 sg8
 VUK
-p1895
+p1903
 sg14
 I2001
 sg12
 S'w387'
-p1896
+p1904
 sg6
 VHannibal
-p1897
-sa(dp1898
+p1905
+sa(dp1906
 g10
 VBrett Ratner
-p1899
+p1907
 sg8
 VUSA
-p1900
+p1908
 sg14
 I2002
 sg12
 S'w388'
-p1901
+p1909
 sg6
 VRed Dragon
-p1902
-sa(dp1903
+p1910
+sa(dp1911
 g10
 VDavid Cronenberg
-p1904
+p1912
 sg8
 VCanada
-p1905
+p1913
 sg14
 I1996
 sg12
 S'w389'
-p1906
+p1914
 sg6
 VCrash
-p1907
-sa(dp1908
+p1915
+sa(dp1916
 g10
 VDavid Cronenberg
-p1909
+p1917
 sg8
 VCanada
-p1910
+p1918
 sg14
 I1991
 sg12
 S'w390'
-p1911
+p1919
 sg6
 VNaked Lunch
-p1912
-sa(dp1913
+p1920
+sa(dp1921
 g10
 VDavid Cronenberg
-p1914
+p1922
 sg8
 VUSA
-p1915
+p1923
 sg14
 I2007
 sg12
 S'w391'
-p1916
+p1924
 sg6
 VEastern Promises
-p1917
-sa(dp1918
+p1925
+sa(dp1926
 g10
 VBill Anderson
-p1919
+p1927
 sg8
 VUSA
-p1920
+p1928
 sg14
 I2006
 sg12
 S'w392'
-p1921
+p1929
 sg6
 VLewis
-p1922
-sa(dp1923
+p1930
+sa(dp1931
 g10
 VBill Anderson
-p1924
+p1932
 sg8
 VUSA
-p1925
+p1933
 sg14
 I2006
 sg12
 S'w393'
-p1926
+p1934
 sg6
 VLewis
-p1927
-sa(dp1928
+p1935
+sa(dp1936
 g10
 VBill Anderson
-p1929
+p1937
 sg8
 VUSA
-p1930
+p1938
 sg14
 I2006
 sg12
 S'w394'
-p1931
+p1939
 sg6
 VLewis
-p1932
-sa(dp1933
+p1940
+sa(dp1941
 g10
 VBill Anderson
-p1934
+p1942
 sg8
 VUSA
-p1935
+p1943
 sg14
 I2006
 sg12
 S'w395'
-p1936
+p1944
 sg6
 VLewis
-p1937
-sa(dp1938
+p1945
+sa(dp1946
 g10
 VTerry Gilliam
-p1939
+p1947
 sg8
 VUSA
-p1940
+p1948
 sg14
 I1998
 sg12
 S'w396'
-p1941
+p1949
 sg6
 VFear and Loathing in Las Vegas
-p1942
-sa(dp1943
+p1950
+sa(dp1951
 g10
 VQuentin Tarantino
-p1944
+p1952
 sg8
 VUSA
-p1945
+p1953
 sg14
 I2009
 sg12
 S'w397'
-p1946
+p1954
 sg6
 VInglourious Basterds
-p1947
-sa(dp1948
+p1955
+sa(dp1956
 g10
 VJoel Coen
-p1949
+p1957
 sg8
 VUSA
-p1950
+p1958
 sg14
 I1998
 sg12
 S'w398'
-p1951
+p1959
 sg6
 VThe Big Lebowski
-p1952
-sa(dp1953
+p1960
+sa(dp1961
 g10
 VJoel Coen
-p1954
+p1962
 sg8
 VUSA
-p1955
+p1963
 sg14
 I1990
 sg12
 S'w399'
-p1956
+p1964
 sg6
 VMiller's Crossing
-p1957
-sa(dp1958
+p1965
+sa(dp1966
 g10
 VJoel Coen
-p1959
+p1967
 sg8
 VUSA
-p1960
+p1968
 sg14
 I1987
 sg12
 S'w400'
-p1961
+p1969
 sg6
 VRaising Arizona
-p1962
-sa(dp1963
+p1970
+sa(dp1971
 g10
 VJoel Coen
-p1964
+p1972
 sg8
 VUSA
-p1965
+p1973
 sg14
 I1996
 sg12
 S'w401'
-p1966
+p1974
 sg6
 VFargo
-p1967
-sa(dp1968
+p1975
+sa(dp1976
 g10
 VEthan Coen
-p1969
+p1977
 sg8
 VUSA
-p1970
+p1978
 sg14
 I2008
 sg12
 S'w402'
-p1971
+p1979
 sg6
 VBurn After Reading
-p1972
-sa(dp1973
+p1980
+sa(dp1981
 g10
 VGuy Ritchie
-p1974
+p1982
 sg8
 VUK
-p1975
+p1983
 sg14
 I2000
 sg12
 S'w403'
-p1976
+p1984
 sg6
 VSnatch.
-p1977
-sa(dp1978
+p1985
+sa(dp1986
 g10
 VGuy Ritchie
-p1979
+p1987
 sg8
 VUK
-p1980
+p1988
 sg14
 I2000
 sg12
 S'w404'
-p1981
+p1989
 sg6
 VSnatch.
-p1982
-sa(dp1983
+p1990
+sa(dp1991
 g10
 VGuy Ritchie
-p1984
+p1992
 sg8
 VUK
-p1985
+p1993
 sg14
 I1998
 sg12
 S'w405'
-p1986
+p1994
 sg6
 VLock, Stock and Two Smoking Barrels
-p1987
-sa(dp1988
+p1995
+sa(dp1996
 g10
 VMichael Haneke
-p1989
+p1997
 sg8
 VFrance
-p1990
+p1998
 sg14
 I2000
 sg12
 S'w406'
-p1991
+p1999
 sg6
 VCode inconnu: Récit incomplet de divers voyages
-p1992
-sa(dp1993
+p2000
+sa(dp2001
 g10
 VMichael Haneke
-p1994
+p2002
 sg8
 VAustria
-p1995
+p2003
 sg14
 I2001
 sg12
 S'w407'
-p1996
+p2004
 sg6
 VLa pianiste
-p1997
-sa(dp1998
+p2005
+sa(dp2006
 g10
 VMichael Haneke
-p1999
+p2007
 sg8
 VFrance
-p2000
+p2008
 sg14
 I2003
 sg12
 S'w408'
-p2001
+p2009
 sg6
 VLe temps du loup
-p2002
-sa(dp2003
+p2010
+sa(dp2011
 g10
 VMichael Haneke
-p2004
+p2012
 sg8
 VFrance
-p2005
+p2013
 sg14
 I2005
 sg12
 S'w409'
-p2006
+p2014
 sg6
 VCaché
-p2007
-sa(dp2008
+p2015
+sa(dp2016
 g10
 VMichael Haneke
-p2009
+p2017
 sg8
 VUSA
-p2010
+p2018
 sg14
 I2007
 sg12
 S'w410'
-p2011
+p2019
 sg6
 VFunny Games U.S.
-p2012
-sa(dp2013
+p2020
+sa(dp2021
 g10
 VMichael Haneke
-p2014
+p2022
 sg8
 VAustria
-p2015
+p2023
 sg14
 I1989
 sg12
 S'w411'
-p2016
+p2024
 sg6
 VDer siebente Kontinent
-p2017
-sa(dp2018
+p2025
+sa(dp2026
 g10
 VMichael Haneke
-p2019
+p2027
 sg8
 VAustria
-p2020
+p2028
 sg14
 I1992
 sg12
 S'w412'
-p2021
+p2029
 sg6
 VBenny's Video
-p2022
-sa(dp2023
+p2030
+sa(dp2031
 g10
 VMichael Haneke
-p2024
+p2032
 sg8
 VAustria
-p2025
+p2033
 sg14
 I1994
 sg12
 S'w413'
-p2026
+p2034
 sg6
 V71 Fragmente einer Chronologie des Zufalls
-p2027
-sa(dp2028
+p2035
+sa(dp2036
 g10
 VMichael Haneke
-p2029
+p2037
 sg8
 VGermany
-p2030
+p2038
 sg14
 I1997
 sg12
 S'w414'
-p2031
+p2039
 sg6
 VDas Schloß
-p2032
-sa(dp2033
+p2040
+sa(dp2041
 g10
 VMichael Haneke
-p2034
+p2042
 sg8
 VAustria
-p2035
+p2043
 sg14
 I1997
 sg12
 S'w415'
-p2036
+p2044
 sg6
 VFunny Games
-p2037
-sa(dp2038
+p2045
+sa(dp2046
 g10
 VMichael Haneke
-p2039
+p2047
 sg8
 VGermany
-p2040
+p2048
 sg14
 I2009
 sg12
 S'w416'
-p2041
+p2049
 sg6
 VDas weiße Band - Eine deutsche Kindergeschichte
-p2042
-sa(dp2043
+p2050
+sa(dp2051
 g10
 VLars von Trier
-p2044
+p2052
 sg8
 VDenmark
-p2045
+p2053
 sg14
 I1984
 sg12
 S'w417'
-p2046
+p2054
 sg6
 VForbrydelsens element
-p2047
-sa(dp2048
+p2055
+sa(dp2056
 g10
 VLars von Trier
-p2049
+p2057
 sg8
 VDenmark
-p2050
+p2058
 sg14
 I1987
 sg12
 S'w418'
-p2051
+p2059
 sg6
 VEpidemic
-p2052
-sa(dp2053
+p2060
+sa(dp2061
 g10
 VLars von Trier
-p2054
+p2062
 sg8
 VSpain
-p2055
+p2063
 sg14
 I1991
 sg12
 S'w419'
-p2056
+p2064
 sg6
 VEuropa
-p2057
-sa(dp2058
+p2065
+sa(dp2066
 g10
 VLars von Trier
-p2059
+p2067
 sg8
 VSpain
-p2060
+p2068
 sg14
 I1991
 sg12
 S'w420'
-p2061
+p2069
 sg6
 VEuropa
-p2062
-sa(dp2063
+p2070
+sa(dp2071
 g10
 VLars von Trier
-p2064
+p2072
 sg8
 VDenmark
-p2065
+p2073
 sg14
 I2009
 sg12
 S'w421'
-p2066
+p2074
 sg6
 VAntichrist
-p2067
-sa(dp2068
+p2075
+sa(dp2076
 g10
 VWes Anderson
-p2069
+p2077
 sg8
 VUSA
-p2070
+p2078
 sg14
 I2009
 sg12
 S'w422'
-p2071
+p2079
 sg6
 VFantastic Mr. Fox
-p2072
-sa(dp2073
+p2080
+sa(dp2081
 g10
 VJohn Lasseter
-p2074
+p2082
 sg8
 VUSA
-p2075
+p2083
 sg14
 I1995
 sg12
 S'w423'
-p2076
+p2084
 sg6
 VToy Story
-p2077
-sa(dp2078
+p2085
+sa(dp2086
 g10
 VByron Haskin
-p2079
+p2087
 sg8
 VUK
-p2080
+p2088
 sg14
 I1950
 sg12
 S'w424'
-p2081
+p2089
 sg6
 VTreasure Island
-p2082
-sa(dp2083
+p2090
+sa(dp2091
 g10
 VPedro Almodóvar
-p2084
+p2092
 sg8
 VSpain
-p2085
+p2093
 sg14
 I2009
 sg12
 S'w425'
-p2086
+p2094
 sg6
 VLos abrazos rotos
-p2087
-sa(dp2088
+p2095
+sa(dp2096
 g10
 VSam Mendes
-p2089
+p2097
 sg8
 VUSA
-p2090
+p2098
 sg14
 I2008
 sg12
 S'w426'
-p2091
+p2099
 sg6
 VRevolutionary Road
-p2092
-sa(dp2093
+p2100
+sa(dp2101
 g10
 VGuillaume Canet
-p2094
+p2102
 sg8
 VFrance
-p2095
+p2103
 sg14
 I2006
 sg12
 S'w427'
-p2096
+p2104
 sg6
 VNe le dis à personne
-p2097
-sa(dp2098
+p2105
+sa(dp2106
 g10
 VStephen Daldry
-p2099
+p2107
 sg8
 VUSA
-p2100
+p2108
 sg14
 I2008
 sg12
 S'w428'
-p2101
+p2109
 sg6
 VThe Reader
-p2102
-sa(dp2103
+p2110
+sa(dp2111
 g10
 VMax Lang
-p2104
+p2112
 sg8
 VUK
-p2105
+p2113
 sg14
 I2009
 sg12
 S'w429'
-p2106
+p2114
 sg6
 VThe Gruffalo
-p2107
-sa(dp2108
+p2115
+sa(dp2116
 g10
 VAdam McKay
-p2109
+p2117
 sg8
 VUSA
-p2110
+p2118
 sg14
 I2006
 sg12
 S'w430'
-p2111
-sg6
-VTalladega Nights: The Ballad of Ricky Bobby
-p2112
-sa(dp2113
-g10
-VWayne Kramer
-p2114
-sg8
-VUSA
-p2115
-sg14
-I2003
-sg12
-S'w431'
-p2116
-sg6
-VThe Cooler
-p2117
-sa(dp2118
-g12
-S'w433'
 p2119
 sg6
-S'Meet the Fockers'
+VTalladega Nights: The Ballad of Ricky Bobby
 p2120
 sa(dp2121
 g10
-VAdam McKay
+VWayne Kramer
 p2122
 sg8
 VUSA
 p2123
 sg14
+I2003
+sg12
+S'w431'
+p2124
+sg6
+VThe Cooler
+p2125
+sa(dp2126
+g549
+g550
+sg12
+S'w433'
+p2127
+sg6
+S'Meet the Fockers'
+p2128
+sa(dp2129
+g10
+VAdam McKay
+p2130
+sg8
+VUSA
+p2131
+sg14
 I2004
 sg12
 S'w434'
-p2124
+p2132
 sg6
 VAnchorman: The Legend of Ron Burgundy
-p2125
-sa(dp2126
+p2133
+sa(dp2134
 g10
 VMike Newell
-p2127
+p2135
 sg8
 VUSA
-p2128
+p2136
 sg14
 I1997
 sg12
 S'w435'
-p2129
+p2137
 sg6
 VDonnie Brasco
-p2130
-sa(dp2131
+p2138
+sa(dp2139
 g10
 VJ.A. Bayona
-p2132
+p2140
 sg8
 VSpain
-p2133
+p2141
 sg14
 I2007
 sg12
 S'w436'
-p2134
+p2142
 sg6
 VEl orfanato
-p2135
-sa(dp2136
+p2143
+sa(dp2144
 g10
 VDoug Liman
-p2137
+p2145
 sg8
 VUSA
-p2138
+p2146
 sg14
 I2008
 sg12
 S'w437'
-p2139
+p2147
 sg6
 VJumper
-p2140
-sa(dp2141
+p2148
+sa(dp2149
 g10
 VCharles Dance
-p2142
+p2150
 sg8
 VUK
-p2143
+p2151
 sg14
 I2004
 sg12
 S'w438'
-p2144
+p2152
 sg6
 VLadies in Lavender.
-p2145
-sa(dp2146
+p2153
+sa(dp2154
 g10
 VJeff Bemiss
-p2147
+p2155
 sg8
 VUSA
-p2148
+p2156
 sg14
 I2001
 sg12
 S'w439'
-p2149
+p2157
 sg6
 VThe Book and the Rose
-p2150
-sa(dp2151
+p2158
+sa(dp2159
 g10
 VJan Svankmajer
-p2152
+p2160
 sg8
 VUSA
-p2153
+p2161
 sg14
 I2003
 sg12
 S'w440'
-p2154
+p2162
 sg6
 VThe Collected Shorts of Jan Svankmajer: The Early Years Vol. 1
-p2155
-sa(dp2156
+p2163
+sa(dp2164
 g10
 VJames Marsh
-p2157
+p2165
 sg8
 VUSA
-p2158
+p2166
 sg14
 I2003
 sg12
 S'w442'
-p2159
+p2167
 sg6
 VThe Collected Shorts of Jan Svankmajer: The Later Years Vol. 2
-p2160
-sa(dp2161
-g12
+p2168
+sa(dp2169
+g549
+g550
+sg12
 S'w442'
-p2162
+p2170
 sg6
 S"Svanjmajer's Short Films Extras"
-p2163
-sa(dp2164
+p2171
+sa(dp2172
 g10
 VYoussef Chahine
-p2165
+p2173
 sg8
 VUK
-p2166
+p2174
 sg14
 I2002
 sg12
 S'w443'
-p2167
+p2175
 sg6
 V11'09''01 - September 11
-p2168
-sa(dp2169
+p2176
+sa(dp2177
 g10
 VPeter Chung
-p2170
+p2178
 sg8
 VUSA
-p2171
+p2179
 sg14
 I2003
 sg12
 S'w444'
-p2172
+p2180
 sg6
 VThe Animatrix
-p2173
-sa(dp2174
+p2181
+sa(dp2182
 g10
 VMartin Parr
-p2175
+p2183
 sg8
 VUK
-p2176
+p2184
 sg14
 I2003
 sg12
 S'w445'
-p2177
+p2185
 sg6
 VCinema16: British Short Films
-p2178
-sa(dp2179
-g12
+p2186
+sa(dp2187
+g549
+g550
+sg12
 S'w446'
-p2180
+p2188
 sg6
 S'Cinema 16: European Short Films'
-p2181
-sa(dp2182
-g14
+p2189
+sa(dp2190
+g549
+g550
+sg14
 I2006
 sg12
 S'w447'
-p2183
+p2191
 sg6
 S'Cinema16: American Short Films'
-p2184
-sa(dp2185
+p2192
+sa(dp2193
 g10
 VChristopher Nolan
-p2186
+p2194
 sg8
 VUSA
-p2187
+p2195
 sg14
 I2010
 sg12
 S'w448'
-p2188
+p2196
 sg6
 VInception
-p2189
-sa(dp2190
+p2197
+sa(dp2198
 g10
 VWolfgang Becker
-p2191
+p2199
 sg8
 VGermany
-p2192
+p2200
 sg14
 I2003
 sg12
 S'w449'
-p2193
+p2201
 sg6
 VGood Bye Lenin!
-p2194
-sa(dp2195
+p2202
+sa(dp2203
 g10
 VRidley Scott
-p2196
+p2204
 sg8
 VUSA
-p2197
+p2205
 sg14
 I2007
 sg12
 S'w450'
-p2198
+p2206
 sg6
 VAmerican Gangster
-p2199
-sa(dp2200
+p2207
+sa(dp2208
 g10
 VMartin Scorsese
-p2201
+p2209
 sg8
 VUSA
-p2202
+p2210
 sg14
 I1995
 sg12
 S'w451'
-p2203
+p2211
 sg6
 VCasino
-p2204
-sa(dp2205
+p2212
+sa(dp2213
 g10
 VBrian De Palma
-p2206
+p2214
 sg8
 VUSA
-p2207
+p2215
 sg14
 I1993
 sg12
 S'w452'
-p2208
+p2216
 sg6
 VCarlito's Way
-p2209
-sa(dp2210
+p2217
+sa(dp2218
 g10
 VBrian De Palma
-p2211
+p2219
 sg8
 VUSA
-p2212
+p2220
 sg14
 I1983
 sg12
 S'w453'
-p2213
+p2221
 sg6
 VScarface
-p2214
-sa(dp2215
+p2222
+sa(dp2223
 g10
 VMartin Scorsese
-p2216
+p2224
 sg8
 VUSA
-p2217
+p2225
 sg14
 I1973
 sg12
 S'w454'
-p2218
+p2226
 sg6
 VMean Streets
-p2219
-sa(dp2220
+p2227
+sa(dp2228
 g10
 VEthan Maniquis
-p2221
+p2229
 sg8
 VUSA
-p2222
+p2230
 sg14
 I2010
 sg12
 S'w455'
-p2223
+p2231
 sg6
 VMachete
-p2224
-sa(dp2225
+p2232
+sa(dp2233
 g10
 VDavid Fincher
-p2226
+p2234
 sg8
 VUSA
-p2227
+p2235
 sg14
 I2010
 sg12
 S'w456'
-p2228
+p2236
 sg6
 VThe Social Network
-p2229
-sa(dp2230
+p2237
+sa(dp2238
 g10
 VDavid Yates
-p2231
+p2239
 sg8
 VUK
-p2232
+p2240
 sg14
 I2009
 sg12
 S'w457'
-p2233
+p2241
 sg6
 VHarry Potter and the Half-Blood Prince
-p2234
-sa(dp2235
+p2242
+sa(dp2243
 g10
 VDavid Yates
-p2236
+p2244
 sg8
 VUK
-p2237
+p2245
 sg14
 I2010
 sg12
 S'w458'
-p2238
-sg6
-VHarry Potter and the Deathly Hallows: Part 1
-p2239
-sa(dp2240
-g10
-VDean DeBlois
-p2241
-sg8
-VUSA
-p2242
-sg14
-I2010
-sg12
-S'w459'
-p2243
-sg6
-VHow to Train Your Dragon
-p2244
-sa(dp2245
-g12
-S'w460'
 p2246
 sg6
-S'Kippur'
+VHarry Potter and the Deathly Hallows: Part 1
 p2247
 sa(dp2248
 g10
-VRoman Polanski
+VDean DeBlois
 p2249
 sg8
-VFrance
+VUSA
 p2250
 sg14
 I2010
 sg12
-S'w461'
+S'w459'
 p2251
 sg6
-VThe Ghost Writer
+VHow to Train Your Dragon
 p2252
 sa(dp2253
+g549
+g550
+sg12
+S'w460'
+p2254
+sg6
+S'Kippur'
+p2255
+sa(dp2256
+g10
+VRoman Polanski
+p2257
+sg8
+VFrance
+p2258
+sg14
+I2010
+sg12
+S'w461'
+p2259
+sg6
+VThe Ghost Writer
+p2260
+sa(dp2261
 g10
 VJames Mangold
-p2254
+p2262
 sg8
 VUSA
-p2255
+p2263
 sg14
 I2010
 sg12
 S'w462'
-p2256
+p2264
 sg6
 VKnight and Day
-p2257
-sa(dp2258
+p2265
+sa(dp2266
 g10
 VScandar Copti
-p2259
+p2267
 sg8
 VGermany
-p2260
+p2268
 sg14
 I2009
 sg12
 S'w463'
-p2261
+p2269
 sg6
 VAjami
-p2262
-sa(dp2263
+p2270
+sa(dp2271
 g10
 VGiorgos Lanthimos
-p2264
+p2272
 sg8
 VGreece
-p2265
+p2273
 sg14
 I2009
 sg12
 S'w464'
-p2266
+p2274
 sg6
 VKynodontas
-p2267
-sa(dp2268
+p2275
+sa(dp2276
 g10
 VCristian Nemescu
-p2269
+p2277
 sg8
 VRomania
-p2270
+p2278
 sg14
 I2007
 sg12
 S'w465'
-p2271
+p2279
 sg6
 VCalifornia Dreamin' (Nesfarsit)
-p2272
-sa(dp2273
+p2280
+sa(dp2281
 g10
 VClint Eastwood
-p2274
+p2282
 sg8
 VUSA
-p2275
+p2283
 sg14
 I2008
 sg12
 S'w466'
-p2276
+p2284
 sg6
 VGran Torino
-p2277
-sa(dp2278
+p2285
+sa(dp2286
 g10
 VTim Burton
-p2279
+p2287
 sg8
 VUSA
-p2280
+p2288
 sg14
 I2010
 sg12
 S'w467'
-p2281
+p2289
 sg6
 VAlice in Wonderland
-p2282
-sa(dp2283
+p2290
+sa(dp2291
 g10
 VNiels Arden Oplev
-p2284
+p2292
 sg8
 VSweden
-p2285
+p2293
 sg14
 I2009
 sg12
 S'w468'
-p2286
+p2294
 sg6
 VMän som hatar kvinnor
-p2287
-sa(dp2288
+p2295
+sa(dp2296
 g10
 VJean-Pierre Jeunet
-p2289
+p2297
 sg8
 VFrance
-p2290
+p2298
 sg14
 I2009
 sg12
 S'w469'
-p2291
+p2299
 sg6
 VMicmacs à tire-larigot
-p2292
-sa(dp2293
+p2300
+sa(dp2301
 g10
 VJacques Audiard
-p2294
+p2302
 sg8
 VFrance
-p2295
+p2303
 sg14
 I2009
 sg12
 S'w470'
-p2296
+p2304
 sg6
 VUn prophète
-p2297
-sa(dp2298
-g12
+p2305
+sa(dp2306
+g549
+g550
+sg12
 S'w471'
-p2299
+p2307
 sg6
 S'The Wire: First Series Episodes 1-3'
-p2300
-sa(dp2301
-g12
+p2308
+sa(dp2309
+g549
+g550
+sg12
 S'w472'
-p2302
+p2310
 sg6
 S'The Wire: First Series Episodes 4-5'
-p2303
-sa(dp2304
-g12
+p2311
+sa(dp2312
+g549
+g550
+sg12
 S'w473'
-p2305
+p2313
 sg6
 S'The Wire: First Series Episodes 6-8'
-p2306
-sa(dp2307
-g12
+p2314
+sa(dp2315
+g549
+g550
+sg12
 S'w474'
-p2308
+p2316
 sg6
 S'The Wire: First Series Episodes 9-11'
-p2309
-sa(dp2310
-g12
+p2317
+sa(dp2318
+g549
+g550
+sg12
 S'w475'
-p2311
+p2319
 sg6
 S'The Wire: First Series Episodes 12-13'
-p2312
-sa(dp2313
-g12
+p2320
+sa(dp2321
+g549
+g550
+sg12
 S'w476'
-p2314
+p2322
 sg6
 S'The Wire: Second Series Episodes 1-2'
-p2315
-sa(dp2316
-g12
+p2323
+sa(dp2324
+g549
+g550
+sg12
 S'w477'
-p2317
+p2325
 sg6
 S'The Wire: Second Series Episodes 3-4'
-p2318
-sa(dp2319
-g12
+p2326
+sa(dp2327
+g549
+g550
+sg12
 S'w478'
-p2320
+p2328
 sg6
 S'The Wire: Second Series Episodes 5-7'
-p2321
-sa(dp2322
-g12
+p2329
+sa(dp2330
+g549
+g550
+sg12
 S'w478'
-p2323
+p2331
 sg6
 S'The Wire: Second Series 8-10'
-p2324
-sa(dp2325
-g12
+p2332
+sa(dp2333
+g549
+g550
+sg12
 S'w480'
-p2326
+p2334
 sg6
 S'The Wire: Second Series Episodes 11-12'
-p2327
-sa(dp2328
-g12
+p2335
+sa(dp2336
+g549
+g550
+sg12
 S'w481'
-p2329
+p2337
 sg6
 S'The Wire: Third Series Wpisodes 1-2'
-p2330
-sa(dp2331
-g12
+p2338
+sa(dp2339
+g549
+g550
+sg12
 S'w482'
-p2332
+p2340
 sg6
 S'The Wire: Third Series Episodes 3-4'
-p2333
-sa(dp2334
-g12
+p2341
+sa(dp2342
+g549
+g550
+sg12
 S'w483'
-p2335
+p2343
 sg6
 S'The Wire: Third Series Episodes 5-7'
-p2336
-sa(dp2337
-g12
+p2344
+sa(dp2345
+g549
+g550
+sg12
 S'w484'
-p2338
+p2346
 sg6
 S'The Wire: Third Series Episodes 8-10'
-p2339
-sa(dp2340
-g12
+p2347
+sa(dp2348
+g549
+g550
+sg12
 S'w485'
-p2341
+p2349
 sg6
 S'The Wire Third Series Episodes 11-12'
-p2342
-sa(dp2343
-g12
+p2350
+sa(dp2351
+g549
+g550
+sg12
 S'w486'
-p2344
+p2352
 sg6
 S'The Wire: Fourth Series Episodes 1-3'
-p2345
-sa(dp2346
-g12
+p2353
+sa(dp2354
+g549
+g550
+sg12
 S'w487'
-p2347
+p2355
 sg6
 S'The Wire: Fourth Series Episodes 4-6'
-p2348
-sa(dp2349
-g12
+p2356
+sa(dp2357
+g549
+g550
+sg12
 S'w488'
-p2350
+p2358
 sg6
 S'The Wire: Fourth Series Episodes 7-9'
-p2351
-sa(dp2352
-g12
+p2359
+sa(dp2360
+g549
+g550
+sg12
 S'w489'
-p2353
+p2361
 sg6
 S'The Wire: Fourth Series Episodes 10-12'
-p2354
-sa(dp2355
-g12
+p2362
+sa(dp2363
+g549
+g550
+sg12
 S'w490'
-p2356
+p2364
 sg6
 S'The Wire Fourth Series Episode 13'
-p2357
-sa(dp2358
-g12
+p2365
+sa(dp2366
+g549
+g550
+sg12
 S'w491'
-p2359
+p2367
 sg6
 S'The Wire: Fifth Series Episodes 1-3'
-p2360
-sa(dp2361
-g12
+p2368
+sa(dp2369
+g549
+g550
+sg12
 S'w492'
-p2362
+p2370
 sg6
 S'The Wire: Fifth Series Episodes 4-6'
-p2363
-sa(dp2364
-g12
+p2371
+sa(dp2372
+g549
+g550
+sg12
 S'w493'
-p2365
+p2373
 sg6
 S'The Wire: Fifth Series Episodes 7-9'
-p2366
-sa(dp2367
-g12
+p2374
+sa(dp2375
+g549
+g550
+sg12
 S'w494'
-p2368
+p2376
 sg6
 S'The Wire: Fifth Series Episodes 10'
-p2369
-sa(dp2370
+p2377
+sa(dp2378
 g10
 VRoy Andersson
-p2371
+p2379
 sg8
 VSweden
-p2372
+p2380
 sg14
 I1970
 sg12
 S'w495'
-p2373
+p2381
 sg6
 VEn kärlekshistoria
-p2374
-sa(dp2375
+p2382
+sa(dp2383
 g10
 VDuncan Jones
-p2376
+p2384
 sg8
 VUK
-p2377
+p2385
 sg14
 I2009
 sg12
 S'w496'
-p2378
+p2386
 sg6
 VMoon
-p2379
-sa(dp2380
+p2387
+sa(dp2388
 g10
 VCorneliu Porumboiu
-p2381
+p2389
 sg8
 VRomania
-p2382
+p2390
 sg14
 I2009
 sg12
 S'w497'
-p2383
+p2391
 sg6
 VPolitist, adjectiv
-p2384
-sa(dp2385
+p2392
+sa(dp2393
 g10
 VMartin Scorsese
-p2386
+p2394
 sg8
 VUSA
-p2387
+p2395
 sg14
 I1976
 sg12
 S'w498'
-p2388
+p2396
 sg6
 VTaxi Driver
-p2389
-sa(dp2390
+p2397
+sa(dp2398
 g10
 VJ Blakeson
-p2391
+p2399
 sg8
 VUK
-p2392
+p2400
 sg14
 I2009
 sg12
 S'w499'
-p2393
+p2401
 sg6
 VThe Disappearance of Alice Creed
-p2394
-sa(dp2395
+p2402
+sa(dp2403
 g10
 VIstván Szabó
-p2396
+p2404
 sg8
 VGermany
-p2397
+p2405
 sg14
 I1999
 sg12
 S'w500'
-p2398
+p2406
 sg6
 VSunshine
-p2399
-sa(dp2400
+p2407
+sa(dp2408
 g10
 VDarren Aronofsky
-p2401
+p2409
 sg8
 VUSA
-p2402
+p2410
 sg14
 I2008
 sg12
 S'w501'
-p2403
+p2411
 sg6
 VThe Wrestler
-p2404
-sa(dp2405
+p2412
+sa(dp2413
 g10
 VClint Eastwood
-p2406
+p2414
 sg8
 VUSA
-p2407
+p2415
 sg14
 I2008
 sg12
 S'w502'
-p2408
+p2416
 sg6
 VChangeling
-p2409
-sa(dp2410
-g12
+p2417
+sa(dp2418
+g549
+g550
+sg12
 S'w503'
-p2411
+p2419
 sg6
 S'The Hunter'
-p2412
-sa(dp2413
+p2420
+sa(dp2421
 g10
 VCorneliu Porumboiu
-p2414
+p2422
 sg8
 VRomania
-p2415
+p2423
 sg14
 I2006
 sg12
 S'w504'
-p2416
+p2424
 sg6
 VA fost sau n-a fost?
-p2417
-sa(dp2418
+p2425
+sa(dp2426
 g10
 VAmos Gitai
-p2419
+p2427
 sg8
 VIsrael
-p2420
+p2428
 sg14
 I2005
 sg12
 S'w505'
-p2421
+p2429
 sg6
 VFree Zone
-p2422
-sa(dp2423
+p2430
+sa(dp2431
 g10
 VTarsem Singh
-p2424
+p2432
 sg8
 VUSA
-p2425
+p2433
 sg14
 I2006
 sg12
 S'w506'
-p2426
+p2434
 sg6
 VThe Fall
-p2427
-sa(dp2428
+p2435
+sa(dp2436
 g10
 VNeill Blomkamp
-p2429
+p2437
 sg8
 VUSA
-p2430
+p2438
 sg14
 I2009
 sg12
 S'w507'
-p2431
+p2439
 sg6
 VDistrict 9
-p2432
-sa(dp2433
+p2440
+sa(dp2441
 g10
 VSamuel Maoz
-p2434
+p2442
 sg8
 VIsrael
-p2435
+p2443
 sg14
 I2009
 sg12
 S'w508'
-p2436
+p2444
 sg6
 VLebanon
-p2437
-sa(dp2438
+p2445
+sa(dp2446
 g10
 VNimród Antal
-p2439
+p2447
 sg8
 VHungary
-p2440
+p2448
 sg14
 I2003
 sg12
 S'w509'
-p2441
+p2449
 sg6
 VKontroll
-p2442
-sa(dp2443
+p2450
+sa(dp2451
 g10
 VTom Hooper
-p2444
+p2452
 sg8
 VUK
-p2445
+p2453
 sg14
 I2010
 sg12
 S'w510'
-p2446
+p2454
 sg6
 VThe King's Speech
-p2447
-sa(dp2448
+p2455
+sa(dp2456
 g10
 VDarren Aronofsky
-p2449
+p2457
 sg8
 VUSA
-p2450
+p2458
 sg14
 I2010
 sg12
 S'w511'
-p2451
+p2459
 sg6
 VBlack Swan
-p2452
-sa(dp2453
+p2460
+sa(dp2461
 g10
 VBonnie Mae
-p2454
+p2462
 sg8
 VUSA
-p2455
+p2463
 sg14
 I2011
 sg12
 S'w512'
-p2456
+p2464
 sg6
 VA Modern Pride and Prejudice
-p2457
-sa(dp2458
+p2465
+sa(dp2466
 g10
 VJohn Milius
-p2459
+p2467
 sg8
 VUSA
-p2460
+p2468
 sg14
 I1982
 sg12
 S'w513'
-p2461
+p2469
 sg6
 VConan the Barbarian
-p2462
-sa(dp2463
+p2470
+sa(dp2471
 g10
 VJeff Wadlow
-p2464
+p2472
 sg8
 VUSA
-p2465
+p2473
 sg14
 I2005
 sg12
 S'w514'
-p2466
+p2474
 sg6
 VCry_Wolf
-p2467
-sa(dp2468
+p2475
+sa(dp2476
 g10
 VScott Roberts
-p2469
+p2477
 sg8
 VAustralia
-p2470
+p2478
 sg14
 I2002
 sg12
 S'w515'
-p2471
-sg6
-VThe Hard Word
-p2472
-sa(dp2473
-g10
-VJohn Singleton
-p2474
-sg8
-VUSA
-p2475
-sg14
-I2001
-sg12
-S'w516'
-p2476
-sg6
-VBaby Boy
-p2477
-sa(dp2478
-g12
-S'w517'
 p2479
 sg6
-S'Miracle of the Heart'
+VThe Hard Word
 p2480
 sa(dp2481
 g10
-VCatherine Hardwicke
+VJohn Singleton
 p2482
 sg8
 VUSA
 p2483
 sg14
+I2001
+sg12
+S'w516'
+p2484
+sg6
+VBaby Boy
+p2485
+sa(dp2486
+g549
+g550
+sg12
+S'w517'
+p2487
+sg6
+S'Miracle of the Heart'
+p2488
+sa(dp2489
+g10
+VCatherine Hardwicke
+p2490
+sg8
+VUSA
+p2491
+sg14
 I2008
 sg12
 S'w518'
-p2484
+p2492
 sg6
 VTwilight
-p2485
-sa(dp2486
+p2493
+sa(dp2494
 g10
 VJuan Carlos Fresnadillo
-p2487
+p2495
 sg8
 VUK
-p2488
+p2496
 sg14
 I2007
 sg12
 S'w519'
-p2489
+p2497
 sg6
 V28 Weeks Later
-p2490
-sa(dp2491
+p2498
+sa(dp2499
 g10
 VM. Night Shyamalan
-p2492
+p2500
 sg8
 VUSA
-p2493
+p2501
 sg14
 I2002
 sg12
 S'w520'
-p2494
+p2502
 sg6
 VSigns
-p2495
-sa(dp2496
+p2503
+sa(dp2504
 g10
 VJonathan Sides
-p2497
+p2505
 sg8
 VUK
-p2498
+p2506
 sg14
 I2009
 sg12
 S'w521'
-p2499
+p2507
 sg6
 VIan Wright: Legend
-p2500
-sa(dp2501
-g12
+p2508
+sa(dp2509
+g549
+g550
+sg12
 S'w522'
-p2502
+p2510
 sg6
 S'The Fall of France May-June 1940'
-p2503
-sa(dp2504
+p2511
+sa(dp2512
 g10
 VElia Kazan
-p2505
+p2513
 sg8
 VUSA
-p2506
+p2514
 sg14
 I1954
 sg12
 S'w523'
-p2507
+p2515
 sg6
 VOn the Waterfront
-p2508
-sa(dp2509
+p2516
+sa(dp2517
 g10
 VJohn Sturges
-p2510
+p2518
 sg8
 VUSA
-p2511
+p2519
 sg14
 I1960
 sg12
 S'w524'
-p2512
+p2520
 sg6
 VThe Magnificent Seven
-p2513
-sa(dp2514
+p2521
+sa(dp2522
 g10
 VXavier Beauvois
-p2515
+p2523
 sg8
 VFrance
-p2516
+p2524
 sg14
 I2010
 sg12
 S'w525'
-p2517
+p2525
 sg6
 VDes hommes et des dieux
-p2518
-sa(dp2519
-g10
-VMike Newell
-p2520
-sg8
-VUK
-p2521
-sg14
-I1977
-sg12
-S'w526'
-p2522
+p2526
+sa(dp2527
+S'plot'
+p2528
+g3
+sS'img'
+p2529
+S'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'
+p2530
 sg6
 VThe Man in the Iron Mask
-p2523
-sa(dp2524
-g10
-VKen Loach
-p2525
+p2531
 sg8
 VUK
-p2526
-sg14
-I1967
+p2532
+sg10
+VMike Newell
+p2533
 sg12
-S'w527'
-p2527
+S'w526'
+p2534
+sg14
+I1977
+sa(dp2535
+S'plot'
+p2536
+g3
+sS'img'
+p2537
+S'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'
+p2538
 sg6
 VPoor Cow
-p2528
-sa(dp2529
+p2539
+sg8
+VUK
+p2540
+sg10
+VKen Loach
+p2541
+sg12
+S'w527'
+p2542
+sg14
+I1967
+sa(dp2543
 g10
 VLuchino Visconti
-p2530
+p2544
 sg8
 VItaly
-p2531
+p2545
 sg14
 I1963
 sg12
 S'w529'
-p2532
+p2546
 sg6
 VIl gattopardo
-p2533
-sa(dp2534
+p2547
+sa(dp2548
 g10
 VAlfred Hitchcock
-p2535
+p2549
 sg8
 VUSA
-p2536
+p2550
 sg14
 I1954
 sg12
 S'w530'
-p2537
+p2551
 sg6
 VRear Window
-p2538
-sa(dp2539
+p2552
+sa(dp2553
 g10
 VMichael Curtiz
-p2540
+p2554
 sg8
 VUSA
-p2541
+p2555
 sg14
 I1942
 sg12
 S'w531'
-p2542
+p2556
 sg6
 VCasablanca
-p2543
-sa(dp2544
+p2557
+sa(dp2558
 g10
 VRobert Stevenson
-p2545
+p2559
 sg8
 VUSA
-p2546
+p2560
 sg14
 I1962
 sg12
 S'w532'
-p2547
+p2561
 sg6
 VIn Search of the Castaways
-p2548
-sa(dp2549
+p2562
+sa(dp2563
 g10
 VBlake Edwards
-p2550
+p2564
 sg8
 VUSA
-p2551
+p2565
 sg14
 I1963
 sg12
 S'w533'
-p2552
+p2566
 sg6
 VThe Pink Panther
-p2553
-sa(dp2554
+p2567
+sa(dp2568
 g10
 VBlake Edwards
-p2555
+p2569
 sg8
 VUK
-p2556
+p2570
 sg14
 I1975
 sg12
 S'w534'
-p2557
+p2571
 sg6
 VThe Return of the Pink Panther
-p2558
-sa(dp2559
-g12
+p2572
+sa(dp2573
+g549
+g550
+sg12
 S'w535'
-p2560
+p2574
 sg6
 S'The Pink Panther Strikes Again'
-p2561
-sa(dp2562
-g12
+p2575
+sa(dp2576
+g549
+g550
+sg12
 S'w536'
-p2563
+p2577
 sg6
 S'Revenge of the Pink Panther'
-p2564
-sa(dp2565
-g12
+p2578
+sa(dp2579
+g549
+g550
+sg12
 S'w537'
-p2566
+p2580
 sg6
 S'My Beloved Child'
-p2567
-sa(dp2568
+p2581
+sa(dp2582
 g10
 VGiorgio Serafini
-p2569
+p2583
 sg8
 VUSA
-p2570
+p2584
 sg14
 I2010
 sg12
 S'w538'
-p2571
+p2585
 sg6
 VGame of Death
-p2572
-sa(dp2573
+p2586
+sa(dp2587
 g10
 VRobert Zemeckis
-p2574
+p2588
 sg8
 VUSA
-p2575
+p2589
 sg14
 I1985
 sg12
 S'w539'
-p2576
+p2590
 sg6
 VBack to the Future
-p2577
-sa(dp2578
+p2591
+sa(dp2592
 g10
 VRobert Zemeckis
-p2579
+p2593
 sg8
 VUSA
-p2580
+p2594
 sg14
 I1989
 sg12
 S'w540'
-p2581
+p2595
 sg6
 VBack to the Future Part II
-p2582
-sa(dp2583
+p2596
+sa(dp2597
 g10
 VRobert Zemeckis
-p2584
+p2598
 sg8
 VUSA
-p2585
+p2599
 sg14
 I1990
 sg12
 S'w541'
-p2586
+p2600
 sg6
 VBack to the Future Part III
-p2587
-sa(dp2588
+p2601
+sa(dp2602
 g10
 VRidley Scott
-p2589
+p2603
 sg8
 VUSA
-p2590
+p2604
 sg14
 I1979
 sg12
 S'w542'
-p2591
+p2605
 sg6
 VAlien
-p2592
-sa(dp2593
+p2606
+sa(dp2607
 g10
 VShane Carruth
-p2594
+p2608
 sg8
 VUSA
-p2595
+p2609
 sg14
 I2004
 sg12
 S'w543'
-p2596
+p2610
 sg6
 VPrimer
-p2597
-sa(dp2598
+p2611
+sa(dp2612
 g10
 VTomas Alfredson
-p2599
+p2613
 sg8
 VFrance
-p2600
+p2614
 sg14
 I2011
 sg12
 S'w544'
-p2601
+p2615
 sg6
 VTinker Tailor Soldier Spy
-p2602
-sa(dp2603
+p2616
+sa(dp2617
 g10
 VLaslo Benedek
-p2604
+p2618
 sg8
 VUSA
-p2605
+p2619
 sg14
 I1953
 sg12
 S'w545'
-p2606
+p2620
 sg6
 VThe Wild One
-p2607
-sa(dp2608
+p2621
+sa(dp2622
 g10
 VOrson Welles
-p2609
+p2623
 sg8
 VFrance
-p2610
+p2624
 sg14
 I1965
 sg12
 S'w546'
-p2611
+p2625
 sg6
 VCampanadas a medianoche
-p2612
-sa(dp2613
+p2626
+sa(dp2627
 g10
 VIngmar Bergman
-p2614
+p2628
 sg8
 VSweden
-p2615
+p2629
 sg14
 I1957
 sg12
 S'w547'
-p2616
+p2630
 sg6
 VDet sjunde inseglet
-p2617
-sa(dp2618
+p2631
+sa(dp2632
 g10
 VBilly Wilder
-p2619
+p2633
 sg8
 VUSA
-p2620
+p2634
 sg14
 I1959
 sg12
 S'w548'
-p2621
+p2635
 sg6
 VSome Like It Hot
-p2622
-sa(dp2623
+p2636
+sa(dp2637
 g10
 VMasaki Kobayashi
-p2624
+p2638
 sg8
 VJapan
-p2625
+p2639
 sg14
 I1962
 sg12
 S'w549'
-p2626
+p2640
 sg6
 VSeppuku
-p2627
-sa(dp2628
+p2641
+sa(dp2642
 g10
 VElia Kazan
-p2629
+p2643
 sg8
 VUSA
-p2630
+p2644
 sg14
 I1951
 sg12
 S'w550'
-p2631
+p2645
 sg6
 VA Streetcar Named Desire
-p2632
-sa(dp2633
+p2646
+sa(dp2647
 g10
 VWoody Allen
-p2634
+p2648
 sg8
 VUSA
-p2635
+p2649
 sg14
 I1973
 sg12
 S'w551'
-p2636
+p2650
 sg6
 VSleeper
-p2637
-sa(dp2638
+p2651
+sa(dp2652
 g10
 VBarry Levinson
-p2639
+p2653
 sg8
 VUSA
-p2640
+p2654
 sg14
 I1996
 sg12
 S'w552'
-p2641
+p2655
 sg6
 VSleepers
-p2642
-sa(dp2643
+p2656
+sa(dp2657
 g10
 VRidley Scott
-p2644
+p2658
 sg8
 VUSA
-p2645
+p2659
 sg14
 I1982
 sg12
 S'w553'
-p2646
+p2660
 sg6
 VBlade Runner
-p2647
-sa(dp2648
+p2661
+sa(dp2662
 g10
 VFrancis Veber
-p2649
+p2663
 sg8
 VFrance
-p2650
+p2664
 sg14
 I1998
 sg12
 S'w554'
-p2651
+p2665
 sg6
 VLe dîner de cons
-p2652
-sa(dp2653
+p2666
+sa(dp2667
 g10
 VSteven Spielberg
-p2654
+p2668
 sg8
 VUSA
-p2655
+p2669
 sg14
 I1971
 sg12
 S'w555'
-p2656
+p2670
 sg6
 VDuel
-p2657
-sa(dp2658
+p2671
+sa(dp2672
 g10
 VGeorge Armitage
-p2659
+p2673
 sg8
 VUSA
-p2660
+p2674
 sg14
 I1997
 sg12
 S'w556'
-p2661
+p2675
 sg6
 VGrosse Pointe Blank
-p2662
-sa(dp2663
+p2676
+sa(dp2677
 g10
 VDominic Sena
-p2664
+p2678
 sg8
 VUSA
-p2665
+p2679
 sg14
 I2009
 sg12
 S'w557'
-p2666
+p2680
 sg6
 VWhiteout
-p2667
-sa(dp2668
+p2681
+sa(dp2682
 g10
 VEdgar Wright
-p2669
+p2683
 sg8
 VUK
-p2670
+p2684
 sg14
 I2007
 sg12
 S'w558'
-p2671
+p2685
 sg6
 VHot Fuzz
-p2672
-sa(dp2673
+p2686
+sa(dp2687
 g10
 VEdgar Wright
-p2674
+p2688
 sg8
 VUSA
-p2675
+p2689
 sg14
 I2010
 sg12
 S'w559'
-p2676
+p2690
 sg6
 VScott Pilgrim vs. the World
-p2677
-sa(dp2678
+p2691
+sa(dp2692
 g10
 VJames Cameron
-p2679
+p2693
 sg8
 VUSA
-p2680
+p2694
 sg14
 I2009
 sg12
 S'w560'
-p2681
+p2695
 sg6
 VAvatar
-p2682
-sa(dp2683
+p2696
+sa(dp2697
 g10
 VAkira Kurosawa
-p2684
+p2698
 sg8
 VJapan
-p2685
+p2699
 sg14
 I1954
 sg12
 S'w561'
-p2686
+p2700
 sg6
 VShichinin no samurai
-p2687
-sa(dp2688
+p2701
+sa(dp2702
 g10
 VAkira Kurosawa
-p2689
+p2703
 sg8
 VJapan
-p2690
+p2704
 sg14
 I1957
 sg12
 S'w562'
-p2691
+p2705
 sg6
 VKumonosu-jô
-p2692
-sa(dp2693
+p2706
+sa(dp2707
 g10
 VAkira Kurosawa
-p2694
+p2708
 sg8
 VJapan
-p2695
+p2709
 sg14
 I1958
 sg12
 S'w563'
-p2696
+p2710
 sg6
 VKakushi-toride no san-akunin
-p2697
-sa(dp2698
+p2711
+sa(dp2712
 g10
 VAkira Kurosawa
-p2699
+p2713
 sg8
 VJapan
-p2700
+p2714
 sg14
 I1961
 sg12
 S'w564'
-p2701
+p2715
 sg6
 VYôjinbô
-p2702
-sa(dp2703
+p2716
+sa(dp2717
 g10
 VAkira Kurosawa
-p2704
+p2718
 sg8
 VJapan
-p2705
+p2719
 sg14
 I1962
 sg12
 S'w565'
-p2706
+p2720
 sg6
 VTsubaki Sanjûrô
-p2707
-sa(dp2708
+p2721
+sa(dp2722
 g10
 VJohn Huston
-p2709
+p2723
 sg8
 VUSA
-p2710
+p2724
 sg14
 I1970
 sg12
 S'w566'
-p2711
+p2725
 sg6
 VThe Kremlin Letter
-p2712
-sa(dp2713
+p2726
+sa(dp2727
 g10
 VKen Russell
-p2714
+p2728
 sg8
 VUK
-p2715
+p2729
 sg14
 I1971
 sg12
 S'w567'
-p2716
+p2730
 sg6
 VThe Devils
-p2717
-sa(dp2718
+p2731
+sa(dp2732
 g10
 VJingle Ma
-p2719
+p2733
 sg8
 VUSA
-p2720
+p2734
 sg14
 I2009
 sg12
 S'w568'
-p2721
+p2735
 sg6
 VHua Mulan
-p2722
-sa(dp2723
+p2736
+sa(dp2737
 g10
 VAlbert Magnoli
-p2724
+p2738
 sg8
 VUSA
-p2725
+p2739
 sg14
 I1984
 sg12
 S'w569'
-p2726
+p2740
 sg6
 VPurple Rain
-p2727
-sa(dp2728
+p2741
+sa(dp2742
 g10
 VThom Eberhardt
-p2729
+p2743
 sg8
 VUK
-p2730
+p2744
 sg14
 I1988
 sg12
 S'w570'
-p2731
+p2745
 sg6
 VWithout a Clue
-p2732
-sa(dp2733
+p2746
+sa(dp2747
 g10
 VSergei M. Eisenstein
-p2734
+p2748
 sg8
 VSoviet Union
-p2735
+p2749
 sg14
 I1944
 sg12
 S'w571'
-p2736
+p2750
 sg6
 VIvan Groznyy
-p2737
-sa(dp2738
+p2751
+sa(dp2752
 g10
 VSergei M. Eisenstein
-p2739
+p2753
 sg8
 VSoviet Union
-p2740
+p2754
 sg14
 I1944
 sg12
 S'w572'
-p2741
+p2755
 sg6
 VIvan Groznyy
-p2742
-sa(dp2743
+p2756
+sa(dp2757
 g10
 VJean-Pierre Melville
-p2744
+p2758
 sg8
 VFrance
-p2745
+p2759
 sg14
 I1956
 sg12
 S'w573'
-p2746
+p2760
 sg6
 VBob le flambeur
-p2747
-sa(dp2748
+p2761
+sa(dp2762
 g10
 VMartin Scorsese
-p2749
+p2763
 sg8
 VUSA
-p2750
+p2764
 sg14
 I2011
 sg12
 S'w574'
-p2751
+p2765
 sg6
 VHugo
-p2752
-sa(dp2753
+p2766
+sa(dp2767
 g10
 VLewis Gilbert
-p2754
+p2768
 sg8
 VUK
-p2755
+p2769
 sg14
 I1966
 sg12
 S'w575'
-p2756
+p2770
 sg6
 VAlfie
-p2757
-sa(dp2758
+p2771
+sa(dp2772
 g10
 VAsif Kapadia
-p2759
+p2773
 sg8
 VUK
-p2760
+p2774
 sg14
 I2010
 sg12
 S'w576'
-p2761
+p2775
 sg6
 VSenna
-p2762
-sa(dp2763
+p2776
+sa(dp2777
 g10
 VDavid Frankel
-p2764
+p2778
 sg8
 VUSA
-p2765
+p2779
 sg14
 I2008
 sg12
 S'w577'
-p2766
+p2780
 sg6
 VMarley & Me
-p2767
-sa(dp2768
+p2781
+sa(dp2782
 g10
 VCurtis Hanson
-p2769
+p2783
 sg8
 VUSA
-p2770
+p2784
 sg14
 I2005
 sg12
 S'w578'
-p2771
+p2785
 sg6
 VIn Her Shoes
-p2772
-sa(dp2773
+p2786
+sa(dp2787
 g10
 VSimon Langton
-p2774
+p2788
 sg8
 VUK
-p2775
+p2789
 sg14
 I1995
 sg12
 S'w579'
-p2776
+p2790
 sg6
 VPride and Prejudice
-p2777
-sa(dp2778
-g12
+p2791
+sa(dp2792
+g549
+g550
+sg12
 S'w580'
-p2779
+p2793
 sg6
 S'Pride and Prejudice (Episodes 4-6)'
-p2780
-sa(dp2781
+p2794
+sa(dp2795
 g10
 VOtto Preminger
-p2782
+p2796
 sg8
 VUSA
-p2783
+p2797
 sg14
 I1944
 sg12
 S'w581'
-p2784
+p2798
 sg6
 VLaura
-p2785
-sa(dp2786
+p2799
+sa(dp2800
 g10
 VArmando Iannucci
-p2787
+p2801
 sg8
 VUK
-p2788
+p2802
 sg14
 I2005
 sg12
 S'w582'
-p2789
+p2803
 sg6
 VThe Thick of It
-p2790
-sa(dp2791
+p2804
+sa(dp2805
 g10
 VArmando Iannucci
-p2792
+p2806
 sg8
 VUK
-p2793
+p2807
 sg14
 I2005
 sg12
 S'w582'
-p2794
+p2808
 sg6
 VThe Thick of It
-p2795
-sa(dp2796
+p2809
+sa(dp2810
 g10
 VArmando Iannucci
-p2797
+p2811
 sg8
 VUK
-p2798
+p2812
 sg14
 I2005
 sg12
 S'w583'
-p2799
+p2813
 sg6
 VThe Thick of It
-p2800
-sa(dp2801
+p2814
+sa(dp2815
 g10
 VGeorge Lucas
-p2802
+p2816
 sg8
 VUSA
-p2803
+p2817
 sg14
 I1977
 sg12
 S'w585'
-p2804
+p2818
 sg6
 VStar Wars
-p2805
-sa(dp2806
+p2819
+sa(dp2820
 g10
 VIrvin Kershner
-p2807
+p2821
 sg8
 VUSA
-p2808
+p2822
 sg14
 I1980
 sg12
 S'w586'
-p2809
+p2823
 sg6
 VStar Wars: Episode V - The Empire Strikes Back
-p2810
-sa(dp2811
+p2824
+sa(dp2825
 g10
 VRichard Marquand
-p2812
+p2826
 sg8
 VUSA
-p2813
+p2827
 sg14
 I1983
 sg12
 S'w587'
-p2814
+p2828
 sg6
 VStar Wars: Episode VI - Return of the Jedi
-p2815
-sa(dp2816
+p2829
+sa(dp2830
 g10
 VJoss Whedon
-p2817
+p2831
 sg8
 VUSA
-p2818
+p2832
 sg14
 I2005
 sg12
 S'w588'
-p2819
+p2833
 sg6
 VSerenity
-p2820
-sa(dp2821
-g12
+p2834
+sa(dp2835
+g549
+g550
+sg12
 S'w589'
-p2822
+p2836
 sg6
 S'The Recruit'
-p2823
-sa(dp2824
+p2837
+sa(dp2838
 g10
 VNorman Jewison
-p2825
+p2839
 sg8
 VUSA
-p2826
+p2840
 sg14
 I1967
 sg12
 S'w590'
-p2827
+p2841
 sg6
 VIn the Heat of the Night
-p2828
-sa(dp2829
-g12
+p2842
+sa(dp2843
+g549
+g550
+sg12
 S'w591'
-p2830
+p2844
 sg6
 S'Family Guy Season 7 I'
-p2831
-sa(dp2832
-g12
+p2845
+sa(dp2846
+g549
+g550
+sg12
 S'w592'
-p2833
+p2847
 sg6
 S'Family Guy Season 7 II'
-p2834
-sa(dp2835
+p2848
+sa(dp2849
 g10
 VJoss Whedon
-p2836
+p2850
 sg8
 VUSA
-p2837
+p2851
 sg14
 I2002
 sg12
 S'w593'
-p2838
+p2852
 sg6
 VFirefly
-p2839
-sa(dp2840
+p2853
+sa(dp2854
 g10
 VJoss Whedon
-p2841
+p2855
 sg8
 VUSA
-p2842
+p2856
 sg14
 I2002
 sg12
 S'w594'
-p2843
+p2857
 sg6
 VFirefly
-p2844
-sa(dp2845
+p2858
+sa(dp2859
 g10
 VJoss Whedon
-p2846
+p2860
 sg8
 VUSA
-p2847
+p2861
 sg14
 I2002
 sg12
 S'w595'
-p2848
+p2862
 sg6
 VFirefly
-p2849
-sa(dp2850
+p2863
+sa(dp2864
 g10
 VJoss Whedon
-p2851
+p2865
 sg8
 VUSA
-p2852
+p2866
 sg14
 I2002
 sg12
 S'w596'
-p2853
+p2867
 sg6
 VFirefly
-p2854
-sa(dp2855
+p2868
+sa(dp2869
 g10
 VBob Fosse
-p2856
+p2870
 sg8
 VUSA
-p2857
+p2871
 sg14
 I1972
 sg12
 S'w597'
-p2858
+p2872
 sg6
 VCabaret
-p2859
-sa(dp2860
-g12
+p2873
+sa(dp2874
+g549
+g550
+sg12
 S'w598'
-p2861
+p2875
 sg6
 S'Kes'
-p2862
-sa(dp2863
+p2876
+sa(dp2877
 g10
 VMark Herman
-p2864
+p2878
 sg8
 VUK
-p2865
+p2879
 sg14
 I1996
 sg12
 S'w599'
-p2866
+p2880
 sg6
 VBrassed Off
-p2867
-sa(dp2868
+p2881
+sa(dp2882
 g10
 VBryan Forbes
-p2869
+p2883
 sg8
 VUK
-p2870
+p2884
 sg14
 I1966
 sg12
 S'w601'
-p2871
+p2885
 sg6
 VThe Wrong Box
-p2872
-sa(dp2873
+p2886
+sa(dp2887
 g10
 VDoug Liman
-p2874
+p2888
 sg8
 VUSA
-p2875
+p2889
 sg14
 I1996
 sg12
 S'w602'
-p2876
+p2890
 sg6
 VSwingers
-p2877
-sa(dp2878
+p2891
+sa(dp2892
 g10
 VRichard Curtis
-p2879
+p2893
 sg8
 VUK
-p2880
+p2894
 sg14
 I2009
 sg12
 S'w603'
-p2881
+p2895
 sg6
 VThe Boat That Rocked
-p2882
-sa(dp2883
-g12
+p2896
+sa(dp2897
+g549
+g550
+sg12
 S'w604'
-p2884
+p2898
 sg6
 S'Moonrise Kingdom'
-p2885
-sa(dp2886
+p2899
+sa(dp2900
 g10
 VRidley Scott
-p2887
+p2901
 sg8
 VUSA
-p2888
+p2902
 sg14
 I1982
 sg12
 S'w605'
-p2889
+p2903
 sg6
 VBlade Runner
-p2890
-sa(dp2891
+p2904
+sa(dp2905
 g10
 VHayao Miyazaki
-p2892
+p2906
 sg8
 VJapan
-p2893
+p2907
 sg14
 I2001
 sg12
 S'w606'
-p2894
+p2908
 sg6
 VSen to Chihiro no kamikakushi
-p2895
-sa(dp2896
+p2909
+sa(dp2910
 g10
 VSean Penn
-p2897
+p2911
 sg8
 VUSA
-p2898
+p2912
 sg14
 I2007
 sg12
 S'w607'
-p2899
+p2913
 sg6
 VInto the Wild
-p2900
-sa(dp2901
-g12
+p2914
+sa(dp2915
+g549
+g550
+sg12
 S'w608'
-p2902
+p2916
 sg6
 S'Isaiah Berlin Making of a Hedgehog'
-p2903
-sa(dp2904
+p2917
+sa(dp2918
 g10
 VJohn Curran
-p2905
+p2919
 sg8
 VUSA
-p2906
+p2920
 sg14
 I2010
 sg12
 S'w609'
-p2907
+p2921
 sg6
 VStone
-p2908
-sa(dp2909
+p2922
+sa(dp2923
 g10
 VDavid Lynch
-p2910
+p2924
 sg8
 VFrance
-p2911
+p2925
 sg14
 I1992
 sg12
 S'w610'
-p2912
+p2926
 sg6
 VTwin Peaks: Fire Walk with Me
-p2913
-sa(dp2914
-g10
-VJim Jarmusch
-p2915
-sg8
-VUSA
-p2916
-sg14
-I2005
-sg12
-S'w611'
-p2917
+p2927
+sa(dp2928
+S'plot'
+p2929
+g3
+sS'img'
+p2930
+S'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'
+p2931
 sg6
 VBroken Flowers
-p2918
-sa(dp2919
-g10
-VChristopher Nolan
-p2920
+p2932
 sg8
 VUSA
-p2921
+p2933
+sg10
+VJim Jarmusch
+p2934
+sg12
+S'w611'
+p2935
+sg14
+I2005
+sa(dp2936
+g10
+VChristopher Nolan
+p2937
+sg8
+VUSA
+p2938
 sg14
 I2012
 sg12
 S'w612'
-p2922
+p2939
 sg6
 VThe Dark Knight Rises
-p2923
-sa(dp2924
+p2940
+sa(dp2941
 g10
 VPeter Medak
-p2925
+p2942
 sg8
 VUK
-p2926
+p2943
 sg14
 I1972
 sg12
 S'w613'
-p2927
+p2944
 sg6
 VThe Ruling Class
-p2928
-sa(dp2929
+p2945
+sa(dp2946
 g10
 VRawson Marshall Thurber
-p2930
+p2947
 sg8
 VUSA
-p2931
+p2948
 sg14
 I2004
 sg12
 S'w614'
-p2932
+p2949
 sg6
 VDodgeball: A True Underdog Story
-p2933
-sa(dp2934
+p2950
+sa(dp2951
 g10
 VJohn Huston
-p2935
+p2952
 sg8
 VUSA
-p2936
+p2953
 sg14
 I1941
 sg12
 S'w615'
-p2937
+p2954
 sg6
 VThe Maltese Falcon
-p2938
-sa(dp2939
+p2955
+sa(dp2956
 g10
 VHoward Hawks
-p2940
+p2957
 sg8
 VUSA
-p2941
+p2958
 sg14
 I1946
 sg12
 S'w616'
-p2942
+p2959
 sg6
 VThe Big Sleep
-p2943
-sa(dp2944
+p2960
+sa(dp2961
 g10
 VJohn Madden
-p2945
+p2962
 sg8
 VUSA
-p2946
+p2963
 sg14
 I1998
 sg12
 S'w617'
-p2947
+p2964
 sg6
 VShakespeare in Love
-p2948
-sa(dp2949
+p2965
+sa(dp2966
 g10
 VJohn Huston
-p2950
+p2967
 sg8
 VUSA
-p2951
+p2968
 sg14
 I1948
 sg12
 S'w618'
-p2952
+p2969
 sg6
 VThe Treasure of the Sierra Madre
-p2953
-sa(dp2954
+p2970
+sa(dp2971
 g10
 VApichatpong Weerasethakul
-p2955
+p2972
 sg8
 VThailand
-p2956
+p2973
 sg14
 I2010
 sg12
 S'w619'
-p2957
+p2974
 sg6
 VLoong Boonmee raleuk chat
-p2958
-sa(dp2959
-S'title'
-p2960
-VMen in Black
-p2961
-sS'country'
-p2962
-VUSA
-p2963
-sS'year'
-p2964
-I1997
-sS'director'
-p2965
-VBarry Sonnenfeld
-p2966
-sS'wolfloc'
-p2967
-Vw638
-p2968
-sS'imdbid'
-p2969
-V119654
-p2970
-sa(dp2971
-g2960
-VArtificial Intelligence: AI
-p2972
-sg2962
-VUSA
-p2973
-sg2964
-I2001
-sg2965
-VSteven Spielberg
-p2974
-sg2967
-Vw639
 p2975
-sg2969
-V212720
-p2976
-sa(dp2977
-g2960
-VThe Monuments Men
+sa(dp2976
+S'plot'
+p2977
+VA police officer joins a secret organization that polices and monitors extra terrestrial interactions on planet earth.
 p2978
-sg2962
-VUSA
+sS'img'
 p2979
-sg2964
-I2014
-sg2965
-VGeorge Clooney
+Vhttp://ia.media-imdb.com/images/M/MV5BNzA2MzI5Nzc0N15BMl5BanBnXkFtZTcwODE2NDU2MQ@@._V1._SX96_SY140_.jpg
 p2980
-sg2967
-Vw632
+sS'title'
 p2981
-sg2969
-V2177771
+VMen in Black
 p2982
-sa(dp2983
-g2960
-VThe Wolf of Wall Street
+sS'url'
+p2983
+S'http://akas.imdb.com/title/tt0119654/'
 p2984
-sg2962
-VUSA
-p2985
-sg2964
-I2013
-sg2965
-VMartin Scorsese
-p2986
-sg2967
-Vw630
-p2987
-sg2969
-V993846
-p2988
-sa(dp2989
-g2960
-VLast Vegas
-p2990
-sg2962
-VUSA
-p2991
-sg2964
-I2013
-sg2965
-VJon Turteltaub
-p2992
-sg2967
-Vw631
-p2993
-sg2969
-V1204975
-p2994
-sa(dp2995
-g2960
-VMandela: Long Walk to Freedom
-p2996
-sg2962
-VUK
-p2997
-sg2964
-I2013
-sg2965
-VJustin Chadwick
-p2998
-sg2967
-Vw626
-p2999
-sg2969
-V2304771
-p3000
-sa(dp3001
-g2960
-VI, Robot
-p3002
-sg2962
-VUSA
-p3003
-sg2964
-I2004
-sg2965
-VAlex Proyas
-p3004
-sg2967
-Vw637
-p3005
-sg2969
-V343818
-p3006
-sa(dp3007
-g2960
-VInterstellar
-p3008
-sg2962
-VUSA
-p3009
-sg2964
-I2014
-sg2965
-VChristopher Nolan
-p3010
-sg2967
-Vw635
-p3011
-sg2969
-V816692
-p3012
-sa(dp3013
-g2960
-VThe Secret Life of Walter Mitty
-p3014
-sg2962
-VUSA
-p3015
-sg2964
-I2013
-sg2965
-VBen Stiller
-p3016
-sg2967
-Vw625
-p3017
-sg2969
-V359950
-p3018
-sa(dp3019
-g2960
-VCaptain Phillips
-p3020
-sg2962
-VUSA
-p3021
-sg2964
-I2013
-sg2965
-VPaul Greengrass
-p3022
-sg2967
-Vw624
-p3023
-sg2969
-V1535109
-p3024
-sa(dp3025
-g2960
-VFrozen
-p3026
-sg2962
-VUSA
-p3027
-sg2964
-I2013
-sg2965
-VChris Buck
-p3028
-sg2967
-Vw627
-p3029
-sg2969
-V2294629
-p3030
-sa(dp3031
-g2960
-V2001: A Space Odyssey
-p3032
-sg2962
-VUSA
-p3033
-sg2964
-I1968
-sg2965
-VStanley Kubrick
-p3034
-sg2967
-Vw640
-p3035
-sg2969
-V62622
-p3036
-sa(dp3037
-g2960
-VJagten
-p3038
-sg2962
-VDenmark
-p3039
-sg2964
-I2012
-sg2965
-VThomas Vinterberg
-p3040
-sg2967
-Vw621
-p3041
-sg2969
-V2106476
-p3042
-sa(dp3043
-g2960
-VGravity
-p3044
-sg2962
-VUSA
-p3045
-sg2964
-I2013
-sg2965
-VAlfonso Cuarón
-p3046
-sg2967
-Vw623
-p3047
-sg2969
-V1454468
-p3048
-sa(dp3049
-g2960
-VLuftslottet som sprängdes
-p3050
-sg2962
-VSweden
-p3051
-sg2964
-I2009
-sg2965
-VDaniel Alfredson
-p3052
-sg2967
-Vw622
-p3053
-sg2969
-V1343097
-p3054
-sa(dp3055
-g2960
-VAmerican Hustle
-p3056
-sg2962
-VUSA
-p3057
-sg2964
-I2013
-sg2965
-VDavid O. Russell
-p3058
-sg2967
-Vw629
-p3059
-sg2969
-V1800241
-p3060
-sa(dp3061
-g2960
-VThe Summit
-p3062
-sg2962
-VIreland
-p3063
-sg2964
-I2012
-sg2965
-VNick Ryan
-p3064
-sg2967
-Vw628
-p3065
-sg2969
-V2363471
-p3066
-sa(dp3067
-S'title'
-p3068
-VFesten
-p3069
 sS'country'
-p3070
-VDenmark
-p3071
+p2985
+VUSA
+p2986
+sS'director'
+p2987
+VBarry Sonnenfeld
+p2988
+sS'wolfloc'
+p2989
+Vw638
+p2990
 sS'year'
-p3072
+p2991
+I1997
+sS'imdbid'
+p2992
+V119654
+p2993
+sa(dp2994
+S'plot'
+p2995
+VA highly advanced robotic boy longs to become "real" so that he can regain the love of his human mother.
+p2996
+sS'img'
+p2997
+Vhttp://ia.media-imdb.com/images/M/MV5BMjY0NzJjMjEtMGQwYS00YzI2LWFlMWUtZDFmMWM5MmQ3MjMzXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1._SX99_SY140_.jpg
+p2998
+sg2981
+VArtificial Intelligence: AI
+p2999
+sS'url'
+p3000
+S'http://akas.imdb.com/title/tt0212720/'
+p3001
+sg2985
+VUSA
+p3002
+sg2987
+VSteven Spielberg
+p3003
+sg2989
+Vw639
+p3004
+sg2991
+I2001
+sg2992
+V212720
+p3005
+sa(dp3006
+g2981
+VThe Monuments Men
+p3007
+sg2985
+VUSA
+p3008
+sg2991
+I2014
+sg2987
+VGeorge Clooney
+p3009
+sg2989
+Vw632
+p3010
+sg2992
+V2177771
+p3011
+sa(dp3012
+S'plot'
+p3013
+VBased on the true story of , from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.
+p3014
+sS'img'
+p3015
+Vhttp://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1._SX94_SY140_.jpg
+p3016
+sg2981
+VThe Wolf of Wall Street
+p3017
+sS'url'
+p3018
+S'http://akas.imdb.com/title/tt0993846/'
+p3019
+sg2985
+VUSA
+p3020
+sg2987
+VMartin Scorsese
+p3021
+sg2989
+Vw630
+p3022
+sg2991
+I2013
+sg2992
+V993846
+p3023
+sa(dp3024
+g2981
+VLast Vegas
+p3025
+sg2985
+VUSA
+p3026
+sg2991
+I2013
+sg2987
+VJon Turteltaub
+p3027
+sg2989
+Vw631
+p3028
+sg2992
+V1204975
+p3029
+sa(dp3030
+g2981
+VMandela: Long Walk to Freedom
+p3031
+sg2985
+VUK
+p3032
+sg2991
+I2013
+sg2987
+VJustin Chadwick
+p3033
+sg2989
+Vw626
+p3034
+sg2992
+V2304771
+p3035
+sa(dp3036
+S'plot'
+p3037
+VIn 2035 a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
+p3038
+sS'img'
+p3039
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQwNzI5NTQ0OF5BMl5BanBnXkFtZTYwMTI3Mjk2._V1._SX94_SY140_.jpg
+p3040
+sg2981
+VI, Robot
+p3041
+sS'url'
+p3042
+S'http://akas.imdb.com/title/tt0343818/'
+p3043
+sg2985
+VUSA
+p3044
+sg2987
+VAlex Proyas
+p3045
+sg2989
+Vw637
+p3046
+sg2991
+I2004
+sg2992
+V343818
+p3047
+sa(dp3048
+S'plot'
+p3049
+VA team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+p3050
+sS'img'
+p3051
+Vhttp://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1._SX90_SY140_.jpg
+p3052
+sg2981
+VInterstellar
+p3053
+sS'url'
+p3054
+S'http://akas.imdb.com/title/tt0816692/'
+p3055
+sg2985
+VUSA
+p3056
+sg2987
+VChristopher Nolan
+p3057
+sg2989
+Vw635
+p3058
+sg2991
+I2014
+sg2992
+V816692
+p3059
+sa(dp3060
+S'plot'
+p3061
+VWhen his job along with that of his co-worker are threatened, Walter takes action in the real world embarking on a global journey that turns into an adventure more extraordinary than anything he could have ever imagined.
+p3062
+sS'img'
+p3063
+Vhttp://ia.media-imdb.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1._SX94_SY140_.jpg
+p3064
+sg2981
+VThe Secret Life of Walter Mitty
+p3065
+sS'url'
+p3066
+S'http://akas.imdb.com/title/tt0359950/'
+p3067
+sg2985
+VUSA
+p3068
+sg2987
+VBen Stiller
+p3069
+sg2989
+Vw625
+p3070
+sg2991
+I2013
+sg2992
+V359950
+p3071
+sa(dp3072
+g2981
+VCaptain Phillips
+p3073
+sg2985
+VUSA
+p3074
+sg2991
+I2013
+sg2987
+VPaul Greengrass
+p3075
+sg2989
+Vw624
+p3076
+sg2992
+V1535109
+p3077
+sa(dp3078
+g2981
+VFrozen
+p3079
+sg2985
+VUSA
+p3080
+sg2991
+I2013
+sg2987
+VChris Buck
+p3081
+sg2989
+Vw627
+p3082
+sg2992
+V2294629
+p3083
+sa(dp3084
+g2981
+V2001: A Space Odyssey
+p3085
+sg2985
+VUSA
+p3086
+sg2991
+I1968
+sg2987
+VStanley Kubrick
+p3087
+sg2989
+Vw640
+p3088
+sg2992
+V62622
+p3089
+sa(dp3090
+S'plot'
+p3091
+VA teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.
+p3092
+sS'img'
+p3093
+Vhttp://ia.media-imdb.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1._SX98_SY140_.jpg
+p3094
+sg2981
+VJagten
+p3095
+sS'url'
+p3096
+S'http://akas.imdb.com/title/tt2106476/'
+p3097
+sg2985
+VDenmark
+p3098
+sg2987
+VThomas Vinterberg
+p3099
+sg2989
+Vw621
+p3100
+sg2991
+I2012
+sg2992
+V2106476
+p3101
+sa(dp3102
+g2981
+VGravity
+p3103
+sg2985
+VUSA
+p3104
+sg2991
+I2013
+sg2987
+VAlfonso Cuarón
+p3105
+sg2989
+Vw623
+p3106
+sg2992
+V1454468
+p3107
+sa(dp3108
+g2981
+VLuftslottet som sprängdes
+p3109
+sg2985
+VSweden
+p3110
+sg2991
+I2009
+sg2987
+VDaniel Alfredson
+p3111
+sg2989
+Vw622
+p3112
+sg2992
+V1343097
+p3113
+sa(dp3114
+g2981
+VAmerican Hustle
+p3115
+sg2985
+VUSA
+p3116
+sg2991
+I2013
+sg2987
+VDavid O. Russell
+p3117
+sg2989
+Vw629
+p3118
+sg2992
+V1800241
+p3119
+sa(dp3120
+g2981
+VThe Summit
+p3121
+sg2985
+VIreland
+p3122
+sg2991
+I2012
+sg2987
+VNick Ryan
+p3123
+sg2989
+Vw628
+p3124
+sg2992
+V2363471
+p3125
+sa(dp3126
+S'title'
+p3127
+VFesten
+p3128
+sS'country'
+p3129
+VDenmark
+p3130
+sS'year'
+p3131
 I1998
 sS'director'
-p3073
-VThomas Vinterberg
-p3074
-sS'wolfloc'
-p3075
-Vw620
-p3076
-sS'imdbid'
-p3077
-V154420
-p3078
-sa(dp3079
-g3068
-VBicentennial Man
-p3080
-sg3070
-VUSA
-p3081
-sg3072
-I1999
-sg3073
-VChris Columbus
-p3082
-sg3075
-Vw634
-p3083
-sg3077
-V182789
-p3084
-sa(dp3085
-S'title'
-p3086
-VDallas Buyers Club
-p3087
-sS'country'
-p3088
-VUSA
-p3089
-sS'year'
-p3090
-I2013
-sS'director'
-p3091
-VJean-Marc Vallée
-p3092
-sS'wolfloc'
-p3093
-Vw633
-p3094
-sS'imdbid'
-p3095
-V790636
-p3096
-sa(dp3097
-S'title'
-p3098
-VDallas Buyers Club
-p3099
-sS'country'
-p3100
-VUSA
-p3101
-sS'year'
-p3102
-I2013
-sS'director'
-p3103
-VJean-Marc Vallée
-p3104
-sS'wolfloc'
-p3105
-Vw633
-p3106
-sS'imdbid'
-p3107
-V790636
-p3108
-sa(dp3109
-g3098
-VHiroshima mon amour
-p3110
-sg3100
-VFrance
-p3111
-sg3102
-I1959
-sg3103
-VAlain Resnais
-p3112
-sg3105
-Vw643
-p3113
-sg3107
-V52893
-p3114
-sa(dp3115
-g3098
-VDer Baader Meinhof Komplex
-p3116
-sg3100
-VGermany
-p3117
-sg3102
-I2008
-sg3103
-VUli Edel
-p3118
-sg3105
-Vw642
-p3119
-sg3107
-V765432
-p3120
-sa(dp3121
-g3098
-VDumb & Dumber
-p3122
-sg3100
-VUSA
-p3123
-sg3102
-I1994
-sg3103
-VPeter Farrelly
-p3124
-sg3105
-Vw641
-p3125
-sg3107
-V109686
-p3126
-sa(dp3127
-g3098
-VNinja
-p3128
-sg3100
-VUSA
-p3129
-sg3102
-I2009
-sg3103
-VIsaac Florentine
-p3130
-sg3105
-Vw647
-p3131
-sg3107
-V1182921
 p3132
-sa(dp3133
-g3098
-VMonsters vs. Aliens
+VThomas Vinterberg
+p3133
+sS'wolfloc'
 p3134
-sg3100
-VUSA
+Vw620
 p3135
-sg3102
-I2009
-sg3103
-VRob Letterman
+sS'imdbid'
 p3136
-sg3105
-Vw646
+V154420
 p3137
-sg3107
-V892782
-p3138
-sa(dp3139
-g3098
-VThe Incredible Hulk
+sa(dp3138
+g3127
+VBicentennial Man
+p3139
+sg3129
+VUSA
 p3140
-sg3100
-VUSA
-p3141
-sg3102
-I2008
-sg3103
-VLouis Leterrier
-p3142
-sg3105
-Vw645
-p3143
-sg3107
-V800080
-p3144
-sa(dp3145
-g3098
-VHouse on Haunted Hill
-p3146
-sg3100
-VUSA
-p3147
-sg3102
+sg3131
 I1999
-sg3103
-VWilliam Malone
+sg3132
+VChris Columbus
+p3141
+sg3134
+Vw634
+p3142
+sg3136
+V182789
+p3143
+sa(dp3144
+S'title'
+p3145
+VDallas Buyers Club
+p3146
+sS'country'
+p3147
+VUSA
 p3148
-sg3105
-Vw644
+sS'year'
 p3149
-sg3107
-V185371
+I2013
+sS'director'
 p3150
+VJean-Marc Vallée
+p3151
+sS'wolfloc'
+p3152
+Vw633
+p3153
+sS'imdbid'
+p3154
+V790636
+p3155
+sa(dp3156
+S'plot'
+p3157
+VIn 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.
+p3158
+sS'img'
+p3159
+Vhttp://ia.media-imdb.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1._SX94_SY140_.jpg
+p3160
+sS'title'
+p3161
+VDallas Buyers Club
+p3162
+sS'url'
+p3163
+S'http://akas.imdb.com/title/tt0790636/'
+p3164
+sS'country'
+p3165
+VUSA
+p3166
+sS'director'
+p3167
+VJean-Marc Vallée
+p3168
+sS'wolfloc'
+p3169
+Vw633
+p3170
+sS'year'
+p3171
+I2013
+sS'imdbid'
+p3172
+V790636
+p3173
+sa(dp3174
+g3161
+VHiroshima mon amour
+p3175
+sg3165
+VFrance
+p3176
+sg3171
+I1959
+sg3167
+VAlain Resnais
+p3177
+sg3169
+Vw643
+p3178
+sg3172
+V52893
+p3179
+sa(dp3180
+S'plot'
+p3181
+VA look at Germany's terrorist group, The Red Army Faction (RAF), which organized bombings, robberies, kidnappings and assassinations in the late 1960s and '70s.
+p3182
+sS'img'
+p3183
+Vhttp://ia.media-imdb.com/images/M/MV5BMTg4OTY5OTY5OV5BMl5BanBnXkFtZTcwMjk1MzY3Mg@@._V1._SX95_SY140_.jpg
+p3184
+sg3161
+VDer Baader Meinhof Komplex
+p3185
+sS'url'
+p3186
+S'http://akas.imdb.com/title/tt0765432/'
+p3187
+sg3165
+VGermany
+p3188
+sg3167
+VUli Edel
+p3189
+sg3169
+Vw642
+p3190
+sg3171
+I2008
+sg3172
+V765432
+p3191
+sa(dp3192
+S'plot'
+p3193
+VThe cross-country adventures of two good-hearted but incredibly stupid friends.
+p3194
+sS'img'
+p3195
+Vhttp://ia.media-imdb.com/images/M/MV5BMTIzNDI5MTc0M15BMl5BanBnXkFtZTYwMjM5NDU5._V1._SX100_SY136_.jpg
+p3196
+sg3161
+VDumb & Dumber
+p3197
+sS'url'
+p3198
+S'http://akas.imdb.com/title/tt0109686/'
+p3199
+sg3165
+VUSA
+p3200
+sg3167
+VPeter Farrelly
+p3201
+sg3169
+Vw641
+p3202
+sg3171
+I1994
+sg3172
+V109686
+p3203
+sa(dp3204
+g3161
+VNinja
+p3205
+sg3165
+VUSA
+p3206
+sg3171
+I2009
+sg3167
+VIsaac Florentine
+p3207
+sg3169
+Vw647
+p3208
+sg3172
+V1182921
+p3209
+sa(dp3210
+g3161
+VMonsters vs. Aliens
+p3211
+sg3165
+VUSA
+p3212
+sg3171
+I2009
+sg3167
+VRob Letterman
+p3213
+sg3169
+Vw646
+p3214
+sg3172
+V892782
+p3215
+sa(dp3216
+S'plot'
+p3217
+VBruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he emerges whenever he loses his temper. However, Banner then must fight a soldier whom unleashes himself as a threat stronger than he.
+p3218
+sS'img'
+p3219
+Vhttp://ia.media-imdb.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1._SX94_SY140_.jpg
+p3220
+sg3161
+VThe Incredible Hulk
+p3221
+sS'url'
+p3222
+S'http://akas.imdb.com/title/tt0800080/'
+p3223
+sg3165
+VUSA
+p3224
+sg3167
+VLouis Leterrier
+p3225
+sg3169
+Vw645
+p3226
+sg3171
+I2008
+sg3172
+V800080
+p3227
+sa(dp3228
+g3161
+VHouse on Haunted Hill
+p3229
+sg3165
+VUSA
+p3230
+sg3171
+I1999
+sg3167
+VWilliam Malone
+p3231
+sg3169
+Vw644
+p3232
+sg3172
+V185371
+p3233
 sa.

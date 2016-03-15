@@ -8,6 +8,7 @@ from   flask       import Flask, request, session, g, redirect, url_for, abort,\
                           render_template, flash
 from   imdb import IMDb
 from   BeautifulSoup import BeautifulSoup
+import urllib2
 
 
 #titles is a list of dictionaries with keys
@@ -86,6 +87,13 @@ def show_spec_movie(wolfloc):
 		movie = ia.get_movie(film['imdbid'])
 		if 'cover url' in movie.keys():
 			film['img']   = movie['cover url']
+#Grab film pic if it isnt in the database already.
+			if os.path.isfile('./wolfdvd/static/images/{0}.jpg'.format(wolfloc)):
+				pass
+			else:
+				img = urllib2.urlopen(film['img'])
+				with open('./wolfdvd/static/images/{0}.jpg'.format(wolfloc), 'w') as f:
+					f.write(img.read())
 			film['plot']  = movie.get('plot outline')
 			film['url']   = ia.get_imdbURL(movie)
 		else:
@@ -99,6 +107,7 @@ def show_spec_movie(wolfloc):
 		#imageData = urlObj.read()
 		#urlObj.close()
 	return render_template('film.html', film=film)
+
 
 #This view loops over titles in the database:
 @app.route('/modify_title/<wolfloc>', methods=['GET', 'POST'])
@@ -116,8 +125,14 @@ def modify_title(wolfloc):
 		film['title']  = result['title']
 		film['imdbid'] = result.movieID
 		film['url']    = ia.get_imdbURL(result)
+		movie = ia.get_movie(film['imdbid'])
+		film['plot']   = movie.get('plot outline')
 		films.append(film)
-	return render_template('modify_title.html', films=films)
+	if request.method=='POST':
+		return redirect(url_for('show_spec_movie', wolfloc))
+	else:
+		return render_template('modify_title.html', films=films)
+
 
 new_titles={}
 #enter the wolflocation and imdbid of the title

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
-
 <title> Wolfson DVD Library </title>
+<link href="http://netdna.bootstrapcdn.com/bootswatch/3.0.3/united/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
 <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css')}}">
 <div class=page>
   <h1>Wolfson DVD Library</h1>
@@ -12,12 +12,9 @@
   	<a href=" {{url_for('logout') }}"> log out </a>
   {%endif%}
   </div>
-
-
   {% for message in get_flashed_messages() %}
    <div class=flash>{{ message }} </div>
   {% endfor %}
-
 	<div class=navigation> 
 		{%if not session.logged_in %}
    		<li> <a href=" {{url_for('show_movies') }}"> Film Library </a></li>
@@ -27,6 +24,5 @@
    		<li> <a href=" {{url_for('remove_entry') }}"> Remove Entry </a></li>
 		{%endif%}
 	</div>
-
   {% block body %}{% endblock %}
 </div>
