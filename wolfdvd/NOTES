@@ -1,0 +1,14 @@
+Demo ajax form not actually using this:
+		$.ajax({
+			url  : '/modify_title/',
+			data :$('form').serialize(),
+			type : 'POST',
+			success: function(response){
+				console.log(response);
+			},
+			error: function(error){
+				console.log(error);
+			}
+
+Method for download images using urllib2 and/or requests module.
+http://stackoverflow.com/questions/13137817/how-to-download-image-using-requests
