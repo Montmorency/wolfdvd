@@ -109,6 +109,10 @@ def show_spec_movie(wolfloc):
 	return render_template('film.html', film=film)
 
 
+@app.route('/_modify_db/')
+def modify_db()
+	pass
+
 #This view loops over titles in the database:
 @app.route('/modify_title/<wolfloc>', methods=['GET', 'POST'])
 def modify_title(wolfloc):
@@ -129,10 +133,10 @@ def modify_title(wolfloc):
 		film['plot']   = movie.get('plot outline')
 		films.append(film)
 	if request.method=='POST':
+# I suppose the logic here is the ajax query
 		return redirect(url_for('show_spec_movie', wolfloc))
 	else:
 		return render_template('modify_title.html', films=films)
-
 
 new_titles={}
 #enter the wolflocation and imdbid of the title
@@ -154,6 +158,7 @@ def add_entry():
 		return render_template('add_movie.html')
 	else:
 		return render_template('add_movie.html')
+
 
 @app.route('/remove_entry', methods=['GET','POST'])
 def remove_entry():

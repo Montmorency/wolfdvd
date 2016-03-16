@@ -9,6 +9,43 @@ Demo ajax form not actually using this:
 			error: function(error){
 				console.log(error);
 			}
-
 Method for download images using urllib2 and/or requests module.
 http://stackoverflow.com/questions/13137817/how-to-download-image-using-requests
+
+Thinking about how to best interact with the movie database
+in the modify title page.
+
+There are some good stack overflow answers:
+	https://stackoverflow.com/questions/20355455/how-to-set-flask-url-for-in-jquery/20380437#20380437
+
+Including a link to a useful library for embedding
+flask utils in js:
+	://github.com/dantezhu/flask_util_js
+
+
+There is another large looking library for handling forms
+ WTForms.
+http://wtforms.readthedocs.org/en/latest/specific_problems.html
+
+http://stackoverflow.com/questions/20157520/passing-jquery-array-to-flask-variable?rq=1
+
+This one gives a good discussion about separating server-side code
+from client side and all interaction between the two needs 
+to be handled by message passing (e.g. sending json back and forth)
+	http://stackoverflow.com/questions/19784956/using-jinja2-template-under-knockout-attr-binding/19885146#19885146
+
+But my question is how to hook the json passing into the jquery code.
+
+Then there is this gem:
+http://stackoverflow.com/questions/1200266/submit-a-form-using-jquery
+
+Question:
+	I want to submit a form using jQuery. 
+	Can someone provide code, demo or example link.
+
+ For AJAX, there are many different possibilities, though you probably want to use either the ajax() or post() methods. Note that post() is really just a convenient way to call the ajax() method with a simplified, and limited, interface.
+
+This appears to be a very useful link.
+http://learn.jquery.com/about-jquery/how-jquery-works/
+
+

@@ -1,17 +1,13 @@
 $(function(){
 	console.log("Sanity Check.")
 	$("#btn-click").click(function(e) {
-		var input =$("input").val()
+		var imdbid =$("imdbid").val()
 		console.log(input)
 		$.ajax({
-			url  : '/modify_title/',
-			data :$('form').serialize(),
-			type : 'POST',
-			success: function(response){
-				console.log(response);
-			},
-			error: function(error){
-				console.log(error);
+			type: "Post"
+		  url: $SCRIPT_ROOT + '_modify_db'
+		 	data:{
+						imdbid: imdbid
 			}
 	});
 });

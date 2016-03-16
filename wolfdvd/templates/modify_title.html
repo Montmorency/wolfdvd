@@ -1,4 +1,8 @@
 {% extends "layout.html"%}
+<script type=text/javascript>
+  $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+</script>
+
 {% block body %}
   <h2> Modify Film</h2>
   <ul class=entries>
@@ -10,11 +14,10 @@
   </ul>
 	<h3> Modify Film Data </h3>
 	<form id="my-form" role="form">
-		<input id="film-data" class="form-control" type="text" placeholder="IMDB movie ID">
+		<input id="imdbid" class="form-control" type="text" placeholder="IMDB movie ID">
 		<br>
 		<button type="submit" id="btn-click" class="btn btn-primary btn-md"> Update ID </button>
 	</form>
-	<p class="results"></p>
 	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 	<script src="{{ url_for('static', filename='main.js') }}"></script>
