@@ -1,15 +1,4 @@
 {% extends "layout.html"%}
-	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-	<script "text/javascript">
-	  var $SCRIPT_ROOT = '/';
-		var $WOLFLOC     = '{{wolfloc}}';
-		console.log("SANITY");
-		console.log($SCRIPT_ROOT);
-		console.log($WOLFLOC);
-	</script>
-	<script src="{{ url_for('static', filename='main.js') }}"></script>
-
 {% block body %}
   <h2> Modify Film</h2>
   <ul class=entries>
@@ -21,13 +10,18 @@
   </ul>
 	<h3> Modify Film Data </h3>
   <div class="container">
-
-	<form method='POST' action='/_modify_db'  role="form">
-		<input id="imdbid" class="form-control" type="number" placeholder="IMDB movie ID">
-		<br>
-		<button type="submit" id="btn-click" class="btn btn-primary btn-md"> Update ID </button>
+	<form id="my-form" role="form">
+	<input id="imdbid" class="form-control" type="text" placeholder="IMDB movie ID">
+  <br>
 	</form>
-
+	<button type="submit" id="btn-click" class="btn btn-primary btn-md"> Update ID </button>
 	</div>
-
+	<script "text/javascript">
+		console.log("SANITY");
+	  var $SCRIPT_ROOT = '/';
+		var $WOLFLOC     = '{{wolfloc}}';
+		console.log($SCRIPT_ROOT);
+		console.log($WOLFLOC);
+	</script>
+	<script src="{{ url_for('static', filename='main.js') }}"></script>
 {% endblock %}

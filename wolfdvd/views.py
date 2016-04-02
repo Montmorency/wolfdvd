@@ -10,13 +10,10 @@ from   imdb import IMDb
 from   BeautifulSoup import BeautifulSoup
 import urllib2
 import json
-
-
 #titles is a list of dictionaries with keys
 #wolfloc, title, director, imdbid
 #this should be replaced by a decent database ORM
 #for instance... peewee.
-
 def check_db_integrity(titles):
 	for title in titles:
 		try:
@@ -111,8 +108,10 @@ def show_spec_movie(wolfloc):
 
 @app.route('/_modify_db', methods=['POST'])
 def modify_db():
-	stuff = request.form.get('imdbid')
-	return json.dumps(request.form)
+	imdbid  = request.form.get('imdbid')
+	wolfloc = request.form.get('wolfloc')
+	print imdbid, wolfloc
+	return redirect(url_for('show_movies'))
 
 #This view loops over titles in the database:
 @app.route('/modify_title/<wolfloc>', methods=['GET'])
@@ -149,12 +148,14 @@ def add_entry():
 		if film['wolfloc'] not in locations:
 		#append new film instance
 			import_imdb.imdb_to_dict(new_titles, g.db)
-		else:
+			flash('Film added to database!')
+		elif film['wolfloc'] in locations:
 			flash('That wolfson location is already taken!')
+		else:
+			flash('Error importing film.')
 		return render_template('add_movie.html')
 	else:
 		return render_template('add_movie.html')
-
 
 @app.route('/remove_entry', methods=['GET','POST'])
 def remove_entry():
