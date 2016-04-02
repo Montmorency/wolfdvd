@@ -1,14 +1,22 @@
 $(function(){
 	console.log("Sanity Check.")
-	$("#btn-click").click(function(e) {
-		var imdbid =$("imdbid").val()
-		console.log(input)
+	console.log($SCRIPT_ROOT)
+	console.log($WOLFLOC)
+	$("#btn-click").click(function() {
+		var imdbid =$("#imdbid").val();
+		console.log(imdbid);
 		$.ajax({
-			type: "Post"
-		  url: $SCRIPT_ROOT + '_modify_db'
-		 	data:{
-						imdbid: imdbid
-			}
+		  url: "/_modify_db",
+			data: {'hello':'world', 'hello': 'world!'}
+			dataType:'json'
+			type: "POST",
+    	success: function(data) {
+                console.log(data);
+								timeout 10000
+            },
+            error: function(error) {
+                console.log(error);
+            }
+		});
 	});
 });
-

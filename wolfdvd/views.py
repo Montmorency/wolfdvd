@@ -9,6 +9,7 @@ from   flask       import Flask, request, session, g, redirect, url_for, abort,\
 from   imdb import IMDb
 from   BeautifulSoup import BeautifulSoup
 import urllib2
+import json
 
 
 #titles is a list of dictionaries with keys
@@ -108,19 +109,18 @@ def show_spec_movie(wolfloc):
 		#urlObj.close()
 	return render_template('film.html', film=film)
 
-
-@app.route('/_modify_db/')
-def modify_db()
-	pass
+@app.route('/_modify_db', methods=['POST'])
+def modify_db():
+	stuff = request.form.get('imdbid')
+	return json.dumps(request.form)
 
 #This view loops over titles in the database:
-@app.route('/modify_title/<wolfloc>', methods=['GET', 'POST'])
+@app.route('/modify_title/<wolfloc>', methods=['GET'])
 def modify_title(wolfloc):
 	titles_wolfloc = clean_db(g.db)
 	film = titles_wolfloc[wolfloc]
 	ia = IMDb()
  	s_results = ia.search_movie(film['title'])
-	#s_results = []
 	print s_results
 	films = []
 	for result in s_results:
@@ -132,11 +132,7 @@ def modify_title(wolfloc):
 		movie = ia.get_movie(film['imdbid'])
 		film['plot']   = movie.get('plot outline')
 		films.append(film)
-	if request.method=='POST':
-# I suppose the logic here is the ajax query
-		return redirect(url_for('show_spec_movie', wolfloc))
-	else:
-		return render_template('modify_title.html', films=films)
+	return render_template('modify_title.html', films=films, wolfloc=wolfloc)
 
 new_titles={}
 #enter the wolflocation and imdbid of the title
