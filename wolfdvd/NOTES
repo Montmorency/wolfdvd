@@ -1,7 +1,7 @@
 Demo ajax form not actually using this:
 		$.ajax({
 			url  : '/modify_title/',
-			data :$('form').serialize(),
+			data : $('form').serialize(),
 			type : 'POST',
 			success: function(response){
 				console.log(response);
@@ -9,8 +9,9 @@ Demo ajax form not actually using this:
 			error: function(error){
 				console.log(error);
 			}
-Method for download images using urllib2 and/or requests module.
-http://stackoverflow.com/questions/13137817/how-to-download-image-using-requests
+
+Method for downloading images using urllib2 and/or requests module:
+	http://stackoverflow.com/questions/13137817/how-to-download-image-using-requests
 
 Thinking about how to best interact with the movie database
 in the modify title page.
@@ -20,14 +21,12 @@ There are some good stack overflow answers:
 
 Including a link to a useful library for embedding
 flask utils in js:
-	://github.com/dantezhu/flask_util_js
+	github.com/dantezhu/flask_util_js
 
 
-There is another large looking library for handling forms
- WTForms.
-http://wtforms.readthedocs.org/en/latest/specific_problems.html
-
-http://stackoverflow.com/questions/20157520/passing-jquery-array-to-flask-variable?rq=1
+There is another large looking library for handling forms WTForms:
+	http://wtforms.readthedocs.org/en/latest/specific_problems.html
+	http://stackoverflow.com/questions/20157520/passing-jquery-array-to-flask-variable?rq=1
 
 This one gives a good discussion about separating server-side code
 from client side and all interaction between the two needs 
@@ -35,17 +34,70 @@ to be handled by message passing (e.g. sending json back and forth)
 	http://stackoverflow.com/questions/19784956/using-jinja2-template-under-knockout-attr-binding/19885146#19885146
 
 But my question is how to hook the json passing into the jquery code.
-
 Then there is this gem:
-http://stackoverflow.com/questions/1200266/submit-a-form-using-jquery
+	http://stackoverflow.com/questions/1200266/submit-a-form-using-jquery
 
 Question:
 	I want to submit a form using jQuery. 
 	Can someone provide code, demo or example link.
 
- For AJAX, there are many different possibilities, though you probably want to use either the ajax() or post() methods. Note that post() is really just a convenient way to call the ajax() method with a simplified, and limited, interface.
+	For AJAX, there are many different possibilities, though you probably want to use either the 
+	ajax() or post() methods. Note that post() is really just a convenient way to call the ajax() method 
+	with a simplified, and limited, interface.
 
-This appears to be a very useful link.
-http://learn.jquery.com/about-jquery/how-jquery-works/
+This appears to be a very useful link:
+	http://learn.jquery.com/about-jquery/how-jquery-works/
+
+My jquery global variables had to come after the jquery js stuff was loaded. This makes sense...
+
+Sun 20 Mar 2016 03:07:44 CET
+So the main issues so far have been simple syntactic errors with JS.
+Conceptually though I'm having a few problems with the best way
+to interact with the database using the forms, and POST method etc.
+What view function and where it should be handled. I think this
+is where with type constructions would come in handy. Also I'm doing
+a little bit more reading about the request object. I need to 
+understand how long that persists.
+
+Ajax has a .data attribute which can be accessed client or server side. 
+	http://stackoverflow.com/questions/23949395/how-to-pass-a-javascript-array-to-a-python-script-using-flask-using-flask-examp?rq=1
+
+
+Was gettin some funny errors with the posting:
+
+Exception happened during processing of request from ('127.0.0.1', 54506)
+Traceback (most recent call last):
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py", line 651, in __init__
+    self.finish()
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/SocketServer.py", line 710, in finish
+    self.wfile.close()
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 279, in close
+    self.flush()
+Adding:
+	timeout:10000
+	got rid of exceptions.
+	https://bugs.python.org/issue14574
+
+Sat  2 Apr 2016 19:53:02 CEST
+Back tackling some jquery again. I had the function to be run on click nested inside another function. 
+A good demonstrative git hub account where jquery and flask are being looked at
+can be found at:
+	https://github.com/avidas/flask-jquery/blob/master/templates/dom_edit.html
+
+He tests the add numbers server side example recommended in the Flask tutorial and
+also the use of a comment box.
+<div id="comment">
+<textarea name="comment[body]" tabindex="1" id="comment_body_622" placeholder="Leave a comment" 
+class="comment-form-textarea js-comment-field  js-quote-selection-target  
+input-with-fullscreen-icon" data-suggester="622_new_preview_suggester" required=""></textarea>
+</div>
+
+Mon 18 Apr 2016 22:16:43 CEST
 
 
