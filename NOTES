@@ -1,0 +1,19 @@
+http://stackoverflow.com/questions/10774775/jquery-iframe-hide-show
+
+This could be useful for showing the txt file input cards in Imeall.
+
+If one defines an <iframe> tag with an id of <contentIframe> 
+the jquery commands:
+
+Show the frame:
+$("contentIframe").show();
+
+and hide the <iframe>:
+
+$("contentIframe").hide();
+
+
+
+
+
+

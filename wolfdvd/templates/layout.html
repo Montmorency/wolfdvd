@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
-<title> Wolfson DVD Library </title>
+<title> Wolfson College DVD Library </title>
 <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css')}}">
 <link href="http://netdna.bootstrapcdn.com/bootswatch/3.0.3/united/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <div class=page>
-  <h1>Wolfson DVD Library</h1>
+  <h1>Wolfson College DVD Library</h1>
   <div class=metanav> 
   {%if not session.logged_in %}
     <a href="{{url_for('login')}}"> log in </a>

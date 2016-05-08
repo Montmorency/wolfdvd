@@ -1,14 +1,18 @@
 {% extends "layout.html" %}
-<script "text/javascript">
-	console.log("SANITY")
-</script>
 {% block body %}
   <ul class=entries>
-  <a href='?sort=wolfloc'>Sort by ID</a>
-  <a href='?sort=title'>Sort by title</a>
-  <a href='?sort=director'>Sort by director</a>
+  <a href='?sort=wolfloc'>Sort by ID</a> &nbsp
+  <a href='?sort=title'>     Sort by title</a>&nbsp
+  <a href='?sort=director'>    Sort by director</a>
   {% for title in titles %}
-    <li>{{title.wolfloc}}  <em><a href={{ url_for('show_spec_movie', wolfloc=title.wolfloc)}}>{{title.title}}</a></em>  {{title.director}}</li>
+    <li>{{title.wolfloc}} &nbsp  <em><a href={{ url_for('show_spec_movie', wolfloc=title.wolfloc)}}>{{title.title}}</a></em> &nbsp  {{title.director}}</li>
   {% endfor%}
   </ul>
+<h2> Isaiah's Picks </h2>
+	<p> Here are some highly recommended Wolfson Favourites. </p>
+	<img src = {{url_for('static', filename='isaiah.jpg')}} width=200>
+	<br><br>
+	<ul>
+	<li> w316 &nbsp <em><a href={{ url_for('show_spec_movie', wolfloc="w316")}}>The Life Aquatic with Steve Zissou</a></em> &nbsp  Wes Anderson </li>
+	</ul>
 {% endblock %}

@@ -36,12 +36,14 @@ def find_imdb_ids(title):
 
 @app.before_request
 def before_request():
+#access database:
 	f    = open(app.config['DATABASE'], 'r')
 	g.db = pickle.load(f)
 	f.close()
 
 @app.teardown_request
 def teardown_request(exception):
+#write database with any changes.
 	f    = open(app.config['DATABASE'], 'w')
 	pickle.dump(g.db, f)	
 	f.close()
@@ -56,7 +58,7 @@ def login():
           error = 'Invalid password'
       else:
           session['logged_in'] = True
-          flash('You were logged in')
+          flash('You have been logged in as an administrator.')
           return redirect(url_for('show_movies'))
   return render_template('login.html', error=error)
 
@@ -92,37 +94,57 @@ def show_spec_movie(wolfloc):
 				img = urllib2.urlopen(film['img'])
 				with open('./wolfdvd/static/images/{0}.jpg'.format(wolfloc), 'w') as f:
 					f.write(img.read())
-			film['plot']  = movie.get('plot outline')
+			if 'plot' in film.keys():
+				if film['plot'] == '':
+					film['plot']  = movie.get('plot outline')
+				else:
+					pass
+			else:
+				film['plot']  = movie.get('plot outline')
 			film['url']   = ia.get_imdbURL(movie)
 		else:
 			print 'no cover_url'
 			film['img']='http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'	
-			film['plot'] = ''
+			if film.has_key('plot'):
+				pass
+			else:
+				film['plot'] = 'No plot available, please notify administrator.'
 	except KeyError:
 			film['img'] = 'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'	
 			film['plot'] = ''
 		#urlObj = urllib.urlopen(movie['cover url'])
 		#imageData = urlObj.read()
 		#urlObj.close()
+	for title in g.db:
+		if title['wolfloc'] == wolfloc:
+#update plots
+			title['plot'] = film['plot']
 	return render_template('film.html', film=film)
 
-@app.route('/_modify_db', methods=['POST'])
+@app.route('/_modify_db', methods=['GET', 'POST'])
 def modify_db():
 	imdbid  = request.form.get('imdbid')
 	wolfloc = request.form.get('wolfloc')
-	print imdbid, wolfloc
-	return redirect(url_for('show_movies'))
+#brutal query of my pickle database!
+	for title in g.db:
+		if title['wolfloc'] == wolfloc:
+			title['imdbid'] = imdbid
+		else:
+			pass
+	return url_for('show_spec_movie',wolfloc=wolfloc)
 
 #This view loops over titles in the database:
 @app.route('/modify_title/<wolfloc>', methods=['GET'])
 def modify_title(wolfloc):
 	titles_wolfloc = clean_db(g.db)
 	film = titles_wolfloc[wolfloc]
+	flash('Searching IMDB for matching titles. This may take a moment.')
 	ia = IMDb()
  	s_results = ia.search_movie(film['title'])
 	print s_results
 	films = []
-	for result in s_results:
+#Only showing top five results.
+	for result in s_results[:4]:
 		film = {}
 		print result
 		film['title']  = result['title']
