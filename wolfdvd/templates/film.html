@@ -2,6 +2,7 @@
 {% block body %}
 	{% if session.logged_in %}
 	<div class=navigation> <li> <a href= "{{ url_for('modify_title', wolfloc=film.wolfloc) }}"> Modify Title </a></li></div>
+  <a href='?refresh=refresh'> Refresh data </a>
 	{% endif %}
   <h2> {{film.title}}</h2>
   <img src="{{url_for('static', filename='images/{0}.jpg'.format(film.wolfloc))}}" alt="{0}".format(film.title) width=150>

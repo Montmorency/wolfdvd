@@ -83,38 +83,23 @@ def show_spec_movie(wolfloc):
 	titles_wolfloc = clean_db(g.db)
 	film = titles_wolfloc[wolfloc]
 	ia = IMDb()
-	try:
-		movie = ia.get_movie(film['imdbid'])
-		if 'cover url' in movie.keys():
-			film['img']   = movie['cover url']
-#Grab film pic if it isnt in the database already.
-			if os.path.isfile('./wolfdvd/static/images/{0}.jpg'.format(wolfloc)):
-				pass
-			else:
+	refresh= request.args.get('refresh','')
+	if os.path.isfile('./wolfdvd/static/images/{0}.jpg'.format(wolfloc)) and refresh!='refresh' and film['plot']:
+		pass
+	else:
+#Need to update record from IMDb
+		try:
+			movie = ia.get_movie(film['imdbid'])
+			if 'cover url' in movie.keys():
+				film['img']   = movie['cover url']
 				img = urllib2.urlopen(film['img'])
 				with open('./wolfdvd/static/images/{0}.jpg'.format(wolfloc), 'w') as f:
 					f.write(img.read())
-			if 'plot' in film.keys():
-				if film['plot'] == '':
-					film['plot']  = movie.get('plot outline')
-				else:
-					pass
-			else:
 				film['plot']  = movie.get('plot outline')
-			film['url']   = ia.get_imdbURL(movie)
-		else:
-			print 'no cover_url'
-			film['img']='http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'	
-			if film.has_key('plot'):
-				pass
-			else:
-				film['plot'] = 'No plot available, please notify administrator.'
-	except KeyError:
+				film['url']   = ia.get_imdbURL(movie)
+		except:
 			film['img'] = 'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'	
-			film['plot'] = ''
-		#urlObj = urllib.urlopen(movie['cover url'])
-		#imageData = urlObj.read()
-		#urlObj.close()
+			film['plot'] = 'No Film Plot Available.'
 	for title in g.db:
 		if title['wolfloc'] == wolfloc:
 #update plots
