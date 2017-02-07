@@ -1,15 +1,17 @@
 # -*- coding: utf-8 -*-
 import os
-import sqlite3
-import pickle
-from   import_list import load_db
-from   wolfdvd     import app, import_imdb
-from   flask       import Flask, request, session, g, redirect, url_for, abort,\
-                          render_template, flash
-from   imdb import IMDb
-from   BeautifulSoup import BeautifulSoup
-import urllib2
 import json
+import pickle
+import urllib2
+import sqlite3
+
+from imdb          import IMDb
+from BeautifulSoup import BeautifulSoup
+from import_list   import load_db
+from wolfdvd       import app, import_imdb
+from flask         import Flask, request, session, g, redirect, url_for, abort,\
+                          render_template, flash
+
 #titles is a list of dictionaries with keys
 #wolfloc, title, director, imdbid
 #this should be replaced by a decent database ORM
@@ -78,32 +80,22 @@ def show_movies():
   titles_sorted = sorted(g.db, key=lambda x: x[sort_key])
   return render_template('show_movies.html', titles=titles_sorted)
 
+@app.route('/movies/refresh/<wolfloc>')
+def refresh_film():
+  refresh= request.args.get('refresh','')
+  movie = ia.get_movie(film['imdbid'])
+  if 'cover url' in movie.keys():
+    film['img']   = movie['cover url']
+    img = urllib2.urlopen(film['img'])
+    with open('./wolfdvd/static/images/{0}.jpg'.format(wolfloc), 'w') as f:
+      f.write(img.read())
+    film['plot']  = movie.get('plot outline')
+    film['url']   = ia.get_imdbURL(movie)
+
 @app.route('/movies/<wolfloc>')
 def show_spec_movie(wolfloc):
 	titles_wolfloc = clean_db(g.db)
 	film = titles_wolfloc[wolfloc]
-	ia = IMDb()
-	refresh= request.args.get('refresh','')
-	if os.path.isfile('./wolfdvd/static/images/{0}.jpg'.format(wolfloc)) and refresh!='refresh' and film['plot']:
-		pass
-	else:
-#Need to update record from IMDb
-		try:
-			movie = ia.get_movie(film['imdbid'])
-			if 'cover url' in movie.keys():
-				film['img']   = movie['cover url']
-				img = urllib2.urlopen(film['img'])
-				with open('./wolfdvd/static/images/{0}.jpg'.format(wolfloc), 'w') as f:
-					f.write(img.read())
-				film['plot']  = movie.get('plot outline')
-				film['url']   = ia.get_imdbURL(movie)
-		except:
-			film['img'] = 'http://www.englandfootballonline.com/images/Books/WrightFoot.JPG'	
-			film['plot'] = 'No Film Plot Available.'
-	for title in g.db:
-		if title['wolfloc'] == wolfloc:
-#update plots
-			title['plot'] = film['plot']
 	return render_template('film.html', film=film)
 
 @app.route('/_modify_db', methods=['GET', 'POST'])
